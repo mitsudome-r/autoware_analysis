@@ -45207,6 +45207,13 @@
                 "login": "WJaworskiRobotec"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
           }
         ]
       }
@@ -76161,6 +76168,13 @@
                 "login": "takayuki5168"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YoshiRi"
+              }
+            }
           }
         ]
       }
@@ -78423,6 +78437,13 @@
                 "login": "knzo25"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "knzo25"
+              }
+            }
           }
         ]
       }
@@ -78567,6 +78588,13 @@
             "node": {
               "author": {
                 "login": "yukke42"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "knzo25"
               }
             }
           },
@@ -79264,6 +79292,20 @@
       "createdAt": "2023-03-22T09:40:59Z",
       "comments": {
         "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "ambroise-arm"
+              }
+            }
+          },
           {
             "node": {
               "author": {
@@ -80060,6 +80102,258 @@
             "node": {
               "author": {
                 "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTPCcJw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(pid_longitudinal_controller): fix build error",
+      "createdAt": "2023-03-27T06:49:11Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTPC7Fw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(controllers): fix build error",
+      "createdAt": "2023-03-27T06:55:36Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTPDksQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(behavior_path_planner): resample path in the route",
+      "createdAt": "2023-03-27T07:02:38Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTPMcyw==",
+    "node": {
+      "author": {
+        "login": "VRichardJP"
+      },
+      "title": "fix(pid_longitudinal_controller): add missing dependency",
+      "createdAt": "2023-03-27T08:51:17Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTPN4dA==",
+    "node": {
+      "author": {
+        "login": "VRichardJP"
+      },
+      "title": "fix(mpc_lateral_controller): fix missing compilation dependency",
+      "createdAt": "2023-03-27T09:05:17Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTQaLlw==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(mission_planner): add the interface to reroute while driving",
+      "createdAt": "2023-03-28T03:09:42Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTQaOLA==",
+    "node": {
+      "author": {
+        "login": "soblin"
+      },
+      "title": "fix(behavior_velocity_planner::intersection): show virtual wall when interrupted by RTC",
+      "createdAt": "2023-03-28T03:10:49Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTQd_YA==",
+    "node": {
+      "author": {
+        "login": "h-ohta"
+      },
+      "title": "fix(autonomous_emergency_braking): fix typo",
+      "createdAt": "2023-03-28T04:56:03Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
               }
             }
           }

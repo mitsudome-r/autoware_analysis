@@ -1,4 +1,6 @@
 08beeqtufail-sudo
+0x126
+1222-takeshi
 BonoloAWF
 Deepak3994
 DeepakVellampalli
@@ -60,6 +62,7 @@ hasanzfdn
 hueirutseng
 isamu-takagi
 ismetatabay
+isouf
 ito-san
 jason914
 k-obitsu
@@ -114,12 +117,14 @@ taikitanaka3
 takayuki5168
 takeshi-iwanari
 tkhmy
+tkimura4
 veqcc
 wep21
 wjxjmj
 xczhanjun
 xmfcx
 xqe2011
+yamacir-kit
 yamazakiTasuku
 yucedagonurcan
 yukke42

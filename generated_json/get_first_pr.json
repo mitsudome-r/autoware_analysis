@@ -1189,7 +1189,15 @@
       "title": "feat(autoware_map_msgs): add ALL_AREA mode",
       "createdAt": "2023-03-27T06:51:08Z",
       "comments": {
-        "edges": []
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          }
+        ]
       }
     }
   }

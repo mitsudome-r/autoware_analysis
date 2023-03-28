@@ -14955,6 +14955,13 @@
                 "login": "takayuki5168"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mehmetdogru"
+              }
+            }
           }
         ]
       }
@@ -17735,6 +17742,13 @@
                 "login": "kasperornmeck"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kasperornmeck"
+              }
+            }
           }
         ]
       }
@@ -18735,6 +18749,20 @@
                 "login": "mitsudome-r"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isouf"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isouf"
+              }
+            }
           }
         ]
       }
@@ -19164,6 +19192,13 @@
             "node": {
               "author": {
                 "login": "xmfcx"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kaancolak"
               }
             }
           }
@@ -19899,6 +19934,13 @@
                 "login": "yukkysaito"
               }
             }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              }
+            }
           }
         ]
       }
@@ -19955,6 +19997,62 @@
       "createdAt": "2023-03-27T05:32:51Z",
       "comments": {
         "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYdnQVg==",
+    "node": {
+      "author": {
+        "login": "VRichardJP"
+      },
+      "title": "`pid_longitudinal_controller` is missing `autoware_auto_geometry` dependency",
+      "createdAt": "2023-03-27T08:44:03Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYdpUlg==",
+    "node": {
+      "author": {
+        "login": "VRichardJP"
+      },
+      "title": "`mpc_lateral_controller` does not compile",
+      "createdAt": "2023-03-27T09:03:23Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "BonoloAWF"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "VRichardJP"
+              }
+            }
+          }
+        ]
       }
     }
   }

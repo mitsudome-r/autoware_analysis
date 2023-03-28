@@ -8,6 +8,7 @@ Bistuwwh
 BonoloAWF
 CagriCatik
 Croquembouche
+DanielShihTier4
 Deepak3994
 DeepakVellampalli
 Denri006
@@ -93,6 +94,7 @@ YueChuCheng
 YusufDALAK
 Zeysthingz
 aaryanmurgunde
+adamkrawczyk
 adnanhaf
 ahmeddesokyebrahim
 ahuazuipiaoliang
@@ -100,6 +102,7 @@ ajay1606
 akorb
 alanmengg
 albiim
+alexandrx
 amadeuszsz
 ambroise-arm
 amtommy
@@ -118,6 +121,7 @@ ataparlar
 awf-autoware-bot
 badai-nguyen
 bariskapaligoz
+bartek-kc
 batuhanbeytekin
 bdcong
 beginningfan
