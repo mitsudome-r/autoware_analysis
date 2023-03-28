@@ -1,0 +1,4479 @@
+[
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMzf7jw==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "ci: add sync-files.yaml",
+      "createdAt": "2022-02-21T10:28:29Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMzgL_Q==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-02-21T10:32:44Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMz2o7A==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-02-21T16:57:58Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOM2gt4g==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "fix: add group to each section",
+      "createdAt": "2022-02-24T13:54:41Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOM2hc7Q==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "fix: fix launch args",
+      "createdAt": "2022-02-24T14:07:17Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOM8R49Q==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): bump actions/checkout from 2 to 3",
+      "createdAt": "2022-03-02T00:51:56Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOM9lLOw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-02T19:04:57Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOM941GA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-03T04:27:03Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOM-lItw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-03T19:04:46Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONFSeFw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-12T00:07:26Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONFbJaA==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "chore: add NOTICE",
+      "createdAt": "2022-03-12T06:37:16Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONFpJRA==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "chore: sync issue and PR templates",
+      "createdAt": "2022-03-13T07:25:59Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONFpJyQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-13T07:27:06Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONOxw_A==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "chore: sync stale.yml",
+      "createdAt": "2022-03-24T04:14:04Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONPJ8Lg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-24T12:18:10Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONQxIkg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-03-26T00:08:13Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONYk1qw==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "ci(pre-commit): update pre-commit-hooks-ros",
+      "createdAt": "2022-04-03T02:16:41Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONZJQyg==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "fix: incorrect arguments and including launch",
+      "createdAt": "2022-04-04T09:30:42Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONZ7gwQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-05T00:08:04Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONan3Eg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-05T14:57:25Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONbOPiQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): update autoware.rviz not to visualize obstacle_avoidance_planner markers",
+      "createdAt": "2022-04-06T04:13:24Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONb4W-Q==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: cosmetic change autoware.rviz for perception",
+      "createdAt": "2022-04-06T15:28:05Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONb7UNw==",
+    "node": {
+      "author": {
+        "login": "taikitanaka3"
+      },
+      "title": "feat(autoware_launch): update autoware.rviz not to visualize occlusion spot markers",
+      "createdAt": "2022-04-06T16:15:56Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONd1rnA==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "feat: add autoware_api.launch.xml to launch files in autoware_launch package",
+      "createdAt": "2022-04-08T10:37:05Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "angry-crab"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "angry-crab"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yamacir-kit"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONfJbMg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-10T00:08:46Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONf194g==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(obstacle_avoidance_planner): add obstacle_avoidance_planner wall marker in autoware.rviz",
+      "createdAt": "2022-04-11T10:24:43Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONgRkSA==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-04-11T17:03:39Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONiQp-Q==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-13T00:09:02Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONlI88Q==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-17T00:09:33Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONpBcBA==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "ci(sync-files): sync github-release.yaml",
+      "createdAt": "2022-04-21T14:35:32Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONpdIHA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-22T00:09:51Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONr2ozg==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-04-25T16:52:39Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONsLq_Q==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-04-26T00:09:34Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONsmgKA==",
+    "node": {
+      "author": {
+        "login": "TomohitoAndo"
+      },
+      "title": "feat: add arguments for pointcloud container to planning",
+      "createdAt": "2022-04-26T09:40:45Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "TomohitoAndo"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "TomohitoAndo"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONwNt_A==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "Feature/organize control launch",
+      "createdAt": "2022-04-29T06:07:02Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONzLQuA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-05-03T00:09:16Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHON3Ribw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-05-08T00:09:47Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOBtp5g==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat: organize localization launch and config",
+      "createdAt": "2022-05-19T09:47:19Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOODrfzA==",
+    "node": {
+      "author": {
+        "login": "TakaHoribe"
+      },
+      "title": "refactor: update rviz config for virtual wall marker separation",
+      "createdAt": "2022-05-21T08:14:07Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "taikitanaka3"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOE71zw==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-05-23T16:53:20Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOFWwsw==",
+    "node": {
+      "author": {
+        "login": "TakaHoribe"
+      },
+      "title": "feat(rviz_plugin): adaptive scaling for display size",
+      "createdAt": "2022-05-24T04:29:03Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOGZ1Hg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-05-25T00:12:06Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOI5lew==",
+    "node": {
+      "author": {
+        "login": "shmpwk"
+      },
+      "title": "docs: update README",
+      "createdAt": "2022-05-27T01:35:09Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": null
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOJ10aw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-05-28T00:10:08Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOLH1_w==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-05-30T16:54:16Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOLeESQ==",
+    "node": {
+      "author": {
+        "login": "h-ohta"
+      },
+      "title": "feat: disable some namespace for lanelet2",
+      "createdAt": "2022-05-31T06:24:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOQ9jmg==",
+    "node": {
+      "author": {
+        "login": "h-ohta"
+      },
+      "title": "fix(mission_planner): disable lane_start_bound in Rviz",
+      "createdAt": "2022-06-03T10:28:22Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOelUrQ==",
+    "node": {
+      "author": {
+        "login": "taikitanaka3"
+      },
+      "title": "chore: update to universe config",
+      "createdAt": "2022-06-19T23:46:15Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOfZ0Fg==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-06-20T16:55:34Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOnUpeg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-06-28T00:11:26Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOs-Hgg==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-07-04T17:07:28Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOt4agw==",
+    "node": {
+      "author": {
+        "login": "tkimura4"
+      },
+      "title": "feat: add line_width property to object display",
+      "createdAt": "2022-07-05T16:39:32Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOxpdgA==",
+    "node": {
+      "author": {
+        "login": "shmpwk"
+      },
+      "title": "chore: rviz setting",
+      "createdAt": "2022-07-08T12:03:20Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "taikitanaka3"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "taikitanaka3"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOxq5Ww==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "chore(rviz): update rviz config for pull_over",
+      "createdAt": "2022-07-08T12:26:18Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOyoAeQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "refactor(autoware_launch): use autoware.launch.xml in planning/logging_simulator.launch.xml",
+      "createdAt": "2022-07-11T03:14:11Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOOzU4yA==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-07-11T17:01:59Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOO9j1Vg==",
+    "node": {
+      "author": {
+        "login": "mehmetdogru"
+      },
+      "title": "feat: add speed bump debug markers to autoware.rviz",
+      "createdAt": "2022-07-21T11:38:41Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPBXI1w==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "ci: add sync-param-files",
+      "createdAt": "2022-07-26T05:16:41Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPBdmzQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync param files",
+      "createdAt": "2022-07-26T07:43:21Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPBfscw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): add module launch param path",
+      "createdAt": "2022-07-26T08:19:11Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mergify"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPCsWtA==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_launch): change pose initialization",
+      "createdAt": "2022-07-27T10:05:14Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPEp4Iw==",
+    "node": {
+      "author": {
+        "login": "taikitanaka3"
+      },
+      "title": "fix: use sim time option",
+      "createdAt": "2022-07-29T03:34:58Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "taikitanaka3"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "taikitanaka3"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPHq7qA==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_launch): add rviz helper for ad api",
+      "createdAt": "2022-08-02T06:35:06Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPH4IMQ==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_launch): add auto initial pose",
+      "createdAt": "2022-08-02T09:54:33Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPH4REw==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_launch): apply the change of pose initializer",
+      "createdAt": "2022-08-02T09:56:42Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPJzfhw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-08-04T00:10:09Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPLF0EA==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "chore(autoware_launch): designate vehicle_id to tier4_control_launch",
+      "createdAt": "2022-08-05T05:21:55Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPV3BnA==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "ci: add a new workflow to update sync-param-files.yaml automatically",
+      "createdAt": "2022-08-18T06:00:44Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPZuLqw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: update sync-param-files.yaml",
+      "createdAt": "2022-08-23T03:46:01Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPa4OSw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: update sync-param-files.yaml",
+      "createdAt": "2022-08-24T00:08:28Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPdaWMQ==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_launch): add rviz ad api adaptors",
+      "createdAt": "2022-08-26T03:47:10Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPeeVKA==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: disable visualization of object pose covariance",
+      "createdAt": "2022-08-27T08:22:42Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPfbw4w==",
+    "node": {
+      "author": {
+        "login": "hasanzfdn"
+      },
+      "title": "feat(autoware_launch): add vehicle footprint to autoware.rviz",
+      "createdAt": "2022-08-29T12:09:40Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPhtVZA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-08-31T06:38:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPj_VGQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-09-02T00:10:46Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPkAy1A==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): bump tj-actions/changed-files from 28 to 29.0.2",
+      "createdAt": "2022-09-02T01:15:01Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPtQ5lA==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(rviz): update rviz planning module's debug marker",
+      "createdAt": "2022-09-13T02:27:50Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kosuke55"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPxMwVQ==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "fix: add adapi dependency",
+      "createdAt": "2022-09-16T06:20:44Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPxWl3A==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): add module launch param path",
+      "createdAt": "2022-09-16T09:06:34Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPxbOww==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat: move adapi rviz adaptor ",
+      "createdAt": "2022-09-16T10:21:37Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOPyIEfQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: update sync-param-files.yaml",
+      "createdAt": "2022-09-17T00:08:22Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP0_QgA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-09-21T00:13:37Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP3cDbA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-09-23T00:13:31Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP4yRpw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-09-25T00:13:57Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP5DVWA==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): bump tj-actions/changed-files from 29 to 31",
+      "createdAt": "2022-09-26T01:15:14Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP5GbGA==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "fix(autoware_launch): launch dummy_localization regardless of scenario_simulation flag",
+      "createdAt": "2022-09-26T02:32:37Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP8AlAQ==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "fix(ci): add comments in sync_param_files.yaml",
+      "createdAt": "2022-09-28T06:48:44Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP8BdSQ==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "ci(update-sync-param-files): add a comment on the top of sync-param-files.yaml",
+      "createdAt": "2022-09-28T07:04:25Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOP-YZSQ==",
+    "node": {
+      "author": {
+        "login": "shmpwk"
+      },
+      "title": "feat(autoware_launch): add e2e_simulator.launch.xml",
+      "createdAt": "2022-09-30T01:15:34Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQAO06g==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-10-03T00:15:52Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQFtz2Q==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-10-07T00:18:47Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQLEXpQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-10-13T00:15:13Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQLE3Hg==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): bump styfle/cancel-workflow-action from 0.10.1 to 0.11.0",
+      "createdAt": "2022-10-13T00:25:39Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQOZNZQ==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "fix(rviz): enlarge pointcloud size for NDT results",
+      "createdAt": "2022-10-17T06:40:33Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQUPdVw==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "feat(autoware_launch): add autoware_state_panel to autoware.rviz",
+      "createdAt": "2022-10-21T08:00:54Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQeWbRg==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: change planning output topic name",
+      "createdAt": "2022-10-31T16:00:51Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQgjq6A==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "feat(autoware_launch): add obstacle_collision_checker to launch",
+      "createdAt": "2022-11-02T08:43:22Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQgrmjw==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "feat(autoware_launch): add controller mode options to launch file",
+      "createdAt": "2022-11-02T10:11:46Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQhAhUg==",
+    "node": {
+      "author": {
+        "login": "kaancolak"
+      },
+      "title": "feat(autoware_launch): add point cloud container to localization launch",
+      "createdAt": "2022-11-02T14:34:52Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kaancolak"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kaancolak"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kaancolak"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQmbkyQ==",
+    "node": {
+      "author": {
+        "login": "s-azumi"
+      },
+      "title": "feat: set use_external_emergency_stop to false by default when launching psim",
+      "createdAt": "2022-11-08T09:13:16Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "h-ohta"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQmr8UA==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "refactor(autoware_launch): change pure_pursuit debug marker topic name",
+      "createdAt": "2022-11-08T12:15:12Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQqpElw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: update sync-param-files.yaml",
+      "createdAt": "2022-11-11T00:10:28Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQstr4g==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "ci: sync all the params from universe",
+      "createdAt": "2022-11-14T01:35:04Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQtGrtA==",
+    "node": {
+      "author": {
+        "login": "ito-san"
+      },
+      "title": "fix(autoware_launch): add parameter to launch launch_system_monitor",
+      "createdAt": "2022-11-14T09:23:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQtQKiQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): seperate component launch",
+      "createdAt": "2022-11-14T11:17:06Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQttEoA==",
+    "node": {
+      "author": {
+        "login": "mehmetdogru"
+      },
+      "title": "fix(rviz): update obstacle_avoidance_planner virtual_wall topic name",
+      "createdAt": "2022-11-14T16:46:24Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQ_D8qA==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: remove vehicle info path in each component of autoware_launch",
+      "createdAt": "2022-11-30T05:41:04Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQ_HiLw==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: remove web controller",
+      "createdAt": "2022-11-30T07:03:00Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORAU0Jw==",
+    "node": {
+      "author": {
+        "login": "kenji-miyake"
+      },
+      "title": "ci(pre-commit): update commit message",
+      "createdAt": "2022-12-01T02:40:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORE_GOg==",
+    "node": {
+      "author": {
+        "login": "shmpwk"
+      },
+      "title": "fix: change check_external_emergency_heartbeat false",
+      "createdAt": "2022-12-05T08:18:29Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "shmpwk"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORGwiNQ==",
+    "node": {
+      "author": {
+        "login": "shmpwk"
+      },
+      "title": "fix: rename use_external_emergency_stop to check_external_emergency_heartbeat",
+      "createdAt": "2022-12-06T02:43:19Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORKAgYw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): remove web_controller",
+      "createdAt": "2022-12-07T11:24:59Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORLVniQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync param files",
+      "createdAt": "2022-12-08T00:17:03Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORMIobA==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): update parameter configuration/localization",
+      "createdAt": "2022-12-08T08:49:14Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORMiQRg==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): add component launch in autoware launch",
+      "createdAt": "2022-12-08T12:19:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORRaUPw==",
+    "node": {
+      "author": {
+        "login": "rej55"
+      },
+      "title": "feat(autoware_launch): visualize multiple candidate paths",
+      "createdAt": "2022-12-11T13:42:18Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORSyBuA==",
+    "node": {
+      "author": {
+        "login": "shmpwk"
+      },
+      "title": "chore(release): update galactic branch",
+      "createdAt": "2022-12-12T10:39:45Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORThNLw==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2022-12-12T17:30:23Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORdljwg==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for map",
+      "createdAt": "2022-12-20T09:04:24Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORdlt3A==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for localization",
+      "createdAt": "2022-12-20T09:06:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORdl24w==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for system",
+      "createdAt": "2022-12-20T09:07:43Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORdnagw==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for perception",
+      "createdAt": "2022-12-20T09:27:23Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORdsQYA==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for simulator",
+      "createdAt": "2022-12-20T10:35:13Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORduaiw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for planning",
+      "createdAt": "2022-12-20T11:06:34Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORdxVVQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): move config from autoware.universe for control",
+      "createdAt": "2022-12-20T11:46:52Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORexCIA==",
+    "node": {
+      "author": {
+        "login": "purewater0901"
+      },
+      "title": "feat(autoware_launch): add bound visualization",
+      "createdAt": "2022-12-21T03:08:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORe9zQw==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "fix(autoware_launch): fix config path of system_error_monitor",
+      "createdAt": "2022-12-21T08:16:09Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORfDTfw==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "fix(autoware_launch): remove unnecessary `config` declaration",
+      "createdAt": "2022-12-21T09:30:10Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORfPwlA==",
+    "node": {
+      "author": {
+        "login": "mehmetdogru"
+      },
+      "title": "feat(autoware_launch): add speed bump parameters",
+      "createdAt": "2022-12-21T12:21:32Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mehmetdogru"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mehmetdogru"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORgOVOA==",
+    "node": {
+      "author": {
+        "login": "beyzanurkaya"
+      },
+      "title": "feat(autoware_launch): add boost check parameters for obstacle_avoidance_planner ",
+      "createdAt": "2022-12-22T07:08:29Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORgWBpA==",
+    "node": {
+      "author": {
+        "login": "beyzanurkaya"
+      },
+      "title": "feat(autoware_launch): add param for configurable lateral_distance",
+      "createdAt": "2022-12-22T09:14:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORgrg9g==",
+    "node": {
+      "author": {
+        "login": "badai-nguyen"
+      },
+      "title": "feat(perception): change detection region",
+      "createdAt": "2022-12-22T13:34:55Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORhX_Zw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2022-12-23T00:10:15Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORimMnw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat: update param path",
+      "createdAt": "2022-12-24T17:52:32Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORiq9Yg==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "fix: avoidance parameter file",
+      "createdAt": "2022-12-25T07:25:22Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "satoshi-ota"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORizi3A==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(avoidance): add new param for yield maneuver in avoidance module",
+      "createdAt": "2022-12-25T23:41:22Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORjFJHw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "refactor(autoware_launch): organize control yaml",
+      "createdAt": "2022-12-26T09:09:04Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORjVZgQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): enable use_individual_control_param",
+      "createdAt": "2022-12-26T16:19:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORkbkWw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): add missing param of vehicle_cmd_gate in yaml",
+      "createdAt": "2022-12-28T04:07:05Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORlh-9Q==",
+    "node": {
+      "author": {
+        "login": "lchojnack"
+      },
+      "title": "fix(autoware_launch): add z_axis_filtering params for obstacle_stop_planner node",
+      "createdAt": "2022-12-29T12:16:46Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORq5GGQ==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): add NDT parameters for dynamic_map_loading",
+      "createdAt": "2023-01-05T03:32:38Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORrCIRw==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(planning_launch): ignore unavoidable objects around the goal",
+      "createdAt": "2023-01-05T06:25:18Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORrV08w==",
+    "node": {
+      "author": {
+        "login": "1222-takeshi"
+      },
+      "title": "fix(behavior_velocity_planner): fix blind spot over-detection",
+      "createdAt": "2023-01-05T10:44:37Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORv2JBQ==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "feat(autoware_launch): update pure_pursuit parameters",
+      "createdAt": "2023-01-09T15:47:07Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORwh7VQ==",
+    "node": {
+      "author": {
+        "login": "cyn-liu"
+      },
+      "title": "fix(autoware-launch): add NDT parameters for de-grounded lidar scan matching",
+      "createdAt": "2023-01-10T02:31:17Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORwulbA==",
+    "node": {
+      "author": {
+        "login": "h-ohta"
+      },
+      "title": "feat(obstacle_stop_planner): add parameter for voxel_grid",
+      "createdAt": "2023-01-10T07:37:32Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORw8XcA==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "feat(autoware_launch): add controller_mode params as global variable",
+      "createdAt": "2023-01-10T10:50:01Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHORyTSiw==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "fix(lane_change): behavior planning common and lane change param",
+      "createdAt": "2023-01-11T10:26:15Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR0ZDIw==",
+    "node": {
+      "author": {
+        "login": "mehmetdogru"
+      },
+      "title": "feat(autoware_launch): add fitting_uniform_circle parameter for mpt",
+      "createdAt": "2023-01-12T19:29:37Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR0mJUw==",
+    "node": {
+      "author": {
+        "login": "maxime-clem"
+      },
+      "title": "feat(behavior_path_planner): param to skip some linestring types when expanding the drivable area",
+      "createdAt": "2023-01-12T23:33:48Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR0oBIQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync param files",
+      "createdAt": "2023-01-13T00:18:44Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR0tLwg==",
+    "node": {
+      "author": {
+        "login": "h-ohta"
+      },
+      "title": "fix(rviz): fix topic name for obstacle_stop_planner debug marker",
+      "createdAt": "2023-01-13T02:28:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR3HDWw==",
+    "node": {
+      "author": {
+        "login": "beyzanurkaya"
+      },
+      "title": "feat(autoware_launch): add enable_boost_check param",
+      "createdAt": "2023-01-16T08:38:41Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4DzKA==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "fix(autoware_launch): add missing simulator param",
+      "createdAt": "2023-01-17T00:58:18Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4HOYw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "refactor(autoware_launch): organize arguments for planning",
+      "createdAt": "2023-01-17T03:01:49Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4O-tw==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(behavior_path_planner): ignore pull over goal near lane start",
+      "createdAt": "2023-01-17T06:41:17Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4Q8Kg==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "chore(autoware_launch): minor fix with trajectory_follower param",
+      "createdAt": "2023-01-17T07:14:13Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4bnGQ==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(behavior_path_planner): add option for combining arc pull out paths",
+      "createdAt": "2023-01-17T10:00:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4i-Gg==",
+    "node": {
+      "author": {
+        "login": "meliketanrikulu"
+      },
+      "title": "chore: add lanelet2 map config",
+      "createdAt": "2023-01-17T11:35:55Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kminoda"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR4ka3g==",
+    "node": {
+      "author": {
+        "login": "mehmetdogru"
+      },
+      "title": "refactor(autoware_launch/bpp-avoidance): remove redundant parameters",
+      "createdAt": "2023-01-17T11:55:55Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR45crA==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(behavior_path_planner): ignore pull out start near lane end",
+      "createdAt": "2023-01-17T16:10:06Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOR5agjg==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): fix wrong parameter name",
+      "createdAt": "2023-01-18T01:50:39Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSBYVqg==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_launch): add tier4 autoware api component",
+      "createdAt": "2023-01-19T02:45:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSBciPg==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(obstacle_stop_planner): rename param for obstacle stop planner",
+      "createdAt": "2023-01-19T04:54:39Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSBkBKw==",
+    "node": {
+      "author": {
+        "login": "beyzanurkaya"
+      },
+      "title": "feat(autoware_launch): add param for considering footprint edges when check the drivable area",
+      "createdAt": "2023-01-19T07:40:27Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSC5wTg==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "fix(behavior_path_planner): prevent pull out back twice",
+      "createdAt": "2023-01-20T02:43:00Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSC7P5A==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "fix(lane_change): fix default abort param",
+      "createdAt": "2023-01-20T03:36:43Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSC8D3g==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): change planning parameters",
+      "createdAt": "2023-01-20T04:06:58Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSC9UoA==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): change behavior_velocity parameters",
+      "createdAt": "2023-01-20T04:51:04Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSC-qxQ==",
+    "node": {
+      "author": {
+        "login": "TakaHoribe"
+      },
+      "title": "feat(autoware_lauch): modify launch for planning_validator",
+      "createdAt": "2023-01-20T05:30:12Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSGcRRg==",
+    "node": {
+      "author": {
+        "login": "soblin"
+      },
+      "title": "feat(intersection): improve ego velocity prediction in collision detection",
+      "createdAt": "2023-01-24T08:31:01Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSGgWrg==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(autoware_launch): visualize modified_goal as PoseWithUuidStamped",
+      "createdAt": "2023-01-24T09:25:30Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSGrqFA==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "fix(lane_change): update default parameter",
+      "createdAt": "2023-01-24T11:41:12Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSG4fww==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(control_launch): add min_braking_distance to lane_departure_checker",
+      "createdAt": "2023-01-24T14:11:54Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSHqC9w==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): minor change with tier4_planning_component",
+      "createdAt": "2023-01-25T02:56:23Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSHsifQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): minor change with tier4_control_component",
+      "createdAt": "2023-01-25T04:16:23Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSJEQ9g==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): enable launch_deprecated_api",
+      "createdAt": "2023-01-26T06:08:26Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSKPkLg==",
+    "node": {
+      "author": {
+        "login": "soblin"
+      },
+      "title": "feat(intersection): add param for stuck stopline overshoot margin",
+      "createdAt": "2023-01-27T02:18:53Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSKQ6yQ==",
+    "node": {
+      "author": {
+        "login": "TakaHoribe"
+      },
+      "title": "feat(vehicle_cmd_gate): enable filter with actual steer in manual mode",
+      "createdAt": "2023-01-27T03:03:56Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSKQ-Aw==",
+    "node": {
+      "author": {
+        "login": "TakaHoribe"
+      },
+      "title": "feat(mpc_lateral_controller): add steering bias removal",
+      "createdAt": "2023-01-27T03:05:03Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSPrRNA==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "fix(occlusion_spot): occlusion spot parameter disable as default",
+      "createdAt": "2023-02-01T07:14:05Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "taikitanaka3"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSQf-YA==",
+    "node": {
+      "author": {
+        "login": "ahmeddesokyebrahim"
+      },
+      "title": "fix(obstacle_avoidance_planner.param.yaml): add a margin for vehicle to stop before the end of drivable area boundary",
+      "createdAt": "2023-02-01T17:54:55Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSRgFow==",
+    "node": {
+      "author": {
+        "login": "TomohitoAndo"
+      },
+      "title": "ci(pre-commit-config): upgrade isort version",
+      "createdAt": "2023-02-02T10:15:10Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSRqYwQ==",
+    "node": {
+      "author": {
+        "login": "TakaHoribe"
+      },
+      "title": "feat(planning_config): update params to enable 60kmph speed",
+      "createdAt": "2023-02-02T12:13:27Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSS8CoQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "chore(autoware_launch): minor parameter change for planning and control",
+      "createdAt": "2023-02-03T09:10:49Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSU1mEg==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "fix(multi_object_tracker): update data association matrix",
+      "createdAt": "2023-02-06T04:02:07Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSVz6RQ==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2023-02-06T17:53:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSXBJHw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): add option to disable path update during avoidance",
+      "createdAt": "2023-02-07T14:39:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSXF8wg==",
+    "node": {
+      "author": {
+        "login": "wep21"
+      },
+      "title": "feat: migrate to control launch xml",
+      "createdAt": "2023-02-07T15:33:10Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSZGGQg==",
+    "node": {
+      "author": {
+        "login": "rsasaki0109"
+      },
+      "title": "feat: add gnss/imu localizer ",
+      "createdAt": "2023-02-08T23:16:37Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "rsasaki0109"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "rsasaki0109"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSbL-JA==",
+    "node": {
+      "author": {
+        "login": "soblin"
+      },
+      "title": "feat(behavior_velocity_planner): continue collision checking after pass judge",
+      "createdAt": "2023-02-10T10:30:31Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSbM5pQ==",
+    "node": {
+      "author": {
+        "login": "soblin"
+      },
+      "title": "fix(behavior_velocity_planner): continue collision checking after pass judge",
+      "createdAt": "2023-02-10T10:41:21Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSc_7xQ==",
+    "node": {
+      "author": {
+        "login": "maxime-clem"
+      },
+      "title": "feat(behavior_path_planner): expand the drivable area based on the vehicle footprint",
+      "createdAt": "2023-02-13T04:33:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSdIVnQ==",
+    "node": {
+      "author": {
+        "login": "TomohitoAndo"
+      },
+      "title": "chore(run_out): update parameter for mandatory detection area",
+      "createdAt": "2023-02-13T07:15:42Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSepoHA==",
+    "node": {
+      "author": {
+        "login": "asana17"
+      },
+      "title": "feat(system_component_launch): add config param for dummy diag publisher",
+      "createdAt": "2023-02-14T06:56:27Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSgbX_Q==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "refactor(autoware_launch): clean up component launch",
+      "createdAt": "2023-02-15T11:49:33Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSgcoeQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): fix the planning param",
+      "createdAt": "2023-02-15T12:05:21Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSgk8DA==",
+    "node": {
+      "author": {
+        "login": "xmfcx"
+      },
+      "title": "fix: revert \"chore: sync param files (#161)\"",
+      "createdAt": "2023-02-15T13:49:50Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOShz7kg==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): unify with tier4 launch",
+      "createdAt": "2023-02-16T09:45:08Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSicXBg==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): add missing system file",
+      "createdAt": "2023-02-16T17:38:59Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSjAMQw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): update rviz and rtc config for planning",
+      "createdAt": "2023-02-17T05:25:24Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSkI3KQ==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2023-02-18T00:10:54Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSk_ySA==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "chore: remove unnecessary sync",
+      "createdAt": "2023-02-20T06:28:00Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSlgKrQ==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "feat(lane_departure_checker): add optional neighbor lanelets parameters",
+      "createdAt": "2023-02-20T12:59:36Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSmaCgQ==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(behavior_path_planner): add param for new planner manager",
+      "createdAt": "2023-02-21T06:51:34Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSmcRWQ==",
+    "node": {
+      "author": {
+        "login": "kyoichi-sugahara"
+      },
+      "title": "feat(planning_evaluator): launch planning_evaluator when scenario simulation is running",
+      "createdAt": "2023-02-21T07:19:02Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSmriFg==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): update obstacle avoidance planner parameter",
+      "createdAt": "2023-02-21T10:45:09Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSnrhhg==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(behavior_path_planner): pull over freespace parking",
+      "createdAt": "2023-02-22T04:45:04Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSn3rqg==",
+    "node": {
+      "author": {
+        "login": "yamazakiTasuku"
+      },
+      "title": "fix(obstacle_stop_planner): add lacking param",
+      "createdAt": "2023-02-22T08:33:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSn9WOQ==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(avoidance): add param to support right-hand traffic env",
+      "createdAt": "2023-02-22T09:48:14Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "satoshi-ota"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSoDb6Q==",
+    "node": {
+      "author": {
+        "login": "ismetatabay"
+      },
+      "title": "feat(osbtacle_stop_planner): add new trajectory checker parameter",
+      "createdAt": "2023-02-22T11:03:09Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSoPy9Q==",
+    "node": {
+      "author": {
+        "login": "ismetatabay"
+      },
+      "title": "feat(mission_planner): add config param file for mission_planner package",
+      "createdAt": "2023-02-22T13:44:57Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSpK8LA==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(avoidance): add new param for avoidance target object filtering logic",
+      "createdAt": "2023-02-23T05:06:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSrV56Q==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): use tier4_sensing_component.launch.xml",
+      "createdAt": "2023-02-24T14:55:36Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSs5Cjw==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "feat(obstacle_stop_planner): add margin behind goal",
+      "createdAt": "2023-02-27T08:09:22Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOStZ6yQ==",
+    "node": {
+      "author": {
+        "login": "kosuke55"
+      },
+      "title": "fix(behavior_path_planner): change pull over maximum_deceleration",
+      "createdAt": "2023-02-27T14:24:48Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSu6-pA==",
+    "node": {
+      "author": {
+        "login": "purewater0901"
+      },
+      "title": "Feat/add aeb launcher",
+      "createdAt": "2023-02-28T13:41:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSu7LlQ==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "fix(autoware_launch): add walkway visualization",
+      "createdAt": "2023-02-28T13:44:08Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSu804Q==",
+    "node": {
+      "author": {
+        "login": "purewater0901"
+      },
+      "title": "feat(control_launch): add parameter for aeb",
+      "createdAt": "2023-02-28T14:01:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSy1rFA==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(avoidance): add config for new framework",
+      "createdAt": "2023-03-02T23:51:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOSzGnuw==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(side_shift): add config for new framework",
+      "createdAt": "2023-03-03T06:40:35Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "satoshi-ota"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS0OfNA==",
+    "node": {
+      "author": {
+        "login": "ahmeddesokyebrahim"
+      },
+      "title": " feat: first draft proposal implementation for handling invalid lanelets",
+      "createdAt": "2023-03-03T22:57:38Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS1G5ig==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(pull_out): add config for new framework",
+      "createdAt": "2023-03-06T01:20:47Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS1LDuA==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(pull_over): support new framework",
+      "createdAt": "2023-03-06T02:58:48Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS2U-cg==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2023-03-06T17:46:40Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS3Fwaw==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "feat(lane_change): add config for new framework",
+      "createdAt": "2023-03-07T06:53:46Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS4nuLQ==",
+    "node": {
+      "author": {
+        "login": "kyoichi-sugahara"
+      },
+      "title": "feat(planning_evaluator): delete_launch_planning_evaluator_arg",
+      "createdAt": "2023-03-08T04:42:31Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS59GKA==",
+    "node": {
+      "author": {
+        "login": "tkimura4"
+      },
+      "title": "feat: lengthen safety_check_backward_distance in avoidance module",
+      "createdAt": "2023-03-09T01:26:54Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS590MQ==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(avoidance): increase road shoulder margin 0.0 -> 0.3",
+      "createdAt": "2023-03-09T01:40:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS6EFVA==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_launch): enable pose initialization while running (only for sim)",
+      "createdAt": "2023-03-09T04:04:07Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS6Ke1Q==",
+    "node": {
+      "author": {
+        "login": "VRichardJP"
+      },
+      "title": "chore(ekf_localizer): move parameters to its dedicated yaml file",
+      "createdAt": "2023-03-09T06:06:19Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS7xXNg==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(rviz): add path reference marker",
+      "createdAt": "2023-03-10T05:08:49Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS73Utw==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(pull_over): add params",
+      "createdAt": "2023-03-10T07:18:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS770kg==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): add option to use akima spline at first",
+      "createdAt": "2023-03-10T08:36:00Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS8IThg==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "feat(lane_change): support param for new framework (include external lc)",
+      "createdAt": "2023-03-10T11:07:59Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS9HSqg==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "fix(autoware_launch): perception mode",
+      "createdAt": "2023-03-11T13:07:44Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS_cNhQ==",
+    "node": {
+      "author": {
+        "login": "mehmetdogru"
+      },
+      "title": "feat(lane_following): consider lane ego angle diff",
+      "createdAt": "2023-03-14T06:52:48Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS_gKAA==",
+    "node": {
+      "author": {
+        "login": "xmfcx"
+      },
+      "title": "fix(behavior_velocity_planner): disable launch_virtual_traffic_light parameter by default",
+      "createdAt": "2023-03-14T07:49:10Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTAd3aw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): add missing stop line parameter",
+      "createdAt": "2023-03-14T18:14:36Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTAd8Sw==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): add check_external_emergency_heartbeat option",
+      "createdAt": "2023-03-14T18:15:32Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTCsthA==",
+    "node": {
+      "author": {
+        "login": "takayuki5168"
+      },
+      "title": "feat(autoware_launch): consider behavior's drivable area violation",
+      "createdAt": "2023-03-16T04:45:43Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "takayuki5168"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTCy9OQ==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "fix(autoware_launch): disable partial map load by default",
+      "createdAt": "2023-03-16T06:42:45Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTEQRNw==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(rviz): fix lane change topic name",
+      "createdAt": "2023-03-17T01:10:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTERq1A==",
+    "node": {
+      "author": {
+        "login": "badai-nguyen"
+      },
+      "title": "feat(compare_map_segmentation): add param for dynamic map loading",
+      "createdAt": "2023-03-17T01:51:38Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTES6nw==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "fix(behavior_path_planner): enable simlunateous executione",
+      "createdAt": "2023-03-17T02:25:02Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTEZzHw==",
+    "node": {
+      "author": {
+        "login": "badai-nguyen"
+      },
+      "title": "chore(ground_segmentation): add optional param",
+      "createdAt": "2023-03-17T05:22:25Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTE1SnQ==",
+    "node": {
+      "author": {
+        "login": "mkuri"
+      },
+      "title": "fix(behavior_velocity_planner): fix detection area being ignored when the ego vehicle stops over the stop line",
+      "createdAt": "2023-03-17T12:23:22Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTIU9jw==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(avoidance_by_lc): add new module to avoid obstacle by lane change",
+      "createdAt": "2023-03-21T08:31:01Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTJxbIw==",
+    "node": {
+      "author": {
+        "login": "zulfaqar-azmi-t4"
+      },
+      "title": "fix(planning_launch): disable external lc module in new framework",
+      "createdAt": "2023-03-22T06:40:11Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTJy_RA==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(avoidance): update avoidance param",
+      "createdAt": "2023-03-22T06:58:06Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTMocBQ==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): replace peter-evans/enable-pull-request-automerge with GitHub CLI",
+      "createdAt": "2023-03-24T01:01:09Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTMp9GQ==",
+    "node": {
+      "author": {
+        "login": "KYabuuchi"
+      },
+      "title": "chore(error_monitor): exclude ndt monitoring",
+      "createdAt": "2023-03-24T01:34:40Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTM4rtQ==",
+    "node": {
+      "author": {
+        "login": "satoshi-ota"
+      },
+      "title": "feat(behavior_path_planner): multiple candidate modules can run simultaneously",
+      "createdAt": "2023-03-24T07:15:25Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTO-eHA==",
+    "node": {
+      "author": {
+        "login": "soblin"
+      },
+      "title": "feat(behavior_velocity_planner::blind_spot): consider adjacent lane",
+      "createdAt": "2023-03-27T05:40:40Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTPBl_g==",
+    "node": {
+      "author": {
+        "login": "Shin-kyoto"
+      },
+      "title": "feat(pointcloud_map_loader): add param for upper limit of pcd map",
+      "createdAt": "2023-03-27T06:34:15Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  }
+]

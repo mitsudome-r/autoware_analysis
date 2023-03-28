@@ -1,0 +1,10 @@
+awf-autoware-bot
+codecov
+dependabot
+kenji-miyake
+mergify
+myoung34
+pre-commit-ci
+shmpwk
+stale
+xmfcx

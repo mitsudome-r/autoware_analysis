@@ -5,7 +5,7 @@ import subprocess
 
 names = []
 
-with open("full.txt") as file:
+with open("autoware_ai_contributors.txt") as file:
     names = file.read().splitlines()
 
 names = sorted(set(names))

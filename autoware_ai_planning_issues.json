@@ -1,0 +1,607 @@
+[
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOJmvopQ==",
+    "node": {
+      "author": {
+        "login": "Tasaki-Lab"
+      },
+      "title": "points_to_costmap.cpp Bug report",
+      "createdAt": "2020-06-24T13:15:28Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Tasaki-Lab"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOLVnZJw==",
+    "node": {
+      "author": {
+        "login": "zoumaguanxin"
+      },
+      "title": "what does the following fuction do? ",
+      "createdAt": "2020-12-10T03:52:18Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "maximus5684"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "zoumaguanxin"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "zoumaguanxin"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMtdTGw==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "Vehicle doesn't stop to avoid hitting a moving object ahead",
+      "createdAt": "2021-04-08T01:37:38Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMtd3-w==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "Global path planner generates an infeasible global path that cuts through a map ",
+      "createdAt": "2021-04-08T02:01:08Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "BatuhanUlucay"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMuEbNg==",
+    "node": {
+      "author": {
+        "login": "mertyavuz41"
+      },
+      "title": "Pure_pursuit launch file must be fixed.",
+      "createdAt": "2021-04-08T15:51:05Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMujaxA==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "Vehicle does not stop upon reaching the destination, but starts another trip only to crash",
+      "createdAt": "2021-04-09T03:37:21Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMu2ZCQ==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "Target speed keeps increasing, overriding velocity_max parameter of waypoint_replanner",
+      "createdAt": "2021-04-09T11:22:47Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOMu4zew==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "Global path starts far from the current (initial) pose",
+      "createdAt": "2021-04-09T12:17:30Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "squizz617"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "squizz617"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "squizz617"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONBuKrA==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "Global path planner generates infeasible path when the orientation of goal_pos is not aligned with the lane",
+      "createdAt": "2021-05-03T04:42:45Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHONY1M1A==",
+    "node": {
+      "author": {
+        "login": "squizz617"
+      },
+      "title": "waypoint_planner/velocity_set fails to avoid hitting a stationary object while making a turn",
+      "createdAt": "2021-05-21T20:25:52Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOONczdQ==",
+    "node": {
+      "author": {
+        "login": "dean1314"
+      },
+      "title": "An error occurred while enabling the op_trajectory_evaluator with autoware.ai",
+      "createdAt": "2021-07-27T08:18:26Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "marcusvinicius178"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "bilibilicharger"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "bilibilicharger"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOQOk-jA==",
+    "node": {
+      "author": {
+        "login": "Mud-B"
+      },
+      "title": "Open planner can't make lane change",
+      "createdAt": "2021-12-27T07:20:11Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Mud-B"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Mud-B"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Mud-B"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTGc4GQ==",
+    "node": {
+      "author": {
+        "login": "aforlano"
+      },
+      "title": "How to generate the rollouts from the Autoware op_local_planner package only on the driveable area (Vectormap)",
+      "createdAt": "2022-06-23T05:42:08Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "aforlano"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "hatem-darweesh"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "aforlano"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTMVM8Q==",
+    "node": {
+      "author": {
+        "login": "aforlano"
+      },
+      "title": "How to avoid the oscillating route selection in the op_local_planner [op_trajectory_evaluator]",
+      "createdAt": "2022-06-28T23:14:59Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "aforlano"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "momala"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTMWKgg==",
+    "node": {
+      "author": {
+        "login": "aforlano"
+      },
+      "title": "Exported vector map from Vector Map Builder does not work with rosnode wayarea2grid ",
+      "createdAt": "2022-06-28T23:45:50Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "momala"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "aforlano"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUygAAQ==",
+    "node": {
+      "author": {
+        "login": "LuckyDog666"
+      },
+      "title": "Question about the default parameter settings for the velocity_set node",
+      "createdAt": "2022-10-03T18:14:18Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOU0aKMQ==",
+    "node": {
+      "author": {
+        "login": "PeterMal0ne"
+      },
+      "title": "Planning module does not respond to hard brake",
+      "createdAt": "2022-10-05T03:15:30Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  }
+]

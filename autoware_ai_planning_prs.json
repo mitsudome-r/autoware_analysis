@@ -1,0 +1,900 @@
+[
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOGbuq6Q==",
+    "node": {
+      "author": {
+        "login": "sgermanserrano"
+      },
+      "title": "Add cross ci",
+      "createdAt": "2020-06-09T11:37:27Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOGfifVA==",
+    "node": {
+      "author": {
+        "login": "sgermanserrano"
+      },
+      "title": "Update ci",
+      "createdAt": "2020-06-17T09:28:55Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOGjPUWw==",
+    "node": {
+      "author": {
+        "login": "Tasaki-Lab"
+      },
+      "title": "bug fix about issue #5",
+      "createdAt": "2020-06-25T01:41:29Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Tasaki-Lab"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Tasaki-Lab"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOG5Pnlg==",
+    "node": {
+      "author": {
+        "login": "Eun0"
+      },
+      "title": "Fix typo",
+      "createdAt": "2020-08-04T10:30:45Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOG5ZsOw==",
+    "node": {
+      "author": {
+        "login": "Eun0"
+      },
+      "title": "Fix typo",
+      "createdAt": "2020-08-04T15:31:45Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIol8g==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "velocity_set: Small Cleanup",
+      "createdAt": "2020-09-03T18:33:59Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIo36g==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "astar_avoid: Small Cleanup",
+      "createdAt": "2020-09-03T18:43:02Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIqDsw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "lane_planner: Both range_min and range_max should be index numbers.",
+      "createdAt": "2020-09-03T19:08:13Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIqOtg==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "pure_pursuit: disable reset of is_waypoint_set flag after each control loop",
+      "createdAt": "2020-09-03T19:11:00Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIqbXg==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "lane select: Refactor waypoints publishing",
+      "createdAt": "2020-09-03T19:14:06Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIsEfw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "pure_pursuit: Add update_rate as a configurable parameter",
+      "createdAt": "2020-09-03T19:41:23Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHIsPhg==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "lane_planner: Change log level from WARN to DEBUG for some msgs",
+      "createdAt": "2020-09-03T19:44:10Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHP6_0w==",
+    "node": {
+      "author": {
+        "login": "luca-fancellu"
+      },
+      "title": "Enable way_planner visualization by default",
+      "createdAt": "2020-09-14T08:59:57Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHR9oQg==",
+    "node": {
+      "author": {
+        "login": "luca-fancellu"
+      },
+      "title": "Add maximum retry parameter to way_planner",
+      "createdAt": "2020-09-17T11:24:20Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "luca-fancellu"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHc2plg==",
+    "node": {
+      "author": {
+        "login": "luca-fancellu"
+      },
+      "title": "Enable way_planner to return path close to the goal",
+      "createdAt": "2020-10-08T15:41:55Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHdBvRg==",
+    "node": {
+      "author": {
+        "login": "luca-fancellu"
+      },
+      "title": "Code style fixes for way_planner",
+      "createdAt": "2020-10-08T21:26:57Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "luca-fancellu"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "luca-fancellu"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "luca-fancellu"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHfajYQ==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "pure_pursuit: Code Cleanup",
+      "createdAt": "2020-10-13T18:56:01Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHfdOWw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Fix an inaccurate warning msg inside VelocitySetPath::calcInterval",
+      "createdAt": "2020-10-13T19:37:33Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHfgPFQ==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Fix limitAccelDecel issue when the velocity profile contains multiple up and downs.",
+      "createdAt": "2020-10-13T20:23:01Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkLCBA==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "waypoint_replanner configuration parameter cleanup",
+      "createdAt": "2020-10-21T16:19:31Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkPptw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Fix lane_select to differentiate stopline types",
+      "createdAt": "2020-10-21T18:11:25Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkPvww==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Add yellow arrows to the global path to indicate turn signal activation",
+      "createdAt": "2020-10-21T18:14:20Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkP3aw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Remove velocity_set's dependence on localizer_pose topic",
+      "createdAt": "2020-10-21T18:17:54Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkQj6w==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "waypoint_replanner: Fix endpoint_mode",
+      "createdAt": "2020-10-21T18:35:22Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkQyjw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "pure_pursuit: Clean up how control cmds are published",
+      "createdAt": "2020-10-21T18:42:42Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkRDVA==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "pure_pursuit: Cleanup #2",
+      "createdAt": "2020-10-21T18:49:47Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkRaJQ==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Lanelet2 Global Planner Skeleton",
+      "createdAt": "2020-10-21T18:58:18Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkRw5w==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Global planner implementation",
+      "createdAt": "2020-10-21T19:05:48Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "simon-t4"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkSDxg==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "waypoint_planner: Improve stopline stopping",
+      "createdAt": "2020-10-21T19:15:07Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "TakaHoribe"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkSMwA==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Fix incorrect start index inside waypoint iteration loop to compute distance",
+      "createdAt": "2020-10-21T19:19:52Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkSTgw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Remove meaningless enum definition of TrafficLightColors in state machine lib.",
+      "createdAt": "2020-10-21T19:23:26Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkSZUA==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "astar_avoid: handle error returned from calling libwaypointfollower::getClosestWaypoint()",
+      "createdAt": "2020-10-21T19:26:23Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkTgCA==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Fix astar_avoid crashes",
+      "createdAt": "2020-10-21T20:00:40Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkTnYw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Lanelet2 global planner: LLH goal points",
+      "createdAt": "2020-10-21T20:04:33Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkT4aQ==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Planning Logging Refactor",
+      "createdAt": "2020-10-21T20:13:22Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkUBYA==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "pure_pursuit logging cleanup",
+      "createdAt": "2020-10-21T20:17:35Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkUMFw==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Twist Gate Refactor",
+      "createdAt": "2020-10-21T20:22:55Z",
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "icolwell-as"
+              }
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JWhitleyWork"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkV88A==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "Twist Filter Modes",
+      "createdAt": "2020-10-21T21:20:10Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOHkWF9w==",
+    "node": {
+      "author": {
+        "login": "icolwell-as"
+      },
+      "title": "lane_select: Fix distance_threshold bug",
+      "createdAt": "2020-10-21T21:24:54Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOS8QxKA==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "chore: add announcement about archiving the repository",
+      "createdAt": "2023-03-10T13:13:42Z",
+      "comments": {
+        "edges": []
+      }
+    }
+  }
+]

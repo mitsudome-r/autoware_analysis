@@ -1,10 +1,10 @@
 #!/usr/bin/bash
 
-gh api graphql -F cursor=$1 -f query='
-query($cursor: String!){
+gh api graphql -f query='
+query{
   organization(login:"tier4") {
     team(slug:"full-time-employee") {
-      members(first: 100 after: $cursor){
+      members(first: 2){
         nodes{
           login
         }

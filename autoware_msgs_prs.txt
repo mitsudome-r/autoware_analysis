@@ -1,0 +1,16 @@
+Shin-kyoto
+TakaHoribe
+angry-crab
+awf-autoware-bot
+codecov
+dependabot
+isamu-takagi
+kenji-miyake
+kminoda
+kosuke55
+meliketanrikulu
+mitsudome-r
+pre-commit-ci
+stale
+xmfcx
+yukkysaito
