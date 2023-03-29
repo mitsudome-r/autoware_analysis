@@ -10,7 +10,7 @@ filtered = []
 with open("tier4_engineers.txt") as file:
     tier4_engineers = file.read().splitlines()
 
-with open("autoware_core_universe.txt") as file:
+with open("autoware_code_contributors.txt") as file:
     names = file.read().splitlines()
 names = sorted(set(names))
 
