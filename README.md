@@ -12,5 +12,6 @@ python count_contributors.py
 
 Run the following to count contributors
 `
+wc -l autoware_contributors.txt #autoware_code_contributors.txt , autoware_community_contributors.txt
 `
 

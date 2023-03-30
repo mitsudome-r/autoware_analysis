@@ -19,6 +19,7 @@ query($cursor: String!, $repository: String!) {
                     author{
                         login
                     }
+                    createdAt
                 }
             }
           }

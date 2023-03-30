@@ -47,7 +47,7 @@ script="get_tier4_engineers.sh"
 cursor=getFirstCursor(cursor_script)
 tier4_engineers += getContributors(script, cursor)
 
-result="tier4_engineers.txt"
+result="tier4_engineers/tier4_engineers.txt"
 with open(result, 'w') as fp:
     for name in tier4_engineers:
         fp.write("%s\n" % name)

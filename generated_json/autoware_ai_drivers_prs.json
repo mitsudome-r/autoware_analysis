@@ -39,28 +39,32 @@
             "node": {
               "author": {
                 "login": "JWhitleyWork"
-              }
+              },
+              "createdAt": "2020-09-03T18:26:58Z"
             }
           },
           {
             "node": {
               "author": {
                 "login": "JWhitleyWork"
-              }
+              },
+              "createdAt": "2020-09-03T18:27:46Z"
             }
           },
           {
             "node": {
               "author": {
                 "login": "icolwell-as"
-              }
+              },
+              "createdAt": "2020-09-03T19:02:13Z"
             }
           },
           {
             "node": {
               "author": {
                 "login": "JWhitleyWork"
-              }
+              },
+              "createdAt": "2020-09-03T19:16:14Z"
             }
           }
         ]

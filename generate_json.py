@@ -41,7 +41,7 @@ def getContributors(script, cursor_script, contributor_type, respository):
     return all_edges
 
 def dumpJson(json_dict, file_name):
-    with open(file_name, 'w') as fp:
+    with open("generated_json/" +file_name, 'w') as fp:
         json.dump(json_dict, fp, indent=2)
 
 contributors = []
