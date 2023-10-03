@@ -65,7 +65,7 @@ def writeToFile(contributors_per_day, file_name):
 
 def writeToCSV(autoware_contributors_per_day, code_contributors_per_day, community_contributors_per_day, file_name):
     with open("contributor_history/" + file_name, 'w') as fp:
-        fp.write("autoware_contributors, code_contributors, community_contributors\n")
+        fp.write("date, autoware_contributors, code_contributors, community_contributors\n")
         autoware_contributor_count = 0
         code_contributor_count = 0
         community_contributor_count = 0

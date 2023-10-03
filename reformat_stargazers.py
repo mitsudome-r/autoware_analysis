@@ -33,5 +33,5 @@ def writeNamesToFile(stars, file_name):
     print('Done')
 
 
-stars_per_day = countStars("stargazers.json")
-writeNamesToFile(stars_per_day, "counted_stars.txt")
+stars_per_day = countStars("stars/stargazers.json")
+writeNamesToFile(stars_per_day, "counted_stars.csv")
