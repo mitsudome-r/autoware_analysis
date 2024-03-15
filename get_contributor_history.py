@@ -15,6 +15,15 @@ code_contributors_per_day = {}
 community_contributors_per_day = {}
 autoware_contributors_per_day = {}
 
+start_date = datetime.datetime(2022, 1, 1)
+end_date = datetime.datetime.today()
+
+def date_range(start, stop, step = datetime.timedelta(1)):
+    current = start
+    while current < stop:
+        yield current
+        current += step
+
 def getContributors(file, contributors):
     f = open(file, "r")
     loaded_json = json.load(f)
@@ -22,7 +31,7 @@ def getContributors(file, contributors):
 
     for x in edges:
         d = datetime.datetime.strptime(x["node"]["createdAt"], '%Y-%m-%dT%H:%M:%SZ')
-        date_filter = datetime.datetime(2022, 1, 1)
+        date_filter = start_date
 
         if d < date_filter:
             continue
@@ -72,14 +81,24 @@ def writeToCSV(autoware_contributors_per_day, code_contributors_per_day, communi
         for item in sorted(autoware_contributors_per_day.items()):
             date = item[0]
             count = item[1]
-            autoware_contributor_count += count
-            if date in code_contributors_per_day:
-                code_contributor_count+=code_contributors_per_day[date]
-            if date in community_contributors_per_day:
-                community_contributor_count+=community_contributors_per_day[date]
 
-            line = item[0].strftime('%Y/%m/%d') + "," + str(autoware_contributor_count)+"," + str(code_contributor_count) + "," + str(community_contributor_count)
-            fp.write("%s\n" % line)
+        for date in date_range(start_date,end_date):
+            date_format = datetime.date(date.year,date.month,date.day)
+            updated = False
+            if date_format in autoware_contributors_per_day:
+                autoware_contributor_count += autoware_contributors_per_day[date_format]
+                updated = True
+            if date_format in code_contributors_per_day:
+                code_contributor_count+=code_contributors_per_day[date_format]
+                updated = True
+            if date_format in community_contributors_per_day:
+                community_contributor_count+=community_contributors_per_day[date_format]
+                updated = True
+
+            if updated:
+                line = date.strftime('%Y/%m/%d') + "," + str(autoware_contributor_count)+"," + str(code_contributor_count) + "," + str(community_contributor_count)
+                print(line)
+                fp.write("%s\n" % line)
     print('Done')
 
 # name , date
