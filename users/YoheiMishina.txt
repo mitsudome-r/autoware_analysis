@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yohei Mishina","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjY2Mjk4OTAw"}}}

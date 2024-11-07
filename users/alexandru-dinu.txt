@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Alexandru Dinu","organizations":{"nodes":[{"login":"code-gen"},{"login":"opskrift"}]},"company":null,"id":"MDQ6VXNlcjE0MTEwMTgz"}}}

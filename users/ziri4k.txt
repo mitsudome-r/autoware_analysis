@@ -1,0 +1,1 @@
+{"data":{"user":{"name":" Ziri","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjg3NzgzNDA0"}}}

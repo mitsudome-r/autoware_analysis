@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"manar","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjQ3MjEzMzI3"}}}

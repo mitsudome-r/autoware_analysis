@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Stanley Hu","organizations":{"nodes":[]},"company":"The Hong Kong Polytechnic University","id":"MDQ6VXNlcjM1MjE2NjYy"}}}

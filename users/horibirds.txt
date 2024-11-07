@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kazunori HORI","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjUzNzcxOTk="}}}

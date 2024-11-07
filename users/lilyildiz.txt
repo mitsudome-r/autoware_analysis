@@ -1,0 +1,1 @@
+{"data":{"user":{"name":null,"organizations":{"nodes":[]},"company":"Yıldız Techincal University","id":"MDQ6VXNlcjcwMzc5OTk0"}}}

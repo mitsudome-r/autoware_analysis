@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Gautham Narayan","organizations":{"nodes":[]},"company":"Carnegie Mellon University","id":"MDQ6VXNlcjIwNDE3NzYz"}}}

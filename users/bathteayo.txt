@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Hayate TOBA","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"},{"login":"azu-lab"}]},"company":null,"id":"U_kgDOBkd6ag"}}}

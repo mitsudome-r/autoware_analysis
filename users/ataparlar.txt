@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Ata Parlar","organizations":{"nodes":[{"login":"itu-rover"},{"login":"autowarefoundation"}]},"company":"@leo-drive ","id":"MDQ6VXNlcjQ0MjQyMjEy"}}}

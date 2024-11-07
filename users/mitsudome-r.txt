@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Ryohsuke Mitsudome","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"},{"login":"ai-rush-2019"},{"login":"Autoware-AI"},{"login":"autoware-org"},{"login":"MitsudomeTestOrganization"}]},"company":"TIER IV","id":"MDQ6VXNlcjQzOTc2ODM0"}}}

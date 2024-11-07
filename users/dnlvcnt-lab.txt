@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Daniel Rodrigo","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjY4Nzg2NjU0"}}}

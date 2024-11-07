@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"MohammadReza Mirdamadiyan","organizations":{"nodes":[]},"company":"smart-mining.iut.ac.ir","id":"MDQ6VXNlcjc3MjM4NTc5"}}}

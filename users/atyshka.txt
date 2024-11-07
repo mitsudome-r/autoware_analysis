@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Alex Tyshka","organizations":{"nodes":[]},"company":"Intelligent Robotics Lab, Oakland University","id":"MDQ6VXNlcjE5MzE3MjA3"}}}

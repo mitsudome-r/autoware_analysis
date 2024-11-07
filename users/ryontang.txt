@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"荣永堂","organizations":{"nodes":[]},"company":"Hunan university","id":"MDQ6VXNlcjM5ODkxNjE4"}}}

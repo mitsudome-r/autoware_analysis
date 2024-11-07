@@ -41,7 +41,6 @@ ClementLeBihan
 CodeIsWorld
 Codebot2455
 CoderGenJ
-CowTC
 CurlyWei
 DWKE
 DWatabe
@@ -88,23 +87,21 @@ JeremyCKT
 JoeyZhu
 JonasLos
 JungHY
-K1504296
 KaifuZ
 KenYN
 KetkiChaudhary
 Kin-Zhang
-L-Net-1992
 LAsurvivor
 LUUTHIENXUAN
 Leonardo092
 LevinJ
 LiTszOn
+LittleYouEr
 LoayMAmin
 LongruiDong
 LukeAI
 LukePhairatt
 MI-Hussain
-MINUS-1ONE
 MadCauchy
 MadalasaP
 Mani-Sadhasivam
@@ -117,13 +114,14 @@ MrDadaGuy
 MrYuJing
 NEUdeep
 Nehagarwal
-Nicholas-Mitchell
+Nicholas-Autio-Mitchell
 Omega-Spinti
 Pallav1299
 Patrick-Woo
 PejoyPOcky
 PeterZheFu
 Probacal
+QSLee-Net
 QipiaoZhou
 RauLopMar
 RicWg
@@ -154,6 +152,7 @@ TZVIh
 TakaHoribe
 Tamme
 TanatosSpirit
+TheodoreRTG
 TigerJieZ
 Tikitikitiki
 Timple
@@ -198,6 +197,7 @@ aivo0
 ajay1606
 ak201790
 albuckley
+aleksander-lukashou
 alex-mocanu
 alexampa
 alexanderhmw
@@ -232,8 +232,6 @@ aztk
 baaixw
 bage131
 baharkhabbazan
-baroselfdriving
-bbidault2
 bdholt1
 beetleskin
 ben-swain
@@ -293,7 +291,6 @@ dufengit
 ebeowulf
 echotor
 eds89
-edward0im
 elNiNo009
 elberthuang
 elsa210
@@ -308,6 +305,7 @@ forete
 fpasch
 francis0407
 francisvac
+gabgiani
 gamal-elghazaly
 gaohongfein
 gbiggs
@@ -320,6 +318,7 @@ gsp9
 gsrujana
 gstorer
 gulshan216
+gyubeomim
 gzblue07
 h-ohta
 hadiTab
@@ -365,7 +364,6 @@ jfqureshi
 jh0w3l05
 jiamingZhong93
 jileejun
-jinfagang
 jitrc
 jiyuehe
 jjimin
@@ -373,11 +371,11 @@ jjldr
 jmarrr
 johnbryant1
 jokla
-joon5283
 jpsamper2009
 jraclarke
 jt387
 junjieshen
+junyeonwon1
 jwen11
 jyakaranda
 jyl087
@@ -424,6 +422,7 @@ locix-admin
 lonfr
 longzee
 lrodrig3
+lucasjinreal
 lukasthede
 m-seiya
 madhavajay
@@ -529,6 +528,7 @@ rongliu1996
 rookiepig
 rorschach-xiao
 rorypeck
+roslidog
 ruisir001
 rxq19951101
 ryontang
@@ -572,6 +572,7 @@ sujiwo
 sumanth-nirmal
 sumenpuyuan
 sumjos
+super-zyw
 superify
 swrao
 swwelch
@@ -602,7 +603,6 @@ ubercool2
 umiklos
 urbansound8K
 uriv
-va9abund
 vachmas
 vaibhavviswanathan
 valgur
@@ -641,7 +641,6 @@ wzr6009
 x7hkvip
 xczhanjun
 xiaohedu
-xiaowei520-lwl
 xiewenjing1170
 xingxiuhua
 xonez
@@ -654,11 +653,11 @@ yamacir-kit
 yantaixu0120
 yaozhai
 yebo92
+yelbuod
 yfzhang
 yiakwy
 yiliang123456
 yinchenjia
-yinwei-zhang
 yk-fujii
 yn-mrse
 ytgcljj

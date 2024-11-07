@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Domagoj","organizations":{"nodes":[]},"company":"Technical University of Munich","id":"MDQ6VXNlcjYwMTA5MA=="}}}

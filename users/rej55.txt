@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Fumiya Watanabe","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV, Inc.","id":"MDQ6VXNlcjEwMTkwNDkz"}}}

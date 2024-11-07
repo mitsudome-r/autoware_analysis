@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Daisuke Fukutomi","organizations":{"nodes":[{"login":"CPFL"}]},"company":null,"id":"MDQ6VXNlcjEzMDU4NTA3"}}}

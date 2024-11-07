@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Fetullah Atas ","organizations":{"nodes":[{"login":"BerfAI"}]},"company":null,"id":"MDQ6VXNlcjE4NDYwMzM2"}}}

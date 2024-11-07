@@ -1,0 +1,1 @@
+{"data":{"organization":{"team":{"members":{"nodes":[{"login":"filiperinaldi"},{"login":"Sevenarth"},{"login":"idorobotics"},{"login":"kaspermeck-arm"},{"login":"ambroise-arm"}],"edges":[{"cursor":"Y3Vyc29yOnYyOpHOAAXK3g=="},{"cursor":"Y3Vyc29yOnYyOpHOAGnsHg=="},{"cursor":"Y3Vyc29yOnYyOpHOATfm3g=="},{"cursor":"Y3Vyc29yOnYyOpHOAdPfhA=="},{"cursor":"Y3Vyc29yOnYyOpHOAtMo3w=="}]}}}}}

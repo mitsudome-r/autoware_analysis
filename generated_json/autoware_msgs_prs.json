@@ -7,6 +7,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-01T11:12:21Z",
+      "merged": true,
+      "additions": 837,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -20,6 +23,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-05T00:10:42Z",
+      "merged": true,
+      "additions": 65,
+      "deletions": 3,
       "comments": {
         "edges": [
           {
@@ -42,6 +48,9 @@
       },
       "title": "build(deps): Bump codecov/codecov-action from 2 to 3",
       "createdAt": "2022-04-06T00:48:50Z",
+      "merged": false,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -64,6 +73,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-10T00:11:48Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -77,6 +89,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-04-11T17:02:44Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -90,6 +105,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-13T00:12:25Z",
+      "merged": true,
+      "additions": 7,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -103,6 +121,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-17T00:12:54Z",
+      "merged": true,
+      "additions": 16,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -116,6 +137,9 @@
       },
       "title": "feat(control-messages): add control messages",
       "createdAt": "2022-04-20T13:54:47Z",
+      "merged": true,
+      "additions": 182,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -282,6 +306,9 @@
       },
       "title": "ci(sync-files): sync github-release.yaml",
       "createdAt": "2022-04-21T14:35:30Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -295,6 +322,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-22T00:13:50Z",
+      "merged": true,
+      "additions": 63,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -308,6 +338,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-04-25T16:52:28Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -321,6 +354,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-26T00:12:46Z",
+      "merged": true,
+      "additions": 7,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -334,6 +370,9 @@
       },
       "title": "feat(localization-messages): add autoware_localization_msgs",
       "createdAt": "2022-04-27T15:09:41Z",
+      "merged": true,
+      "additions": 70,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -372,6 +411,9 @@
       },
       "title": "docs(message-guidelines): link message guidelines",
       "createdAt": "2022-04-29T17:55:48Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -426,6 +468,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-03T00:12:20Z",
+      "merged": true,
+      "additions": 15,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -439,6 +484,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-08T00:12:43Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -452,6 +500,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-12T00:14:48Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -465,6 +516,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-05-23T16:53:25Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -478,6 +532,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-25T00:15:03Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -491,6 +548,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-28T00:14:16Z",
+      "merged": true,
+      "additions": 36,
+      "deletions": 10,
       "comments": {
         "edges": []
       }
@@ -504,6 +564,9 @@
       },
       "title": "feat(sensing-messages): add sensing messages",
       "createdAt": "2022-06-09T15:43:30Z",
+      "merged": true,
+      "additions": 306,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -566,6 +629,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-06-13T17:06:16Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -579,6 +645,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-06-20T16:55:39Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -592,6 +661,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-06-28T00:15:03Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -605,6 +677,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-07-11T17:01:41Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -618,6 +693,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-08-04T00:14:03Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -631,6 +709,9 @@
       },
       "title": "feat(map-messages): add LaneletMapBin.msg",
       "createdAt": "2022-08-05T16:47:40Z",
+      "merged": true,
+      "additions": 27,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -701,6 +782,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-08-22T17:04:11Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 4,
       "comments": {
         "edges": []
       }
@@ -714,6 +798,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-08-30T00:17:12Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 4,
       "comments": {
         "edges": []
       }
@@ -727,6 +814,9 @@
       },
       "title": "feat(autoware_planning_msgs): add autoware planning messages",
       "createdAt": "2022-08-30T22:31:53Z",
+      "merged": true,
+      "additions": 65,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -781,6 +871,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-09-02T00:14:41Z",
+      "merged": true,
+      "additions": 17,
+      "deletions": 9,
       "comments": {
         "edges": []
       }
@@ -794,6 +887,9 @@
       },
       "title": "feat(autoware_common_msgs): add autoware common messages",
       "createdAt": "2022-09-15T05:08:23Z",
+      "merged": true,
+      "additions": 48,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -807,6 +903,9 @@
       },
       "title": "ci(build): remove empty build_depends.repos",
       "createdAt": "2022-09-15T08:41:26Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 10,
       "comments": {
         "edges": [
           {
@@ -829,6 +928,9 @@
       },
       "title": "feat: add autoware_map_msgs for dynamic map loading",
       "createdAt": "2022-09-28T00:24:27Z",
+      "merged": true,
+      "additions": 119,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -891,6 +993,9 @@
       },
       "title": "[obsolete]feat: add autoware_map_msgs for dynamic map loading",
       "createdAt": "2022-10-20T00:42:32Z",
+      "merged": false,
+      "additions": 119,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -904,6 +1009,9 @@
       },
       "title": "refactor(planning-messages)!: rename VectorMap to Lanelet",
       "createdAt": "2022-11-08T10:00:29Z",
+      "merged": true,
+      "additions": 7,
+      "deletions": 7,
       "comments": {
         "edges": [
           {
@@ -990,6 +1098,9 @@
       },
       "title": "feat(autoware_planning_msgs): create PoseWithUuid and add uuid to LaneletRoute ",
       "createdAt": "2022-11-09T04:56:01Z",
+      "merged": true,
+      "additions": 6,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -1036,6 +1147,9 @@
       },
       "title": "ci(pre-commit): update commit message",
       "createdAt": "2022-12-01T03:00:39Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1049,6 +1163,9 @@
       },
       "title": "build(deps): bump tj-actions/changed-files from 34 to 35",
       "createdAt": "2022-12-20T00:17:23Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": [
           {
@@ -1087,6 +1204,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-12-23T00:13:11Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1100,6 +1220,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-12-26T17:31:03Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 5,
       "comments": {
         "edges": []
       }
@@ -1113,6 +1236,9 @@
       },
       "title": "feat(autoware_planning_msgs): change PoseWithUuid to PoseStampedWithUuid",
       "createdAt": "2022-12-29T11:19:32Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 3,
       "comments": {
         "edges": [
           {
@@ -1143,6 +1269,9 @@
       },
       "title": "feat(autoware_perception_msgs): add traffic light messages",
       "createdAt": "2023-01-12T02:45:23Z",
+      "merged": true,
+      "additions": 100,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -1173,6 +1302,9 @@
       },
       "title": "feat: test-ci ament_cpplint",
       "createdAt": "2023-01-16T13:51:45Z",
+      "merged": false,
+      "additions": 64,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -1195,6 +1327,9 @@
       },
       "title": "feat(autoware_planning_msgs): move header to the top in PoseWithUuidStamped",
       "createdAt": "2023-01-16T15:48:57Z",
+      "merged": true,
+      "additions": 10,
+      "deletions": 3,
       "comments": {
         "edges": [
           {
@@ -1241,6 +1376,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2023-02-18T00:13:40Z",
+      "merged": true,
+      "additions": 28,
+      "deletions": 12,
       "comments": {
         "edges": []
       }
@@ -1254,6 +1392,9 @@
       },
       "title": "feat(autoware_map_msgs): add grid coordinates in PointCloudMapCellWithID.msg",
       "createdAt": "2023-03-23T10:35:04Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -1267,6 +1408,9 @@
       },
       "title": "feat(autoware_map_msgs): add ALL_AREA mode",
       "createdAt": "2023-03-27T06:51:08Z",
+      "merged": false,
+      "additions": 4,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -1275,6 +1419,22 @@
                 "login": "yukkysaito"
               },
               "createdAt": "2023-03-27T15:07:35Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Shin-kyoto"
+              },
+              "createdAt": "2023-04-03T11:23:17Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "Shin-kyoto"
+              },
+              "createdAt": "2023-04-12T06:47:34Z"
             }
           }
         ]
@@ -1289,6 +1449,9 @@
       },
       "title": "feat(autoware_planning_msgs): add the service to set uuid pose",
       "createdAt": "2023-03-28T10:48:43Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -1302,6 +1465,9 @@
       },
       "title": "feat(autoware_planning_msgs): add allow_modification option",
       "createdAt": "2023-03-28T13:07:50Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -1313,6 +1479,1326 @@
             }
           }
         ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTa9-lQ==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: add id based map loader",
+      "createdAt": "2023-04-05T14:53:36Z",
+      "merged": false,
+      "additions": 21,
+      "deletions": 0,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTdYe7Q==",
+    "node": {
+      "author": {
+        "login": "Shin-kyoto"
+      },
+      "title": "feat(autoware_map_msgs): add selected map loading",
+      "createdAt": "2023-04-07T12:49:30Z",
+      "merged": true,
+      "additions": 38,
+      "deletions": 5,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTk2Hjw==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat: remove set route service",
+      "createdAt": "2023-04-14T08:31:56Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 6,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kosuke55"
+              },
+              "createdAt": "2023-04-14T08:34:28Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOToh3vw==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_planning_msgs): remove SetPoseWithUuidStamped",
+      "createdAt": "2023-04-18T02:30:48Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 7,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOT3mi6w==",
+    "node": {
+      "author": {
+        "login": "VRichardJP"
+      },
+      "title": "build: package.xml dependencies ",
+      "createdAt": "2023-05-01T03:14:19Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 2,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "kenji-miyake"
+              },
+              "createdAt": "2023-05-01T05:44:08Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUFdHAg==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2023-05-12T00:12:02Z",
+      "merged": false,
+      "additions": 68,
+      "deletions": 51,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUQqo1g==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "ci(pre-commit): autoupdate",
+      "createdAt": "2023-05-22T17:41:56Z",
+      "merged": false,
+      "additions": 5,
+      "deletions": 5,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2024-09-06T17:28:19Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUaWhxw==",
+    "node": {
+      "author": {
+        "login": "beginningfan"
+      },
+      "title": "feat(autoware_perception_msgs): add PredictedObjects msgs",
+      "createdAt": "2023-05-30T05:25:57Z",
+      "merged": true,
+      "additions": 44,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "beginningfan"
+              },
+              "createdAt": "2023-07-10T10:09:19Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUaZKdg==",
+    "node": {
+      "author": {
+        "login": "kminoda"
+      },
+      "title": "feat(autoware_map_msgs): support cylindrical AreaInfo",
+      "createdAt": "2023-05-30T06:16:48Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 2,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUabZYw==",
+    "node": {
+      "author": {
+        "login": "cyn-liu"
+      },
+      "title": "feat(autoware_map_msgs): migrate autoware_auto_mapping_msgs to autowa\u2026",
+      "createdAt": "2023-05-30T06:47:10Z",
+      "merged": false,
+      "additions": 29,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-06-12T12:01:55Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "cyn-liu"
+              },
+              "createdAt": "2023-06-13T02:39:05Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-06-13T09:03:02Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "cyn-liu"
+              },
+              "createdAt": "2023-06-13T11:03:14Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOUb3q9w==",
+    "node": {
+      "author": {
+        "login": "shulanbushangshu"
+      },
+      "title": "feat(autoware_planning_msgs): migrate autoware_auto_planning_msg to autoware_planning_msg",
+      "createdAt": "2023-05-31T03:18:11Z",
+      "merged": true,
+      "additions": 36,
+      "deletions": 0,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOU6HYbA==",
+    "node": {
+      "author": {
+        "login": "Mingyu1991"
+      },
+      "title": "feat(autoware_perception_msgs): add UP_LEFT_ARROW and UP_RIGHT_ARROW to traffic_light_element",
+      "createdAt": "2023-06-22T08:43:12Z",
+      "merged": true,
+      "additions": 6,
+      "deletions": 4,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOU6amXg==",
+    "node": {
+      "author": {
+        "login": "Mingyu1991"
+      },
+      "title": "fix(autoware_perception_msgs): add Header to tlr messages and change TrafficLightElement.msg status",
+      "createdAt": "2023-06-22T12:26:06Z",
+      "merged": true,
+      "additions": 17,
+      "deletions": 16,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2023-06-23T04:01:53Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2023-06-23T04:50:39Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "miursh"
+              },
+              "createdAt": "2023-06-23T05:00:16Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2023-06-23T07:36:51Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOU7aoEQ==",
+    "node": {
+      "author": {
+        "login": "Mingyu1991"
+      },
+      "title": "revert: \"fix(autoware_perception_msgs): add Header to tlr messages and change TrafficLightElement.msg status\"",
+      "createdAt": "2023-06-23T05:04:27Z",
+      "merged": true,
+      "additions": 16,
+      "deletions": 17,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOVE7gbA==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_perception_msgs): remove traffic light messages",
+      "createdAt": "2023-06-30T08:03:02Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 19,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "Mingyu1991"
+              },
+              "createdAt": "2023-07-03T04:08:36Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2023-07-03T07:11:30Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOVW3ZEw==",
+    "node": {
+      "author": {
+        "login": "xmfcx"
+      },
+      "title": "feat(autoware_system_msgs): add version service messages",
+      "createdAt": "2023-07-13T14:40:46Z",
+      "merged": false,
+      "additions": 78,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-13T17:18:00Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              },
+              "createdAt": "2023-07-14T16:30:08Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2023-09-16T08:31:05Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-03-07T10:02:02Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOVr9UUg==",
+    "node": {
+      "author": {
+        "login": "beginningfan"
+      },
+      "title": "fix(autoware_perception_msgs): fix error in PredictedObject.msg",
+      "createdAt": "2023-07-31T01:53:46Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 2,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOWYYBTA==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "build(deps): bump actions/checkout from 3 to 4",
+      "createdAt": "2023-09-05T00:47:27Z",
+      "merged": false,
+      "additions": 7,
+      "deletions": 7,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              },
+              "createdAt": "2023-09-05T00:47:29Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2023-11-04T01:37:12Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOX0MxgA==",
+    "node": {
+      "author": {
+        "login": "beginningfan"
+      },
+      "title": "fix(autoware_perception_msgs): fix sequence length to dynamic",
+      "createdAt": "2023-11-13T06:10:20Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYGQtMg==",
+    "node": {
+      "author": {
+        "login": "shulanbushangshu"
+      },
+      "title": "Add autoware planning msg",
+      "createdAt": "2023-11-27T02:42:57Z",
+      "merged": false,
+      "additions": 36,
+      "deletions": 0,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYGRikw==",
+    "node": {
+      "author": {
+        "login": "shulanbushangshu"
+      },
+      "title": "fix: planning_msg",
+      "createdAt": "2023-11-27T03:03:37Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 2,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "shulanbushangshu"
+              },
+              "createdAt": "2023-12-01T09:37:29Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "maxime-clem"
+              },
+              "createdAt": "2023-12-02T06:06:19Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYWDBQg==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_v2x_msgs): add virtual gate messages",
+      "createdAt": "2023-12-07T05:27:40Z",
+      "merged": true,
+      "additions": 325,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "evshary"
+              },
+              "createdAt": "2024-03-06T07:47:15Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2024-03-06T09:14:40Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-03-07T06:46:27Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-03-08T03:59:39Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2024-03-08T10:37:49Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2024-05-08T03:07:31Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-07-11T06:14:37Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYaFuEg==",
+    "node": {
+      "author": {
+        "login": "beginningfan"
+      },
+      "title": "feat(autoware_vehicle_msgs): add autoware_vehicle_msgs",
+      "createdAt": "2023-12-11T02:45:40Z",
+      "merged": true,
+      "additions": 184,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-12-25T10:50:29Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "beginningfan"
+              },
+              "createdAt": "2023-12-25T10:56:20Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-12-25T11:07:26Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYaiKMg==",
+    "node": {
+      "author": {
+        "login": "shulanbushangshu"
+      },
+      "title": "fix: add system msg",
+      "createdAt": "2023-12-11T09:35:36Z",
+      "merged": true,
+      "additions": 79,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2023-12-12T02:41:49Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2023-12-12T04:07:29Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOYlYS6Q==",
+    "node": {
+      "author": {
+        "login": "beginningfan"
+      },
+      "title": "fix(autoware_vehicle_msgs): add missed vehicle msgs",
+      "createdAt": "2023-12-19T06:47:17Z",
+      "merged": true,
+      "additions": 10,
+      "deletions": 0,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOZXvpCQ==",
+    "node": {
+      "author": {
+        "login": "StepTurtle"
+      },
+      "title": "feat(autoware_map_msgs): add msg and srv files releated with dynamic lanelet loading",
+      "createdAt": "2024-01-30T18:07:56Z",
+      "merged": false,
+      "additions": 24,
+      "deletions": 1,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-02-19T10:51:41Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-02-19T11:01:00Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "StepTurtle"
+              },
+              "createdAt": "2024-02-19T16:47:33Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "StepTurtle"
+              },
+              "createdAt": "2024-02-19T16:48:48Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-02-26T04:12:48Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2024-05-04T13:37:56Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              },
+              "createdAt": "2024-06-18T06:04:28Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              },
+              "createdAt": "2024-06-18T06:08:27Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "StepTurtle"
+              },
+              "createdAt": "2024-06-23T19:13:26Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              },
+              "createdAt": "2024-06-24T07:41:18Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-07-01T05:45:03Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-07-01T06:00:25Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              },
+              "createdAt": "2024-07-02T05:38:56Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-07-03T00:50:05Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "YamatoAndo"
+              },
+              "createdAt": "2024-07-04T05:27:13Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "StepTurtle"
+              },
+              "createdAt": "2024-07-04T13:03:54Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOZf5_IQ==",
+    "node": {
+      "author": {
+        "login": "isamu-takagi"
+      },
+      "title": "feat(autoware_planning_msgs): add route services",
+      "createdAt": "2024-02-05T08:58:51Z",
+      "merged": false,
+      "additions": 46,
+      "deletions": 7,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2024-02-07T20:51:27Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOZxWNDQ==",
+    "node": {
+      "author": {
+        "login": "brkay54"
+      },
+      "title": "feat(autoware_msgs): add new optional messages package with published time debug message",
+      "createdAt": "2024-02-16T12:41:22Z",
+      "merged": false,
+      "additions": 49,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-02-19T07:32:28Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-02-26T06:56:34Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-02-26T07:26:39Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              },
+              "createdAt": "2024-02-26T09:49:40Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHObA6OQA==",
+    "node": {
+      "author": {
+        "login": "ktro2828"
+      },
+      "title": "refactor(perception): rename `TrafficSignal**` to `TrafficLight**`",
+      "createdAt": "2024-04-08T20:52:40Z",
+      "merged": false,
+      "additions": 7,
+      "deletions": 7,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2024-06-08T13:29:02Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHObTvP7w==",
+    "node": {
+      "author": {
+        "login": "ahmeddesokyebrahim"
+      },
+      "title": "feat(remaining_dist_eta): add msg definition for mission remaining distance and time",
+      "createdAt": "2024-04-19T23:31:17Z",
+      "merged": false,
+      "additions": 8,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-04-24T11:20:55Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOba4lqw==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "feat(autoware_planning_msgs)!: remove PathWithLaneId msgs",
+      "createdAt": "2024-04-25T06:00:19Z",
+      "merged": false,
+      "additions": 0,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2024-06-25T00:46:56Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "esteve"
+              },
+              "createdAt": "2024-06-25T08:53:11Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "youtalk"
+              },
+              "createdAt": "2024-06-25T10:21:58Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-06-25T10:33:48Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-06-25T10:37:11Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "esteve"
+              },
+              "createdAt": "2024-06-25T10:38:42Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-06-25T10:39:21Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOba9_Rg==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat: update msg definitions",
+      "createdAt": "2024-04-25T07:01:18Z",
+      "merged": true,
+      "additions": 108,
+      "deletions": 30,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "youtalk"
+              },
+              "createdAt": "2024-05-09T02:42:53Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-05-09T02:49:05Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "youtalk"
+              },
+              "createdAt": "2024-05-09T02:59:01Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "youtalk"
+              },
+              "createdAt": "2024-05-09T07:10:56Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-05-09T09:20:15Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-05-09T09:25:25Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-05-09T09:33:31Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "yukkysaito"
+              },
+              "createdAt": "2024-05-09T13:31:32Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHObbMudg==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "feat(autoware_vehicle_msgs)!: remove VehicleControlCommand, VehicleKinematicState, and VehicleOdometry messages",
+      "createdAt": "2024-04-25T09:23:33Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 15,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHObbU-2A==",
+    "node": {
+      "author": {
+        "login": "yukkysaito"
+      },
+      "title": "feat!(autoware_vehicle_msgs): remove control mode command msg",
+      "createdAt": "2024-04-25T10:40:17Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 6,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHObb2t6g==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "fix(autoware_vehicle_msgs): remove ControlModeCommands.msg in CMakeLists.txt",
+      "createdAt": "2024-04-25T15:12:58Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 1,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHObw91xA==",
+    "node": {
+      "author": {
+        "login": "youtalk"
+      },
+      "title": "chore: update `package.xml` and fix `CMakeLists.txt`",
+      "createdAt": "2024-05-10T06:11:34Z",
+      "merged": true,
+      "additions": 16,
+      "deletions": 4,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "youtalk"
+              },
+              "createdAt": "2024-05-10T06:19:45Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOb8xbpw==",
+    "node": {
+      "author": {
+        "login": "ahmeddesokyebrahim"
+      },
+      "title": "docs(TrajectoryPoint):  add comment for acceleration_mps2 to clarify its usage",
+      "createdAt": "2024-05-17T14:09:25Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "esteve"
+              },
+              "createdAt": "2024-07-02T07:44:59Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOch-l_g==",
+    "node": {
+      "author": {
+        "login": "esteve"
+      },
+      "title": "Rolling",
+      "createdAt": "2024-06-11T14:50:22Z",
+      "merged": false,
+      "additions": 255,
+      "deletions": 9,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOc5stKA==",
+    "node": {
+      "author": {
+        "login": "simon-eisenmann-driveblocks"
+      },
+      "title": "feat(autoware_planning_msgs): add messages for the mapless_architecture",
+      "createdAt": "2024-06-26T09:17:52Z",
+      "merged": false,
+      "additions": 42,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "simon-eisenmann-driveblocks"
+              },
+              "createdAt": "2024-07-11T06:59:48Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOdG5QGg==",
+    "node": {
+      "author": {
+        "login": "YamatoAndo"
+      },
+      "title": "refactor(autoware_map_msgs): modify pcd metadata msg",
+      "createdAt": "2024-07-04T10:53:24Z",
+      "merged": true,
+      "additions": 12,
+      "deletions": 17,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-07-24T13:05:03Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "youtalk"
+              },
+              "createdAt": "2024-07-25T23:41:43Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-07-29T12:54:44Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOdmdGjQ==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "revert: revert \"refactor(autoware_map_msgs): modify pcd metadata msg (#96)\"",
+      "createdAt": "2024-07-25T01:13:19Z",
+      "merged": true,
+      "additions": 17,
+      "deletions": 12,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOdmjZsg==",
+    "node": {
+      "author": {
+        "login": "mitsudome-r"
+      },
+      "title": "refactor(autoware_map_msgs): modify pcd metadata msg",
+      "createdAt": "2024-07-25T03:03:32Z",
+      "merged": false,
+      "additions": 12,
+      "deletions": 17,
+      "comments": {
+        "edges": []
       }
     }
   }

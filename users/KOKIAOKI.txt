@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"KokiAoki","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"MAP IV, Inc.","id":"MDQ6VXNlcjgxNjcwMDI4"}}}

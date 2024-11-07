@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Tomoya Kimura","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"Japan","id":"MDQ6VXNlcjU5NjgwMTgw"}}}

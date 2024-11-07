@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Daniel Taciak","organizations":{"nodes":[{"login":"Dynamics-Regensburg"}]},"company":"@Dynamics-Regensburg ","id":"MDQ6VXNlcjU3MzAwNDc4"}}}

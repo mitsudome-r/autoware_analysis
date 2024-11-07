@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Benjamin.kim (Zeung-il Kim)","organizations":{"nodes":[]},"company":"Hyundai motor company","id":"MDQ6VXNlcjE1NzEwNDY1"}}}

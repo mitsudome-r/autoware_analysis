@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Michał Kiełczykowski","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@RobotecAI ","id":"MDQ6VXNlcjg4NDk4NDM4"}}}

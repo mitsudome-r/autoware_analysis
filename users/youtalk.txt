@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yutaka Kondo","organizations":{"nodes":[{"login":"ros-japan-users"},{"login":"ros2-gbp"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjU3OTMzMw=="}}}

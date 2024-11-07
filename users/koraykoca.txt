@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Koray Koca","organizations":{"nodes":[]},"company":"BMW Group","id":"MDQ6VXNlcjIwNjkwMTk0"}}}

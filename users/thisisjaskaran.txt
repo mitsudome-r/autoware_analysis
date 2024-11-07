@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Jaskaran Singh Sodhi","organizations":{"nodes":[]},"company":"The Robotics Institute","id":"MDQ6VXNlcjUyNDIyOTg0"}}}

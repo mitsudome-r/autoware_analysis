@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Michael Görner","organizations":{"nodes":[{"login":"TAMS-Group"},{"login":"lunar-linux"},{"login":"ros-planning"},{"login":"ros-gbp"},{"login":"uos"},{"login":"PR2"},{"login":"ros-o"}]},"company":"Universität Hamburg","id":"MDQ6VXNlcjY4MDM1OA=="}}}

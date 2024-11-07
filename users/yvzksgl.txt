@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Muhammed Yavuz Köseoğlu","organizations":{"nodes":[{"login":"leo-drive"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjU2NzAwNjM3"}}}

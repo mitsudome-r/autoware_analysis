@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Hidenaga Ushijima","organizations":{"nodes":[{"login":"sezakilab"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjM0NDY2NDAz"}}}

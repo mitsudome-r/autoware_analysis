@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kotaro Uetake","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjYwNjE1NTA0"}}}

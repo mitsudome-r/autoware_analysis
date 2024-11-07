@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Banti Gheneti","organizations":{"nodes":[]},"company":"Ocelli Tech Consulting Cooperative","id":"MDQ6VXNlcjUwMzgzODA="}}}

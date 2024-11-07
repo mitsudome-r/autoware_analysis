@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yuki Kitsukawa","organizations":{"nodes":[{"login":"CPFL"},{"login":"MapIV"},{"login":"autowarefoundation"}]},"company":"Nagoya University","id":"MDQ6VXNlcjQzMTgxNTM="}}}

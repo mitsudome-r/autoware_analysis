@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mateusz Palczuk","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"Robotec.ai","id":"MDQ6VXNlcjgwMDY1MTk3"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Marco Cecotti","organizations":{"nodes":[]},"company":"Cranfield University","id":"MDQ6VXNlcjEyNTEyODY2"}}}

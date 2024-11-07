@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Tek Raj Chhetri","organizations":{"nodes":[{"login":"dandi"},{"login":"CAIRNepal"}]},"company":"Cambridge, Massachusetts","id":"MDQ6VXNlcjUyMjUxMDIy"}}}

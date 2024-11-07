@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Sneha Ganesh","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjI3NDQ5NzQ4"}}}

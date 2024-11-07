@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Satoshi OTA","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjQ0ODg5NTY0"}}}

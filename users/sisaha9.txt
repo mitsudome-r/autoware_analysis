@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Siddharth Saha","organizations":{"nodes":[{"login":"VectorAero"},{"login":"Triton-AI"},{"login":"UCSDAutonomousVehicles2021Team1"},{"login":"UCSD-ECEMAE-148"},{"login":"UCSD-DSC178"},{"login":"autonomous-karting-series"},{"login":"ROAR-Collaboration"},{"login":"avamobility"}]},"company":null,"id":"MDQ6VXNlcjQ5MjA1MTIy"}}}

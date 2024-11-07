@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"王鑫","organizations":{"nodes":[]},"company":"DominantTech","id":"MDQ6VXNlcjU1MTUzMjc="}}}

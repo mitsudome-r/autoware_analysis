@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kim Min-su","organizations":{"nodes":[{"login":"kupl"}]},"company":null,"id":"MDQ6VXNlcjUwMjY3Nzk3"}}}

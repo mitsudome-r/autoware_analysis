@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Keisuke Shima","organizations":{"nodes":[{"login":"cpprefjp"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV, Inc.","id":"MDQ6VXNlcjE5OTkzMTA0"}}}

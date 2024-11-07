@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Akihito Ohsato","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV","id":"MDQ6VXNlcjE1MzE0ODI="}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Supithcha Jongphoemwatthanaphon","organizations":{"nodes":[]},"company":"Faculty of ICT, Mahidol University","id":"U_kgDOBlQUxw"}}}

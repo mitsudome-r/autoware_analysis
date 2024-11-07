@@ -12,6 +12,10 @@ query($repository: String!) {
             login
           }
           title
+          createdAt
+          merged
+          additions
+          deletions
           comments(first:1) {
             edges {
                 node {

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Pedro Rito","organizations":{"nodes":[{"login":"nap-it"}]},"company":"@nap-it","id":"MDQ6VXNlcjI2MTUyMjU1"}}}

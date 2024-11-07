@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"SakodaShintaro","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjI4NTA0MDY5"}}}

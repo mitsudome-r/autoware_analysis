@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yuki Iida","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"}]},"company":"TierIV","id":"MDQ6VXNlcjI1OTI1NDY="}}}

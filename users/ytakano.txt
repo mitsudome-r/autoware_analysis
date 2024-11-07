@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"ytakano","organizations":{"nodes":[{"login":"SF-TAP"},{"login":"7senses"},{"login":"tier4"}]},"company":null,"id":"MDQ6VXNlcjI5NjA4"}}}

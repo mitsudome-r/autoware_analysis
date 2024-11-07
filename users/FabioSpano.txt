@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Fabio Spanò","organizations":{"nodes":[]},"company":"Minerva Systems","id":"MDQ6VXNlcjQwNTQ4NjU1"}}}

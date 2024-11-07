@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kyoichi Sugahara","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"Tier IV","id":"MDQ6VXNlcjMyNzQxNDA1"}}}

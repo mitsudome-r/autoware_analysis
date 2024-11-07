@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Taiga","organizations":{"nodes":[{"login":"tier4"},{"login":"hakoroboken"},{"login":"StrayedCats"},{"login":"SwiftAutoDrive"}]},"company":null,"id":"MDQ6VXNlcjUzMDQxNDcx"}}}

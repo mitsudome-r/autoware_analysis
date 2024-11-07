@@ -7,6 +7,9 @@
       },
       "title": "Add cross ci",
       "createdAt": "2020-06-09T11:37:19Z",
+      "merged": true,
+      "additions": 48,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -20,6 +23,9 @@
       },
       "title": "Update ci",
       "createdAt": "2020-06-17T09:28:50Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -33,6 +39,9 @@
       },
       "title": "[#4] Removing mrt_cmake_modules and lanelet2 from build_depends.repos.",
       "createdAt": "2020-06-17T15:29:28Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 12,
       "comments": {
         "edges": []
       }
@@ -46,6 +55,9 @@
       },
       "title": "Removing debug build flag",
       "createdAt": "2020-06-22T21:33:11Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 148,
       "comments": {
         "edges": []
       }
@@ -59,6 +71,9 @@
       },
       "title": "Add pthread linking flag",
       "createdAt": "2020-07-20T12:10:19Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -81,6 +96,9 @@
       },
       "title": "Fix typo",
       "createdAt": "2020-08-03T12:32:41Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -127,6 +145,9 @@
       },
       "title": "Feature/op planner close path",
       "createdAt": "2020-09-10T07:27:41Z",
+      "merged": true,
+      "additions": 329,
+      "deletions": 15,
       "comments": {
         "edges": [
           {
@@ -197,6 +218,9 @@
       },
       "title": "Tvm pipeline implementation and test",
       "createdAt": "2020-09-29T11:19:39Z",
+      "merged": true,
+      "additions": 915,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -251,6 +275,9 @@
       },
       "title": "Fix Lanelet Utilities Bug",
       "createdAt": "2020-10-09T20:23:34Z",
+      "merged": true,
+      "additions": 38,
+      "deletions": 13,
       "comments": {
         "edges": [
           {
@@ -273,6 +300,9 @@
       },
       "title": "Use rosout in points_map_loader",
       "createdAt": "2020-10-21T15:20:29Z",
+      "merged": true,
+      "additions": 10,
+      "deletions": 10,
       "comments": {
         "edges": []
       }
@@ -286,6 +316,9 @@
       },
       "title": "libwaypoint_follower: Fix MinIDSearch return type",
       "createdAt": "2020-10-21T15:28:45Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -299,6 +332,9 @@
       },
       "title": "libwaypoint_follower: Fix getClosestWaypoint, remove logging from library functions",
       "createdAt": "2020-10-21T15:35:01Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 9,
       "comments": {
         "edges": []
       }
@@ -312,6 +348,9 @@
       },
       "title": "Adding tvm_vendor to build_depends.repos.",
       "createdAt": "2020-11-19T20:42:41Z",
+      "merged": false,
+      "additions": 4,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -342,6 +381,9 @@
       },
       "title": "chore: add announcement about archiving the repository",
       "createdAt": "2023-03-07T07:58:48Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 0,
       "comments": {
         "edges": []
       }

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yukihiro Saito","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjgzMjc1OTg="}}}

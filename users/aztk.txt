@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Takuya Azumi","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"}]},"company":"Saitama University","id":"MDQ6VXNlcjIwNTg1MDA="}}}

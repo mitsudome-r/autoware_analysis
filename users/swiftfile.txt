@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yusuke Mizoguchi","organizations":{"nodes":[{"login":"kyutechilab"},{"login":"Kansai-SpringRobocon"},{"login":"ForteFibre"}]},"company":null,"id":"MDQ6VXNlcjMzMDQ4NzI5"}}}

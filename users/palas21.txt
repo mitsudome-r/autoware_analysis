@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Şafak Pala","organizations":{"nodes":[{"login":"autowarefoundation"}]},"company":"@ITU-ZES-Solar-Car-Team ","id":"U_kgDOBraM1g"}}}

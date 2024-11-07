@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kotaro Yoshimoto","organizations":{"nodes":[{"login":"naist-robotics"},{"login":"tier4"},{"login":"OUXT-Polaris"},{"login":"autowarefoundation"},{"login":"choreonoid"},{"login":"ibis-ssl"},{"login":"Kansai-SpringRobocon"},{"login":"ForteFibre"}]},"company":"TIER IV","id":"MDQ6VXNlcjEyMzk1Mjg0"}}}

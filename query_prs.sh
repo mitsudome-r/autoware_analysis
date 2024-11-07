@@ -13,6 +13,9 @@ query($cursor: String!, $repository: String!) {
           }
           title
           createdAt
+          merged
+          additions
+          deletions
           comments(first:100) {
             edges {
                 node {

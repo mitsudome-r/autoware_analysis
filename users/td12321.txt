@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Taichi Hirano","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjg1OTc2NzQ3"}}}

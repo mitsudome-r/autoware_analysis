@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Scott C. Livingston","organizations":{"nodes":[{"login":"python-control"},{"login":"tulip-control"},{"login":"EPS-Con"},{"login":"JPLOpenSource"},{"login":"fmrchallenge"},{"login":"rerobots"},{"login":"kuaikai"},{"login":"oneplaneteducation"}]},"company":"@rerobots","id":"MDQ6VXNlcjM1NTY1NA=="}}}

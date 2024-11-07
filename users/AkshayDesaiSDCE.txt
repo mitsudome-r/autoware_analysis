@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Akshay Desai","organizations":{"nodes":[]},"company":"Magna Electronics ","id":"MDQ6VXNlcjM5MjQ3NzM2"}}}

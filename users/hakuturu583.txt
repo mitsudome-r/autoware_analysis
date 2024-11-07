@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Masaya Kataoka","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"OUXT-Polaris"}]},"company":"TIER Ⅳ.inc","id":"MDQ6VXNlcjEwMzQ4OTEy"}}}

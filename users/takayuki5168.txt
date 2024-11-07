@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Takayuki Murooka","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjIwMjI4MzI3"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Unger Miklós","organizations":{"nodes":[{"login":"jkk-research"}]},"company":"@jkk-research ","id":"MDQ6VXNlcjUxOTE5NDQ2"}}}

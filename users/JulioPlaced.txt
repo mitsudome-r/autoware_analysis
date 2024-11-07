@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Julio A. Placed","organizations":{"nodes":[]},"company":"Univesity of Zaragoza","id":"MDQ6VXNlcjM5MzAwODU1"}}}

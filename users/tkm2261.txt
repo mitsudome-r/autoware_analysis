@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Takami Sato","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjMxMTAyMDE5"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kenji Mouri / 毛利 研二","organizations":{"nodes":[{"login":"Chuyu-Team"},{"login":"M2Team"},{"login":"msmvps"},{"login":"ProjectMile"},{"login":"qietv"},{"login":"ChaosAIOfficial"},{"login":"SherryPlatform"},{"login":"MobilityOS"}]},"company":"Day: @QieTV / Night: @Chuyu-Team @M2Team","id":"MDQ6VXNlcjEwODY3NTYz"}}}

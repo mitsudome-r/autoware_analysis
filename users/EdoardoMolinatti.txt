@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Edoardo Molinatti","organizations":{"nodes":[]},"company":"Teoresi S.p.A","id":"MDQ6VXNlcjc5MzQwNQ=="}}}

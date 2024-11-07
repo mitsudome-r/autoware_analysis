@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Batuhan Beytekin","organizations":{"nodes":[{"login":"autowarefoundation"},{"login":"AeskAutonomous"}]},"company":"Robeff Technology","id":"MDQ6VXNlcjcxMTk3OTgz"}}}

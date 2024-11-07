@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Rugved Hattekar","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjIzNDE5MzU1"}}}

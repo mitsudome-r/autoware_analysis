@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Rumika Chiba","organizations":{"nodes":[{"login":"RumiCar-group"}]},"company":"RumiCar","id":"MDQ6VXNlcjYwNTU4NjQw"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Shota Tokunaga","organizations":{"nodes":[{"login":"CPFL"}]},"company":null,"id":"MDQ6VXNlcjIxMzAyNzg0"}}}

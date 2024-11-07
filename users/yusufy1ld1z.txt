@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yusuf Yıldız","organizations":{"nodes":[]},"company":null,"id":"U_kgDOBwExNw"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"HyoEun Lee","organizations":{"nodes":[]},"company":"Soongsil University","id":"MDQ6VXNlcjM3NDQ5MDY0"}}}

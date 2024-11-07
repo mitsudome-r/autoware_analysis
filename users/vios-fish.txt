@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Makoto Tokunaga","organizations":{"nodes":[{"login":"CPFL"},{"login":"uchidalab"},{"login":"tier4"}]},"company":"@tier4 ","id":"MDQ6VXNlcjcyMzU4NTE="}}}

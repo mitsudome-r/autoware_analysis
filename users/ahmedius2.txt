@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"AHMET SOYYIGIT","organizations":{"nodes":[]},"company":"The University of Kansas","id":"MDQ6VXNlcjY0NjA2ODk="}}}

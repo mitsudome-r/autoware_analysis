@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Andreas F. Schneider","organizations":{"nodes":[]},"company":"Hochschule Heilbronn","id":"MDQ6VXNlcjEyOTI2NzYy"}}}

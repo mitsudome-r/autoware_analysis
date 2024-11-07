@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Akihisa Nagata","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"},{"login":"KUAMSLab"}]},"company":"TIER IV","id":"MDQ6VXNlcjU0OTU2ODEz"}}}

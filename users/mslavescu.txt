@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Marius Slavescu","organizations":{"nodes":[{"login":"OSSDC"}]},"company":"@gtarobotics @OSSDC","id":"MDQ6VXNlcjQ2MTY2OQ=="}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Keisuke KATO","organizations":{"nodes":[]},"company":"LY","id":"MDQ6VXNlcjEwMzY0NjAz"}}}

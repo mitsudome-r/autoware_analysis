@@ -1,0 +1,1 @@
+{"data":{"organization":{"team":{"members":{"nodes":[{"login":"yukkysaito"},{"login":"xmfcx"},{"login":"idorobotics"},{"login":"mitsudome-r"}],"edges":[{"cursor":"Y3Vyc29yOnYyOpHOAH8Rrg=="},{"cursor":"Y3Vyc29yOnYyOpHOAKQMsQ=="},{"cursor":"Y3Vyc29yOnYyOpHOATfm3g=="},{"cursor":"Y3Vyc29yOnYyOpHOAp8Igg=="}]}}}}}

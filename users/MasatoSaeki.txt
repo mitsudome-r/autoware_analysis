@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Masato Saeki ","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjc4Mzc2NDkx"}}}

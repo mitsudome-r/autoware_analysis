@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Godgang","organizations":{"nodes":[]},"company":"NHN CLOUD, AI Lab","id":"MDQ6VXNlcjM2MTU5NjYz"}}}

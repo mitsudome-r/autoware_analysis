@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"ぐるぐる","organizations":{"nodes":[{"login":"tier4"},{"login":"StudioAquatan"},{"login":"ForteFibre"},{"login":"stop-covid19-kyoto"}]},"company":"Kyoto Institute of Technology","id":"MDQ6VXNlcjI4OTkxNzMw"}}}

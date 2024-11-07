@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Satoshi Tanaka","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV, Inc","id":"MDQ6VXNlcjE2MzMwNTMz"}}}

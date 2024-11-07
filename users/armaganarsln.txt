@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Armağan Arslan","organizations":{"nodes":[{"login":"autowarefoundation"}]},"company":"Leo Drive Teknoloji A.Ş.","id":"MDQ6VXNlcjU2NzMxMjg5"}}}

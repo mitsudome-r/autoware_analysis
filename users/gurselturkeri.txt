@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Gürsel Türkeri","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjY4NjgyNzM3"}}}

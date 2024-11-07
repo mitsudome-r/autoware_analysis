@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mai Bui","organizations":{"nodes":[{"login":"microsoft"},{"login":"Azure"}]},"company":"@microsoft","id":"MDQ6VXNlcjM5MDY1NTkz"}}}

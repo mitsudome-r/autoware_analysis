@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Zeynep  Akbalık","organizations":{"nodes":[{"login":"autowarefoundation"},{"login":"VisionX-Plant-Pathology-Team"}]},"company":"Leo Drive","id":"MDQ6VXNlcjU1MDg5NTM0"}}}

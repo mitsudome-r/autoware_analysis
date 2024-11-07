@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Hatem Darweesh","organizations":{"nodes":[]},"company":"Nagoya University","id":"MDQ6VXNlcjIwMTgyODAx"}}}

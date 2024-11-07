@@ -7,6 +7,9 @@
       },
       "title": "Add cross ci",
       "createdAt": "2020-06-09T11:37:33Z",
+      "merged": true,
+      "additions": 45,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -20,6 +23,9 @@
       },
       "title": "Update ci",
       "createdAt": "2020-06-17T09:29:04Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 3,
       "comments": {
         "edges": []
       }
@@ -33,6 +39,9 @@
       },
       "title": "waypoint_replanner configuration parameter cleanup",
       "createdAt": "2020-10-21T16:23:25Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 5,
       "comments": {
         "edges": []
       }
@@ -46,6 +55,9 @@
       },
       "title": "chore: add announcement about archiving the repository",
       "createdAt": "2023-03-10T13:12:44Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 0,
       "comments": {
         "edges": []
       }

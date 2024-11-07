@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"ext-OHMAE Takugo","organizations":{"nodes":[]},"company":"PERSOL CAREER CO., LTD. ","id":"MDQ6VXNlcjEzNDc5MDA5"}}}

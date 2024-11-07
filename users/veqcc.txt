@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Ryuta Kambe","organizations":{"nodes":[{"login":"tier4"},{"login":"Goda-Research-Group"},{"login":"autowarefoundation"}]},"company":"TIER IV","id":"MDQ6VXNlcjI2OTUxNTYy"}}}

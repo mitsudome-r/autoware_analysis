@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Barış Zeren","organizations":{"nodes":[{"login":"autowarefoundation"}]},"company":"Yıldız Technical University","id":"MDQ6VXNlcjc2MDUzMTc5"}}}

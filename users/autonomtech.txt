@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"MECHATNOM TEKNOLOJİ YAZILIM SANAYİ TİCARET ANONİM ŞİRKETİ","organizations":{"nodes":[]},"company":"@mechatnom","id":"MDQ6VXNlcjYwMTc1NTk1"}}}

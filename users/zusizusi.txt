@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Sho Iwasawa","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjQxNjA2MDcz"}}}

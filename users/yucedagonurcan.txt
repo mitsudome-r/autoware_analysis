@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Onur Can Yücedağ","organizations":{"nodes":[]},"company":"ADASTEC Corp. @adastec ","id":"MDQ6VXNlcjE2MzQyNjI5"}}}

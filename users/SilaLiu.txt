@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Teddy","organizations":{"nodes":[]},"company":"贵州韩凯斯智能技术有限公司","id":"MDQ6VXNlcjM5NzkwMjcy"}}}

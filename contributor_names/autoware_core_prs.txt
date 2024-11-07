@@ -1,8 +1,17 @@
+HansRobo
+JianKangEgon
+ahmeddesokyebrahim
 awf-autoware-bot
+beginningfan
+brkay54
 codecov
 dependabot
+esteve
+isamu-takagi
 kenji-miyake
+lexavtanke
 mergify
+mitsudome-r
 myoung34
 pre-commit-ci
 shmpwk

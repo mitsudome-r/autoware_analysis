@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yogesh kumar G N","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjExNjM0MzE2"}}}

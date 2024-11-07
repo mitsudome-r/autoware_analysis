@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kosuke Murakami","organizations":{"nodes":[{"login":"CPFL"}]},"company":null,"id":"MDQ6VXNlcjEwOTIwODgx"}}}

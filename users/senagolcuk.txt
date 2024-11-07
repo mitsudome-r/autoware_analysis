@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Irem Sena GOLCUK","organizations":{"nodes":[{"login":"autowarefoundation"}]},"company":"@leodrive.ai","id":"U_kgDOBgBy-A"}}}

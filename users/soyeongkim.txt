@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Soyeong Kim","organizations":{"nodes":[{"login":"ailab-hanyang"}]},"company":"Automotive intelligence lab @ailab-hanyang","id":"MDQ6VXNlcjQzOTk3Mjcw"}}}

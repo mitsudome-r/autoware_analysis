@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Batuhan Uluçay","organizations":{"nodes":[]},"company":null,"id":"MDQ6VXNlcjQzNDUyMDE1"}}}

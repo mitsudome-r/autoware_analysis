@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Gabriel J O Giani Moreno","organizations":{"nodes":[]},"company":"DAFO AI","id":"MDQ6VXNlcjE0MTk1OTM="}}}

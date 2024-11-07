@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Amadeusz Szymko","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV","id":"MDQ6VXNlcjM3Mzk2MzEy"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kenji Funaoka","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"}]},"company":"TIER IV","id":"MDQ6VXNlcjM4MDMwNzcy"}}}

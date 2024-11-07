@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Makoto Yamada","organizations":{"nodes":[{"login":"tier4"}]},"company":null,"id":"MDQ6VXNlcjI0NjQyOTg5"}}}

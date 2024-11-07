@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yusuke FUJII","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"}]},"company":null,"id":"MDQ6VXNlcjE3NTg4MDQ="}}}

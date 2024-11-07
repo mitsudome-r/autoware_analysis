@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Tomoyuki Watanabe","organizations":{"nodes":[]},"company":"MACNICA","id":"U_kgDOBXeUYw"}}}

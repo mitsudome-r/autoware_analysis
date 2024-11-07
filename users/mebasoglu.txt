@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mehmet Emin BAŞOĞLU","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"},{"login":"AeskAutonomous"}]},"company":null,"id":"MDQ6VXNlcjEzNTg5MTQ5"}}}

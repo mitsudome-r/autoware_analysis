@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Manato Hirabayashi","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjMwMjI0MTY="}}}

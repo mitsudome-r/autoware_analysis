@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"RyuYamamoto","organizations":{"nodes":[{"login":"tork-a"},{"login":"citbrains"},{"login":"open-rdc"},{"login":"ros-japan-users"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV, Inc.","id":"MDQ6VXNlcjYxNzcyNTI="}}}

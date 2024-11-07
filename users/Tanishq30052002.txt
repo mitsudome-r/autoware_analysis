@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Tanishq Chaudhary","organizations":{"nodes":[]},"company":"IIT(ISM) Dhanbad","id":"MDQ6VXNlcjc4MDI2OTc2"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mamoru Sobue","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjI4Njc3NDIw"}}}

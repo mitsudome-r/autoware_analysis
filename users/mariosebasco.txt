@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mario Sebasco","organizations":{"nodes":[]},"company":"HDT  Global","id":"MDQ6VXNlcjIyMDg4OTA5"}}}

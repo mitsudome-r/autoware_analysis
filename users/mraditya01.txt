@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Giovanni Muhammad Raditya","organizations":{"nodes":[]},"company":"Nagoya University","id":"MDQ6VXNlcjU5ODMwMDAx"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Göktuğ Yıldırım","organizations":{"nodes":[{"login":"autowarefoundation"}]},"company":"LEO Drive","id":"MDQ6VXNlcjQ5ODQ1NTMw"}}}

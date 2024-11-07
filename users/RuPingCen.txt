@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"熊猫飞天","organizations":{"nodes":[]},"company":"重庆邮电大学-自动化学院","id":"MDQ6VXNlcjE4MzIxNDU1"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Masaki Baba","organizations":{"nodes":[{"login":"tier4"}]},"company":null,"id":"MDQ6VXNlcjE2MTg1MjAz"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"syouji","organizations":{"nodes":[{"login":"CPFL"}]},"company":null,"id":"MDQ6VXNlcjkwMzEwMDg="}}}

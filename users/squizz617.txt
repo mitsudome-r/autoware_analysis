@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Seulbae Kim","organizations":{"nodes":[{"login":"ku-cssa"}]},"company":null,"id":"MDQ6VXNlcjEwODYxNjMz"}}}

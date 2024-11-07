@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kenzo Lobos Tsunekawa","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4 ","id":"MDQ6VXNlcjQ3MTIyNzA="}}}

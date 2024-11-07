@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Albers Franz","organizations":{"nodes":[]},"company":"@rst-tu-dortmund ","id":"MDQ6VXNlcjIwNzc0NDcw"}}}

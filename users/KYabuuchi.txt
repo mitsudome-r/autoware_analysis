@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kento Yabuuchi","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV","id":"MDQ6VXNlcjI0ODU0ODc1"}}}

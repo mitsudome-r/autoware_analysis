@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mert Yavuz","organizations":{"nodes":[]},"company":"Adastec","id":"MDQ6VXNlcjczMTIwMzM2"}}}

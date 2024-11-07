@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Shintaro Tomie","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjU4Nzc1MzAw"}}}

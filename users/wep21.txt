@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Daisuke Nishimatsu","organizations":{"nodes":[{"login":"CPFL"},{"login":"autowarefoundation"}]},"company":null,"id":"MDQ6VXNlcjQyMjAyMDk1"}}}

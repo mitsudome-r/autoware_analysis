@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Pranav Bajoria","organizations":{"nodes":[]},"company":"Arizona State University","id":"MDQ6VXNlcjQ3NjE3NTM3"}}}

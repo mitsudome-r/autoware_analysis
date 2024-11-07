@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Hiroki OTA","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4 ","id":"MDQ6VXNlcjk1NDcwNzA="}}}

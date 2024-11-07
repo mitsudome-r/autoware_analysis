@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Tomoya Sato","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"}]},"company":"Map IV, Inc.","id":"MDQ6VXNlcjM2NjU3ODMz"}}}

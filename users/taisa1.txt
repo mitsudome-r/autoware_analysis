@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"taisa1","organizations":{"nodes":[]},"company":"The University of Tokyo","id":"MDQ6VXNlcjM4NTIyNTU5"}}}

@@ -1,0 +1,1 @@
+{"data":{"organization":{"team":{"members":{"nodes":[{"login":"doganulus"},{"login":"xmfcx"}],"edges":[{"cursor":"Y3Vyc29yOnYyOpHOABHqxA=="},{"cursor":"Y3Vyc29yOnYyOpHOAKQMsQ=="}]}}}}}

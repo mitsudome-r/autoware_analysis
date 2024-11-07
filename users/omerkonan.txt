@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Ömer Konan","organizations":{"nodes":[]},"company":"Adastec Corp.","id":"MDQ6VXNlcjQxNTUwMTA1"}}}

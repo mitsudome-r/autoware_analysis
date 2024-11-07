@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Berkay Karaman","organizations":{"nodes":[{"login":"leo-drive"},{"login":"autowarefoundation"}]},"company":"Planning & Control @ Leo Drive","id":"MDQ6VXNlcjQ1NDY4MzA2"}}}

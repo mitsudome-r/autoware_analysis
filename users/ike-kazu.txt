@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kazuma Ikeda","organizations":{"nodes":[{"login":"tier4"}]},"company":null,"id":"MDQ6VXNlcjYyOTQyNjMz"}}}

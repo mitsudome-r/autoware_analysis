@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kosuke Takeuchi","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4","id":"MDQ6VXNlcjM5MTQyNjc5"}}}

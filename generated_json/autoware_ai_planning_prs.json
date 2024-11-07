@@ -7,6 +7,9 @@
       },
       "title": "Add cross ci",
       "createdAt": "2020-06-09T11:37:27Z",
+      "merged": true,
+      "additions": 48,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -20,6 +23,9 @@
       },
       "title": "Update ci",
       "createdAt": "2020-06-17T09:28:55Z",
+      "merged": true,
+      "additions": 8,
+      "deletions": 13,
       "comments": {
         "edges": []
       }
@@ -33,6 +39,9 @@
       },
       "title": "bug fix about issue #5",
       "createdAt": "2020-06-25T01:41:29Z",
+      "merged": false,
+      "additions": 4,
+      "deletions": 4,
       "comments": {
         "edges": [
           {
@@ -79,6 +88,9 @@
       },
       "title": "Fix typo",
       "createdAt": "2020-08-04T10:30:45Z",
+      "merged": false,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -101,6 +113,9 @@
       },
       "title": "Fix typo",
       "createdAt": "2020-08-04T15:31:45Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -123,6 +138,9 @@
       },
       "title": "velocity_set: Small Cleanup",
       "createdAt": "2020-09-03T18:33:59Z",
+      "merged": true,
+      "additions": 230,
+      "deletions": 235,
       "comments": {
         "edges": []
       }
@@ -136,6 +154,9 @@
       },
       "title": "astar_avoid: Small Cleanup",
       "createdAt": "2020-09-03T18:43:02Z",
+      "merged": true,
+      "additions": 54,
+      "deletions": 96,
       "comments": {
         "edges": [
           {
@@ -158,6 +179,9 @@
       },
       "title": "lane_planner: Both range_min and range_max should be index numbers.",
       "createdAt": "2020-09-03T19:08:13Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -171,6 +195,9 @@
       },
       "title": "pure_pursuit: disable reset of is_waypoint_set flag after each control loop",
       "createdAt": "2020-09-03T19:11:00Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -184,6 +211,9 @@
       },
       "title": "lane select: Refactor waypoints publishing",
       "createdAt": "2020-09-03T19:14:06Z",
+      "merged": true,
+      "additions": 92,
+      "deletions": 133,
       "comments": {
         "edges": [
           {
@@ -230,6 +260,9 @@
       },
       "title": "pure_pursuit: Add update_rate as a configurable parameter",
       "createdAt": "2020-09-03T19:41:23Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 4,
       "comments": {
         "edges": []
       }
@@ -243,6 +276,9 @@
       },
       "title": "lane_planner: Change log level from WARN to DEBUG for some msgs",
       "createdAt": "2020-09-03T19:44:10Z",
+      "merged": true,
+      "additions": 19,
+      "deletions": 6,
       "comments": {
         "edges": []
       }
@@ -256,6 +292,9 @@
       },
       "title": "Enable way_planner visualization by default",
       "createdAt": "2020-09-14T08:59:57Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -269,6 +308,9 @@
       },
       "title": "Add maximum retry parameter to way_planner",
       "createdAt": "2020-09-17T11:24:20Z",
+      "merged": true,
+      "additions": 39,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -291,6 +333,9 @@
       },
       "title": "Enable way_planner to return path close to the goal",
       "createdAt": "2020-10-08T15:41:55Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -304,6 +349,9 @@
       },
       "title": "Code style fixes for way_planner",
       "createdAt": "2020-10-08T21:26:57Z",
+      "merged": true,
+      "additions": 954,
+      "deletions": 910,
       "comments": {
         "edges": [
           {
@@ -358,6 +406,9 @@
       },
       "title": "pure_pursuit: Code Cleanup",
       "createdAt": "2020-10-13T18:56:01Z",
+      "merged": true,
+      "additions": 97,
+      "deletions": 174,
       "comments": {
         "edges": [
           {
@@ -380,6 +431,9 @@
       },
       "title": "Fix an inaccurate warning msg inside VelocitySetPath::calcInterval",
       "createdAt": "2020-10-13T19:37:33Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -393,6 +447,9 @@
       },
       "title": "Fix limitAccelDecel issue when the velocity profile contains multiple up and downs.",
       "createdAt": "2020-10-13T20:23:01Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 4,
       "comments": {
         "edges": [
           {
@@ -415,6 +472,9 @@
       },
       "title": "waypoint_replanner configuration parameter cleanup",
       "createdAt": "2020-10-21T16:19:31Z",
+      "merged": true,
+      "additions": 35,
+      "deletions": 126,
       "comments": {
         "edges": [
           {
@@ -445,6 +505,9 @@
       },
       "title": "Fix lane_select to differentiate stopline types",
       "createdAt": "2020-10-21T18:11:25Z",
+      "merged": true,
+      "additions": 30,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -475,6 +538,9 @@
       },
       "title": "Add yellow arrows to the global path to indicate turn signal activation",
       "createdAt": "2020-10-21T18:14:20Z",
+      "merged": true,
+      "additions": 72,
+      "deletions": 14,
       "comments": {
         "edges": [
           {
@@ -513,6 +579,9 @@
       },
       "title": "Remove velocity_set's dependence on localizer_pose topic",
       "createdAt": "2020-10-21T18:17:54Z",
+      "merged": true,
+      "additions": 61,
+      "deletions": 29,
       "comments": {
         "edges": []
       }
@@ -526,6 +595,9 @@
       },
       "title": "waypoint_replanner: Fix endpoint_mode",
       "createdAt": "2020-10-21T18:35:22Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 3,
       "comments": {
         "edges": [
           {
@@ -548,6 +620,9 @@
       },
       "title": "pure_pursuit: Clean up how control cmds are published",
       "createdAt": "2020-10-21T18:42:42Z",
+      "merged": true,
+      "additions": 61,
+      "deletions": 16,
       "comments": {
         "edges": []
       }
@@ -561,6 +636,9 @@
       },
       "title": "pure_pursuit: Cleanup #2",
       "createdAt": "2020-10-21T18:49:47Z",
+      "merged": true,
+      "additions": 117,
+      "deletions": 266,
       "comments": {
         "edges": [
           {
@@ -591,6 +669,9 @@
       },
       "title": "Lanelet2 Global Planner Skeleton",
       "createdAt": "2020-10-21T18:58:18Z",
+      "merged": true,
+      "additions": 317,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -604,6 +685,9 @@
       },
       "title": "Global planner implementation",
       "createdAt": "2020-10-21T19:05:48Z",
+      "merged": true,
+      "additions": 215,
+      "deletions": 15,
       "comments": {
         "edges": [
           {
@@ -666,6 +750,9 @@
       },
       "title": "waypoint_planner: Improve stopline stopping",
       "createdAt": "2020-10-21T19:15:07Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 4,
       "comments": {
         "edges": [
           {
@@ -688,6 +775,9 @@
       },
       "title": "Fix incorrect start index inside waypoint iteration loop to compute distance",
       "createdAt": "2020-10-21T19:19:52Z",
+      "merged": true,
+      "additions": 19,
+      "deletions": 16,
       "comments": {
         "edges": []
       }
@@ -701,6 +791,9 @@
       },
       "title": "Remove meaningless enum definition of TrafficLightColors in state machine lib.",
       "createdAt": "2020-10-21T19:23:26Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 8,
       "comments": {
         "edges": []
       }
@@ -714,6 +807,9 @@
       },
       "title": "astar_avoid: handle error returned from calling libwaypointfollower::getClosestWaypoint()",
       "createdAt": "2020-10-21T19:26:23Z",
+      "merged": true,
+      "additions": 28,
+      "deletions": 24,
       "comments": {
         "edges": [
           {
@@ -744,6 +840,9 @@
       },
       "title": "Fix astar_avoid crashes",
       "createdAt": "2020-10-21T20:00:40Z",
+      "merged": true,
+      "additions": 58,
+      "deletions": 52,
       "comments": {
         "edges": [
           {
@@ -790,6 +889,9 @@
       },
       "title": "Lanelet2 global planner: LLH goal points",
       "createdAt": "2020-10-21T20:04:33Z",
+      "merged": true,
+      "additions": 28,
+      "deletions": 10,
       "comments": {
         "edges": [
           {
@@ -828,6 +930,9 @@
       },
       "title": "Planning Logging Refactor",
       "createdAt": "2020-10-21T20:13:22Z",
+      "merged": true,
+      "additions": 44,
+      "deletions": 19,
       "comments": {
         "edges": [
           {
@@ -850,6 +955,9 @@
       },
       "title": "pure_pursuit logging cleanup",
       "createdAt": "2020-10-21T20:17:35Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 3,
       "comments": {
         "edges": []
       }
@@ -863,6 +971,9 @@
       },
       "title": "Twist Gate Refactor",
       "createdAt": "2020-10-21T20:22:55Z",
+      "merged": false,
+      "additions": 104,
+      "deletions": 513,
       "comments": {
         "edges": [
           {
@@ -917,6 +1028,9 @@
       },
       "title": "Twist Filter Modes",
       "createdAt": "2020-10-21T21:20:10Z",
+      "merged": true,
+      "additions": 112,
+      "deletions": 82,
       "comments": {
         "edges": []
       }
@@ -930,6 +1044,9 @@
       },
       "title": "lane_select: Fix distance_threshold bug",
       "createdAt": "2020-10-21T21:24:54Z",
+      "merged": true,
+      "additions": 13,
+      "deletions": 10,
       "comments": {
         "edges": []
       }
@@ -943,6 +1060,9 @@
       },
       "title": "chore: add announcement about archiving the repository",
       "createdAt": "2023-03-10T13:13:42Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 0,
       "comments": {
         "edges": []
       }

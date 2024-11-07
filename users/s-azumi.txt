@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Azumi Suzuki","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV","id":"MDQ6VXNlcjM4MDYxNTMw"}}}

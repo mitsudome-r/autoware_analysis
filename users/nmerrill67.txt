@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Nathaniel Merrill","organizations":{"nodes":[]},"company":"University of Delaware","id":"MDQ6VXNlcjI0MjM4ODQ3"}}}

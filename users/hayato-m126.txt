@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Hayato Mizushima","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"@tier4 ","id":"MDQ6VXNlcjE2OTc3NzM2"}}}

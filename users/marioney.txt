@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Mario Garzon","organizations":{"nodes":[{"login":"rosin-project"},{"login":"tud-cor"}]},"company":null,"id":"MDQ6VXNlcjUxOTgyMjM="}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Akash Manna","organizations":{"nodes":[]},"company":"PravaigDynamics","id":"MDQ6VXNlcjgxMjMzMTY3"}}}

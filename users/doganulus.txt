@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Doğan Ulus","organizations":{"nodes":[{"login":"autowarefoundation"},{"login":"bounverif"},{"login":"bouncmpe"}]},"company":"Boğaziçi University @bouncmpe ","id":"MDQ6VXNlcjExNzQyMTI="}}}

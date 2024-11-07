@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Jean","organizations":{"nodes":[]},"company":"Southeast University","id":"MDQ6VXNlcjEzNTk5MzI0"}}}

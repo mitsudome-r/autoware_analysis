@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Takahiro Ishikawa","organizations":{"nodes":[{"login":"tier4"},{"login":"pflab-ut"},{"login":"autowarefoundation"}]},"company":"TIER IV, Inc. / The University of Tokyo","id":"MDQ6VXNlcjE4MjU0NjYz"}}}

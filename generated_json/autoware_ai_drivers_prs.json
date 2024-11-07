@@ -7,6 +7,9 @@
       },
       "title": "Add cross ci",
       "createdAt": "2020-06-09T11:37:31Z",
+      "merged": true,
+      "additions": 48,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -20,6 +23,9 @@
       },
       "title": "Update ci",
       "createdAt": "2020-06-17T09:29:01Z",
+      "merged": true,
+      "additions": 8,
+      "deletions": 13,
       "comments": {
         "edges": []
       }
@@ -33,6 +39,9 @@
       },
       "title": "SSC Interface: pointer member variables are not deleted inside destructor",
       "createdAt": "2020-09-03T18:11:13Z",
+      "merged": true,
+      "additions": 19,
+      "deletions": 26,
       "comments": {
         "edges": [
           {
@@ -79,6 +88,9 @@
       },
       "title": "chore: add announcement about archiving the repository",
       "createdAt": "2023-03-10T13:10:43Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 0,
       "comments": {
         "edges": []
       }

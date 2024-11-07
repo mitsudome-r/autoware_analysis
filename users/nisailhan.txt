@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Nisanur Ilhan","organizations":{"nodes":[]},"company":"Sabancı University","id":"MDQ6VXNlcjU4MTE4NTc3"}}}

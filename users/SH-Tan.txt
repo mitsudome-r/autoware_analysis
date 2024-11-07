@@ -1,0 +1,1 @@
+{"data":{"user":{"name":null,"organizations":{"nodes":[]},"company":"Rensselaer Polytechnic Institute","id":"MDQ6VXNlcjU2MzM5MDM3"}}}

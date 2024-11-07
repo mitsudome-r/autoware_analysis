@@ -7,6 +7,9 @@
       },
       "title": "ci: add sync-files.yaml",
       "createdAt": "2022-03-03T00:25:26Z",
+      "merged": true,
+      "additions": 56,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -20,6 +23,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-03T00:26:24Z",
+      "merged": true,
+      "additions": 543,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -33,6 +39,9 @@
       },
       "title": "chore: sync issue and PR templates",
       "createdAt": "2022-03-03T00:33:57Z",
+      "merged": true,
+      "additions": 6,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -103,6 +112,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-03T01:19:11Z",
+      "merged": true,
+      "additions": 36,
+      "deletions": 27,
       "comments": {
         "edges": []
       }
@@ -116,6 +128,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-03T01:49:14Z",
+      "merged": true,
+      "additions": 8,
+      "deletions": 8,
       "comments": {
         "edges": []
       }
@@ -129,6 +144,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-04T00:19:58Z",
+      "merged": true,
+      "additions": 202,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -142,6 +160,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-03-07T16:59:52Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 5,
       "comments": {
         "edges": [
           {
@@ -164,6 +185,9 @@
       },
       "title": "docs(config): add mkdocs-macros-plugin",
       "createdAt": "2022-03-08T08:03:24Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -177,6 +201,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-12T00:16:23Z",
+      "merged": true,
+      "additions": 181,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -190,6 +217,9 @@
       },
       "title": "chore: add NOTICE",
       "createdAt": "2022-03-12T06:37:17Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -203,6 +233,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-13T06:27:42Z",
+      "merged": true,
+      "additions": 189,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -216,6 +249,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-13T07:15:01Z",
+      "merged": true,
+      "additions": 13,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -229,6 +265,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-14T12:13:23Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -242,6 +281,9 @@
       },
       "title": "chore: sync stale.yml",
       "createdAt": "2022-03-24T04:14:05Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -255,6 +297,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-24T12:18:05Z",
+      "merged": true,
+      "additions": 19,
+      "deletions": 10,
       "comments": {
         "edges": []
       }
@@ -268,6 +313,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-03-26T00:17:26Z",
+      "merged": true,
+      "additions": 7,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -281,6 +329,9 @@
       },
       "title": "ci(pre-commit): update pre-commit-hooks-ros",
       "createdAt": "2022-04-03T02:16:44Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 3,
       "comments": {
         "edges": [
           {
@@ -303,6 +354,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-05T00:18:03Z",
+      "merged": true,
+      "additions": 23,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -316,6 +370,9 @@
       },
       "title": "chore(deps): Bump codecov/codecov-action from 2 to 3",
       "createdAt": "2022-04-05T14:36:35Z",
+      "merged": false,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -338,6 +395,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-09T07:12:17Z",
+      "merged": true,
+      "additions": 24,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -351,6 +411,9 @@
       },
       "title": "chore: sync codecov.yaml",
       "createdAt": "2022-04-09T07:16:32Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -364,6 +427,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-04-11T17:02:17Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -377,6 +443,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-13T00:20:41Z",
+      "merged": true,
+      "additions": 7,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -390,6 +459,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-17T00:20:50Z",
+      "merged": true,
+      "additions": 16,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -403,6 +475,9 @@
       },
       "title": "chore(deps): bump platisd/clang-tidy-pr-comments from 1.1.6 to 1.1.7",
       "createdAt": "2022-04-18T14:38:25Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": [
           {
@@ -433,6 +508,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-18T14:44:17Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -446,6 +524,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-04-18T16:54:16Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 19,
       "comments": {
         "edges": [
           {
@@ -468,6 +549,9 @@
       },
       "title": "ci(sync-files): sync github-release.yaml",
       "createdAt": "2022-04-21T14:35:29Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -481,6 +565,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-22T00:22:52Z",
+      "merged": true,
+      "additions": 63,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -494,6 +581,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-04-26T00:21:33Z",
+      "merged": true,
+      "additions": 8,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -507,6 +597,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-03T00:23:34Z",
+      "merged": true,
+      "additions": 15,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -520,6 +613,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-08T00:20:12Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -533,6 +629,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-05-09T16:55:25Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 3,
       "comments": {
         "edges": []
       }
@@ -546,6 +645,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-25T00:24:47Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 5,
       "comments": {
         "edges": []
       }
@@ -559,6 +661,9 @@
       },
       "title": "docs: update README",
       "createdAt": "2022-05-27T03:23:17Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -619,6 +724,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-05-28T00:23:18Z",
+      "merged": true,
+      "additions": 72,
+      "deletions": 20,
       "comments": {
         "edges": []
       }
@@ -632,6 +740,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-05-30T16:53:50Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 3,
       "comments": {
         "edges": []
       }
@@ -645,6 +756,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-06-20T16:54:49Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -658,6 +772,9 @@
       },
       "title": "chore(deps): bump styfle/cancel-workflow-action from 0.9.1 to 0.10.0",
       "createdAt": "2022-06-27T14:50:22Z",
+      "merged": false,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": [
           {
@@ -688,6 +805,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-06-28T00:25:30Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -701,6 +821,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-07-04T17:06:56Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -714,6 +837,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-07-11T17:01:11Z",
+      "merged": true,
+      "additions": 5,
+      "deletions": 5,
       "comments": {
         "edges": []
       }
@@ -727,6 +853,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-08-04T00:25:18Z",
+      "merged": true,
+      "additions": 3,
+      "deletions": 3,
       "comments": {
         "edges": []
       }
@@ -740,6 +869,9 @@
       },
       "title": "testing refactor",
       "createdAt": "2022-08-16T15:21:08Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -753,6 +885,9 @@
       },
       "title": "testing refactor",
       "createdAt": "2022-08-16T15:25:37Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -766,6 +901,9 @@
       },
       "title": "docs: test refactor",
       "createdAt": "2022-08-16T15:30:49Z",
+      "merged": true,
+      "additions": 0,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -779,6 +917,9 @@
       },
       "title": "ci: add update-codeownders-from-packages.yaml",
       "createdAt": "2022-08-23T10:49:33Z",
+      "merged": true,
+      "additions": 35,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -792,6 +933,9 @@
       },
       "title": "chore: update CODEOWNERS",
       "createdAt": "2022-08-30T04:18:34Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -814,6 +958,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-08-31T01:57:02Z",
+      "merged": true,
+      "additions": 460,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -827,6 +974,9 @@
       },
       "title": "chore(sync-files): sync cancel-previous-workflows.yaml",
       "createdAt": "2022-08-31T05:00:11Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -849,6 +999,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-08-31T06:38:25Z",
+      "merged": true,
+      "additions": 30,
+      "deletions": 6,
       "comments": {
         "edges": []
       }
@@ -862,6 +1015,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-09-01T00:24:26Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 5,
       "comments": {
         "edges": []
       }
@@ -875,6 +1031,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-09-02T00:23:46Z",
+      "merged": true,
+      "additions": 11,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -888,6 +1047,9 @@
       },
       "title": "ci: update minor CI settings",
       "createdAt": "2022-09-02T01:03:04Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 3,
       "comments": {
         "edges": []
       }
@@ -901,6 +1063,9 @@
       },
       "title": "feat(autoware_node): add AutowareNode base class",
       "createdAt": "2022-09-23T09:45:57Z",
+      "merged": false,
+      "additions": 116,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -931,6 +1096,9 @@
       },
       "title": "feat(autoware_node): add AutowareNode base class",
       "createdAt": "2022-09-23T12:55:54Z",
+      "merged": false,
+      "additions": 631,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -977,6 +1145,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-09-25T00:26:21Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -990,6 +1161,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-10-02T00:34:30Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1003,6 +1177,9 @@
       },
       "title": "chore(deps): bump tj-actions/changed-files from 31 to 32",
       "createdAt": "2022-10-06T15:05:48Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": [
           {
@@ -1033,6 +1210,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-10-07T00:36:39Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1046,6 +1226,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-10-10T17:18:18Z",
+      "merged": true,
+      "additions": 4,
+      "deletions": 4,
       "comments": {
         "edges": []
       }
@@ -1059,6 +1242,9 @@
       },
       "title": "chore(deps): bump styfle/cancel-workflow-action from 0.10.1 to 0.11.0",
       "createdAt": "2022-10-12T14:38:04Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": [
           {
@@ -1089,6 +1275,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-10-22T00:33:25Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1102,6 +1291,9 @@
       },
       "title": "chore(deps): bump tj-actions/changed-files from 32 to 33",
       "createdAt": "2022-10-24T14:48:19Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": [
           {
@@ -1132,6 +1324,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-10-25T00:40:06Z",
+      "merged": true,
+      "additions": 39,
+      "deletions": 30,
       "comments": {
         "edges": []
       }
@@ -1145,6 +1340,9 @@
       },
       "title": "chore(deps): bump tj-actions/changed-files from 32 to 34",
       "createdAt": "2022-10-26T14:41:00Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": [
           {
@@ -1183,6 +1381,9 @@
       },
       "title": "ci(pre-commit): sync .pre-commit-config.yaml",
       "createdAt": "2022-12-01T03:00:29Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -1196,6 +1397,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-12-02T00:22:30Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1209,6 +1413,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2022-12-12T17:29:54Z",
+      "merged": false,
+      "additions": 0,
+      "deletions": 0,
       "comments": {
         "edges": []
       }
@@ -1222,6 +1429,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2022-12-23T00:21:34Z",
+      "merged": true,
+      "additions": 9,
+      "deletions": 9,
       "comments": {
         "edges": [
           {
@@ -1276,6 +1486,9 @@
       },
       "title": "feat: add autoware_node and autoware_control_center",
       "createdAt": "2023-02-03T14:37:51Z",
+      "merged": false,
+      "additions": 1777,
+      "deletions": 0,
       "comments": {
         "edges": [
           {
@@ -1284,6 +1497,326 @@
                 "login": "codecov"
               },
               "createdAt": "2023-02-03T14:41:24Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2023-05-15T10:56:50Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-05-29T14:00:36Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JianKangEgon"
+              },
+              "createdAt": "2023-05-31T01:41:10Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-06-13T15:25:39Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2023-11-09T23:42:11Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-12-12T09:12:06Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2023-12-20T12:46:20Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-12-21T04:35:08Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2023-12-22T08:21:41Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-12-25T05:39:53Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-01-15T06:59:56Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-01-17T14:42:44Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-01-18T12:40:19Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-01-19T12:59:16Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-01-29T06:57:56Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-02-05T06:49:38Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-02-12T06:48:10Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-02-19T06:53:51Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-02-19T15:40:13Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JianKangEgon"
+              },
+              "createdAt": "2024-02-23T01:28:57Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-02-23T07:16:01Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "JianKangEgon"
+              },
+              "createdAt": "2024-02-23T07:24:03Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-03-04T06:57:13Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-03-19T18:22:03Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              },
+              "createdAt": "2024-03-20T10:52:57Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-03-20T15:06:15Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "brkay54"
+              },
+              "createdAt": "2024-03-20T15:11:26Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-03-20T15:15:50Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "ahmeddesokyebrahim"
+              },
+              "createdAt": "2024-04-02T04:10:11Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-04-02T10:14:48Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "mitsudome-r"
+              },
+              "createdAt": "2024-04-15T07:24:28Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-04-15T16:42:59Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-04-15T16:44:22Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-04-15T17:16:58Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-04-15T22:04:41Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-04-22T08:21:34Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-04-22T09:44:41Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-04-23T08:08:36Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-04-24T13:32:15Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "lexavtanke"
+              },
+              "createdAt": "2024-04-24T13:46:25Z"
             }
           }
         ]
@@ -1298,6 +1831,9 @@
       },
       "title": "ci(pre-commit): autoupdate",
       "createdAt": "2023-02-06T17:52:40Z",
+      "merged": false,
+      "additions": 1,
+      "deletions": 1,
       "comments": {
         "edges": []
       }
@@ -1311,6 +1847,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2023-02-10T00:24:17Z",
+      "merged": true,
+      "additions": 1,
+      "deletions": 2,
       "comments": {
         "edges": []
       }
@@ -1324,6 +1863,9 @@
       },
       "title": "chore: sync files",
       "createdAt": "2023-02-18T00:23:40Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 18,
       "comments": {
         "edges": []
       }
@@ -1335,8 +1877,312 @@
       "author": {
         "login": "pre-commit-ci"
       },
-      "title": "[pre-commit.ci] pre-commit autoupdate",
+      "title": "chore: pre-commit autoupdate",
       "createdAt": "2023-03-06T17:45:54Z",
+      "merged": true,
+      "additions": 11,
+      "deletions": 11,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTWxHTw==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2023-04-02T00:23:10Z",
+      "merged": true,
+      "additions": 7,
+      "deletions": 0,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOTkd0Ew==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: sync files",
+      "createdAt": "2023-04-14T00:20:36Z",
+      "merged": false,
+      "additions": 72,
+      "deletions": 21,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2024-08-13T06:08:22Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOVYHhRA==",
+    "node": {
+      "author": {
+        "login": "xmfcx"
+      },
+      "title": "feat: add autoware_version_manager package",
+      "createdAt": "2023-07-14T10:37:09Z",
+      "merged": false,
+      "additions": 487,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-14T13:16:49Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-14T13:22:43Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-14T17:44:51Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "HansRobo"
+              },
+              "createdAt": "2023-07-18T13:23:07Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "isamu-takagi"
+              },
+              "createdAt": "2023-07-19T02:38:27Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-21T13:37:50Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-21T13:43:33Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2023-07-25T15:50:14Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2023-09-23T20:18:09Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-03-07T10:05:09Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOV5hc-A==",
+    "node": {
+      "author": {
+        "login": "beginningfan"
+      },
+      "title": "feat(traffic_light_utils): add traffic_light_utils from universe/\u2026",
+      "createdAt": "2023-08-10T03:37:48Z",
+      "merged": false,
+      "additions": 264,
+      "deletions": 0,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOWX3Ekg==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): bump actions/checkout from 3 to 4",
+      "createdAt": "2023-09-04T14:23:29Z",
+      "merged": true,
+      "additions": 14,
+      "deletions": 14,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              },
+              "createdAt": "2023-09-04T14:23:31Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "stale"
+              },
+              "createdAt": "2023-11-04T04:37:28Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-07-19T11:44:47Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOaHaGgA==",
+    "node": {
+      "author": {
+        "login": "awf-autoware-bot"
+      },
+      "title": "chore: update CODEOWNERS",
+      "createdAt": "2024-03-02T00:08:51Z",
+      "merged": true,
+      "additions": 2,
+      "deletions": 2,
+      "comments": {
+        "edges": []
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOb885Hg==",
+    "node": {
+      "author": {
+        "login": "xmfcx"
+      },
+      "title": "feat: add autoware_control_center and autoware_node",
+      "createdAt": "2024-05-17T15:49:37Z",
+      "merged": false,
+      "additions": 1979,
+      "deletions": 0,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "esteve"
+              },
+              "createdAt": "2024-05-21T10:50:11Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "xmfcx"
+              },
+              "createdAt": "2024-05-21T13:51:34Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "esteve"
+              },
+              "createdAt": "2024-05-21T15:51:29Z"
+            }
+          },
+          {
+            "node": {
+              "author": {
+                "login": "codecov"
+              },
+              "createdAt": "2024-07-19T11:45:29Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOdejv6A==",
+    "node": {
+      "author": {
+        "login": "dependabot"
+      },
+      "title": "chore(deps): bump codecov/codecov-action from 3 to 4",
+      "createdAt": "2024-07-19T14:50:57Z",
+      "merged": false,
+      "additions": 2,
+      "deletions": 2,
+      "comments": {
+        "edges": [
+          {
+            "node": {
+              "author": {
+                "login": "dependabot"
+              },
+              "createdAt": "2024-07-19T14:50:59Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cursor": "Y3Vyc29yOnYyOpHOd3kYuA==",
+    "node": {
+      "author": {
+        "login": "pre-commit-ci"
+      },
+      "title": "[pre-commit.ci] pre-commit autoupdate",
+      "createdAt": "2024-08-05T17:04:04Z",
+      "merged": false,
+      "additions": 2,
+      "deletions": 2,
       "comments": {
         "edges": []
       }

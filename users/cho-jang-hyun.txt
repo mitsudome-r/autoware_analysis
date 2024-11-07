@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Jang Hyun Cho","organizations":{"nodes":[{"login":"hyper-vision-2023"}]},"company":"Kyung Hee University","id":"MDQ6VXNlcjY5MzU3MDgz"}}}

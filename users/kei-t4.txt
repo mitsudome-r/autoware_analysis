@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Kei Kato","organizations":{"nodes":[{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"Tier IV","id":"MDQ6VXNlcjcxNDg4NDg1"}}}

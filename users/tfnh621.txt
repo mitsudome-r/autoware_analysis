@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Yugo Takano","organizations":{"nodes":[{"login":"saikocar"}]},"company":"Saitama Institute of Technology","id":"U_kgDOCOb57A"}}}

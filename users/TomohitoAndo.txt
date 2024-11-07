@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Tomohito ANDO","organizations":{"nodes":[{"login":"CPFL"},{"login":"tier4"},{"login":"autowarefoundation"}]},"company":"TIER IV, Inc","id":"MDQ6VXNlcjExODY1NzY5"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Dawid Moszyński","organizations":{"nodes":[{"login":"tier4"}]},"company":"@RobotecAI ","id":"U_kgDOB0J-vg"}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"name":"Jimin Jeong","organizations":{"nodes":[]},"company":"Spring Cloud","id":"MDQ6VXNlcjQwMjUzMDA5"}}}
