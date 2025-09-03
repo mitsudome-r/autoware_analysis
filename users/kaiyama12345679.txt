@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kaiyama12345679","name":"Kai Yamashita","company":"The University of Tokyo","id":"U_kgDOBlxPKA","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

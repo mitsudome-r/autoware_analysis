@@ -41,7 +41,6 @@ ClementLeBihan
 CodeIsWorld
 Codebot2455
 CoderGenJ
-CowTC
 CurlyWei
 DWKE
 DWatabe
@@ -57,7 +56,6 @@ Eng-Mo
 Eric-Gonzalez
 EricWu123
 ErijBNT
-Fancy93
 Fangwq
 FleverX
 Fuji-ken
@@ -88,23 +86,22 @@ JeremyCKT
 JoeyZhu
 JonasLos
 JungHY
-K1504296
 KaifuZ
 KenYN
 KetkiChaudhary
 Kin-Zhang
-L-Net-1992
 LAsurvivor
 LUUTHIENXUAN
 Leonardo092
 LevinJ
 LiTszOn
+LittleYouEr
+Liyuanyuan05
 LoayMAmin
 LongruiDong
 LukeAI
 LukePhairatt
 MI-Hussain
-MINUS-1ONE
 MadCauchy
 MadalasaP
 Mani-Sadhasivam
@@ -117,13 +114,13 @@ MrDadaGuy
 MrYuJing
 NEUdeep
 Nehagarwal
-Nicholas-Mitchell
+Nicholas-Autio-Mitchell
 Omega-Spinti
-Pallav1299
 Patrick-Woo
 PejoyPOcky
 PeterZheFu
 Probacal
+QSLee-Net
 QipiaoZhou
 RauLopMar
 RicWg
@@ -146,7 +143,6 @@ Soroosh129
 Squigglywave
 Srivatsa-M-Hegde
 StanleyHusai
-Stella-Chen
 SyuanLiao
 TBdt38
 TNAV1
@@ -154,6 +150,7 @@ TZVIh
 TakaHoribe
 Tamme
 TanatosSpirit
+TheodoreRTG
 TigerJieZ
 Tikitikitiki
 Timple
@@ -183,9 +180,9 @@ YaoHsuan
 YiDaMi
 YiheChen1995
 YingjieLu
+Yousef-Alhattab
 Yu-Xiaoxian
 YvesZHI
-ZhangChongpeng
 Zong-Ming-Jing
 ZuoJiaxing
 aalzooke
@@ -198,6 +195,7 @@ aivo0
 ajay1606
 ak201790
 albuckley
+aleksander-lukashou
 alex-mocanu
 alexampa
 alexanderhmw
@@ -232,8 +230,6 @@ aztk
 baaixw
 bage131
 baharkhabbazan
-baroselfdriving
-bbidault2
 bdholt1
 beetleskin
 ben-swain
@@ -267,6 +263,7 @@ colinsung
 cvcore
 cwee9616
 cy-goh
+cyberbuilder
 cyberphysicalrobotics
 d0l1v3
 daifuku07
@@ -286,14 +283,12 @@ drofp
 droneboxid
 droter
 drwnz
-dtyugin
 duchengyao
 duclinhfetel
 dufengit
 ebeowulf
 echotor
 eds89
-edward0im
 elNiNo009
 elberthuang
 elsa210
@@ -308,6 +303,7 @@ forete
 fpasch
 francis0407
 francisvac
+gabgiani
 gamal-elghazaly
 gaohongfein
 gbiggs
@@ -320,8 +316,10 @@ gsp9
 gsrujana
 gstorer
 gulshan216
+gyubeomim
 gzblue07
 h-ohta
+h-robbinbs
 hadiTab
 hahaxun
 hakunaMatataHub
@@ -330,7 +328,6 @@ halderb
 hamkuchan
 harderthan
 harendracmaps
-harobbins
 hatem-darweesh
 heliumneon
 henryzhangzhy
@@ -365,7 +362,6 @@ jfqureshi
 jh0w3l05
 jiamingZhong93
 jileejun
-jinfagang
 jitrc
 jiyuehe
 jjimin
@@ -373,11 +369,11 @@ jjldr
 jmarrr
 johnbryant1
 jokla
-joon5283
 jpsamper2009
 jraclarke
 jt387
 junjieshen
+junyeonwon1
 jwen11
 jyakaranda
 jyl087
@@ -401,7 +397,7 @@ kosmastsk
 kossumov
 kouui
 kshitijagrwl
-kttnk
+ktnrs55
 kuriking
 kurogane1031
 kyesh
@@ -424,6 +420,7 @@ locix-admin
 lonfr
 longzee
 lrodrig3
+lucasjinreal
 lukasthede
 m-seiya
 madhavajay
@@ -493,9 +490,11 @@ ohata-aki
 ompugao
 onatkeser
 orkop465
+pallavbhalla
 pallyra1
 pamarinp
 pangsu0613
+panxiying
 pedrobagatin
 pedroexenberger
 pfrcks
@@ -536,7 +535,6 @@ s-azumi
 s170035u
 s95huang
 saeedarabi92
-saesaem
 sagar448
 sai5555
 saihideyasu
@@ -546,6 +544,7 @@ sankim90
 sarahisyoung
 scalefreee
 scheng98
+seam0814
 seboz123
 sergiocasaspastor
 sgermanserrano
@@ -572,6 +571,7 @@ sujiwo
 sumanth-nirmal
 sumenpuyuan
 sumjos
+super-zyw
 superify
 swrao
 swwelch
@@ -600,9 +600,7 @@ txxg001001
 tyzaizl
 ubercool2
 umiklos
-urbansound8K
 uriv
-va9abund
 vachmas
 vaibhavviswanathan
 valgur
@@ -641,7 +639,6 @@ wzr6009
 x7hkvip
 xczhanjun
 xiaohedu
-xiaowei520-lwl
 xiewenjing1170
 xingxiuhua
 xonez
@@ -654,11 +651,11 @@ yamacir-kit
 yantaixu0120
 yaozhai
 yebo92
+yelbuod
 yfzhang
 yiakwy
 yiliang123456
 yinchenjia
-yinwei-zhang
 yk-fujii
 yn-mrse
 ytgcljj
@@ -685,4 +682,5 @@ zslzsl999
 zyyfly2010
 zzhh00
 zzkou
+zzp0617
 zzqjh

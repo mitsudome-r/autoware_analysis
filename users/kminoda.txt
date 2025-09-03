@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kminoda","name":null,"company":null,"id":"MDQ6VXNlcjQ0MjE4NjY4","organizations":{"nodes":[{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

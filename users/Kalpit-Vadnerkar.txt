@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Kalpit-Vadnerkar","name":"Kalpit Vadnerkar","company":"Clemson University","id":"MDQ6VXNlcjczMzEzNjgx","organizations":{"nodes":[]}}}}

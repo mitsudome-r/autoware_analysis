@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kazu-321","name":"Kazusa Hashimoto","company":null,"id":"MDQ6VXNlcjgzNjE0NTU5","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"NITIC-Robot-Club","name":"NITIC-Robot-Club"}]}}}}

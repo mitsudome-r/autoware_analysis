@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"MaxandreOgeret","name":null,"company":"Milrem Robotics","id":"MDQ6VXNlcjIyNzg2NTc4","organizations":{"nodes":[{"login":"MogRobotics","name":"MOG Robotics OÜ"}]}}}}

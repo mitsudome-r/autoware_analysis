@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"RValner","name":"Robert Valner","company":null,"id":"MDQ6VXNlcjEzNzk4MTcz","organizations":{"nodes":[{"login":"temoto-framework","name":"TeMoto"}]}}}}

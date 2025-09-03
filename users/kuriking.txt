@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kuriking","name":"USUDA Hisashi","company":null,"id":"MDQ6VXNlcjE0NDg3MjI=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

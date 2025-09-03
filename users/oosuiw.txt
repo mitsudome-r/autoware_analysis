@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"oosuiw","name":"minsoo_is_confused","company":"Chosun University","id":"U_kgDOBtE8zQ","organizations":{"nodes":[]}}}}

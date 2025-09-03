@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"beginningfan","name":null,"company":"@autocore-ai","id":"U_kgDOBidHGg","organizations":{"nodes":[{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

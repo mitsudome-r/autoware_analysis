@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"takanotaiga","name":"Taiga","company":"TIER IV","id":"MDQ6VXNlcjUzMDQxNDcx","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"StrayedCats","name":"StrayedCats"},{"login":"SwiftAutoDrive","name":"SwiftAutoDrive"},{"login":"moriyalab","name":"moriyalab"},{"login":"minecraft-ros2","name":"minecraft-ros2"}]}}}}

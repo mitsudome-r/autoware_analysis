@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"albertpod","name":"Albert","company":"@biaslab","id":"MDQ6VXNlcjg5MzExNzc=","organizations":{"nodes":[{"login":"lazydynamics","name":"Lazy Dynamics"},{"login":"ReactiveBayes","name":"ReactiveBayes"}]}}}}

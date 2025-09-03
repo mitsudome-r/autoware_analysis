@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"nisshan-x","name":"Shinya Nishimoto","company":null,"id":"MDQ6VXNlcjY3MzUzMjc2","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

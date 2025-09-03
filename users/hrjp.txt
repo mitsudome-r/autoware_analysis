@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"hrjp","name":"Shunya Hara","company":null,"id":"MDQ6VXNlcjM2MTAwMzIx","organizations":{"nodes":[{"login":"KobeKosenRobotics","name":"Kobe Kosen Robotics"},{"login":"booars","name":"B(oo)ars"}]}}}}

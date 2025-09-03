@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"horverno","name":"Ernő Horváth","company":"Szechenyi University","id":"MDQ6VXNlcjExNTA0NzA5","organizations":{"nodes":[{"login":"szenergy","name":"szenergy"},{"login":"sze-info","name":"sze-info"},{"login":"jkk-research","name":"JKK - Vehicle Industry Research Center"}]}}}}

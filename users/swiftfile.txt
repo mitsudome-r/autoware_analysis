@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"swiftfile","name":"Yusuke Mizoguchi","company":null,"id":"MDQ6VXNlcjMzMDQ4NzI5","organizations":{"nodes":[{"login":"kyutechilab","name":"kyutechilab"},{"login":"Kansai-SpringRobocon","name":"関西春ロボコン運営委員会"},{"login":"ForteFibre","name":"ForteFibre"}]}}}}

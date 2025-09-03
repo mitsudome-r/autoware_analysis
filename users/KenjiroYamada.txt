@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"KenjiroYamada","name":null,"company":null,"id":"MDQ6VXNlcjExOTIwOTY1","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

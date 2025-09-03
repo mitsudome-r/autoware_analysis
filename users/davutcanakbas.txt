@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"davutcanakbas","name":"Davut Can Akbaş","company":null,"id":"MDQ6VXNlcjYyMTgxMzU4","organizations":{"nodes":[{"login":"SUBU-AISET","name":"AISET"}]}}}}

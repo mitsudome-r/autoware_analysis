@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"tfnh621","name":"Yugo Takano","company":"Saitama Institute of Technology","id":"U_kgDOCOb57A","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"saikocar","name":"埼玉工業大学 自動運転技術開発センター"}]}}}}

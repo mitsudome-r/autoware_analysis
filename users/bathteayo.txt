@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"bathteayo","name":"Hayate TOBA","company":null,"id":"U_kgDOBkd6ag","organizations":{"nodes":[{"login":"autowarefoundation","name":"The Autoware Foundation"},{"login":"azu-lab","name":"Azumi lab.  Graduate School of Science and Engineering Saitama University"}]}}}}

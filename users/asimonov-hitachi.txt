@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"asimonov-hitachi","name":"Alexey Simonov","company":null,"id":"MDQ6VXNlcjQ0NjY5MzQ1","organizations":{"nodes":[]}}}}

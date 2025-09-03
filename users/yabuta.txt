@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yabuta","name":"yabuta","company":null,"id":"MDQ6VXNlcjQzMTgyOTI=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"KCCS-Aikawa","name":null,"company":null,"id":"U_kgDOBr2LuA","organizations":{"nodes":[]}}}}

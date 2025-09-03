@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Jiangxumin","name":"Jiangxumin","company":null,"id":"MDQ6VXNlcjE2NzQyMjU3","organizations":{"nodes":[{"login":"jxm-group","name":"jxm-group"}]}}}}

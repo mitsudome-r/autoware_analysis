@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"TakaHoribe","name":"Takamasa Horibe","company":"@tier4 ","id":"MDQ6VXNlcjIxMzYwNTkz","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"},{"login":"Autoware-AI","name":"Autoware.AI"}]}}}}

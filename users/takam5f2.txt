@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"takam5f2","name":"Takayuki AKAMINE","company":"TIER IV, inc.","id":"MDQ6VXNlcjM4NTg2NTg5","organizations":{"nodes":[]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Koichi98","name":"Koichi Imai","company":null,"id":"MDQ6VXNlcjQ1NDgyMTkz","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"KASUYASU","name":null,"company":null,"id":"MDQ6VXNlcjEyODEyNTE5","organizations":{"nodes":[]}}}}

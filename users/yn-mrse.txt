@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yn-mrse","name":"Yuma Nihei","company":"TIER IV, Inc.","id":"MDQ6VXNlcjMzMzExNjMw","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

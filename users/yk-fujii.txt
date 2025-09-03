@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yk-fujii","name":"Yusuke FUJII","company":null,"id":"MDQ6VXNlcjE3NTg4MDQ=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."}]}}}}

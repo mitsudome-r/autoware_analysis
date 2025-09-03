@@ -15,7 +15,7 @@ def getContributors(file, contributor_type, use_filter = False, count_ai = True)
     print(len(edges))
     for x in edges:
         d = datetime.datetime.strptime(x["node"]["createdAt"], '%Y-%m-%dT%H:%M:%SZ')
-        date_filter = datetime.datetime(2022, 1, 1)
+        date_filter = datetime.datetime(2015, 1, 1)
         # date_filter = datetime.datetime(2022, 12, 1)
         if use_filter:
             if d > date_filter and count_ai:
@@ -276,6 +276,20 @@ json_file="generated_json/autoware_ai_common_prs.json"
 autoware_ai_common_prs += getContributors(json_file, contributor_type)
 writeNamesToFile(autoware_ai_common_prs, "autoware_ai_common_prs.txt")
 
+## autoware_privately_owned_vehicles
+autoware_privately_owned_vehicles_issues = []
+contributor_type="issues"
+json_file="generated_json/autoware_privately_owned_vehicles_issues.json"
+autoware_privately_owned_vehicles_issues += getContributors(json_file, contributor_type)
+writeNamesToFile(autoware_privately_owned_vehicles_issues, "autoware_privately_owned_vehicles_issues.txt")
+
+autoware_privately_owned_vehicles_prs = []
+contributor_type="pullRequests"
+json_file="generated_json/autoware_privately_owned_vehicles_prs.json"
+autoware_privately_owned_vehicles_prs += getContributors(json_file, contributor_type)
+writeNamesToFile(autoware_privately_owned_vehicles_prs, "autoware_privately_owned_vehicles_prs.txt")
+
+
 ### ALL
 
 autoware_code_contributors = autoware_prs \
@@ -284,14 +298,35 @@ autoware_code_contributors = autoware_prs \
                            + autoware_msgs_prs \
                            + autoware_common_prs \
                            + autoware_launch_prs \
-                           + autoware_documentation_prs
+                           + autoware_documentation_prs \
+                           + autoware_ai_prs \
+                           + autoware_ai_planning_prs \
+                           + autoware_ai_perception_prs \
+                           + autoware_ai_messages_prs \
+                           + autoware_ai_simulation_prs \
+                           + autoware_ai_visualization_prs \
+                           + autoware_ai_drivers_prs \
+                           + autoware_ai_utilities_prs \
+                           + autoware_ai_common_prs \
+                           + autoware_privately_owned_vehicles_prs
 autoware_community_contributors = autoware_discussions \
                                 + autoware_issues \
                                 + universe_issues \
                                 + autoware_msgs_issues \
                                 + autoware_common_issues \
                                 + autoware_launch_issues \
-                                + autoware_documentation_issues 
+                                + autoware_documentation_issues \
+                                + autoware_ai_issues \
+                                + autoware_ai_common_issues \
+                                + autoware_ai_planning_issues \
+                                + autoware_ai_perception_issues \
+                                + autoware_ai_messages_issues \
+                                + autoware_ai_utilities_issues \
+                                + autoware_ai_simulation_issues \
+                                + autoware_ai_visualization_issues \
+                                + autoware_ai_drivers_issues \
+                                + autoware_privately_owned_vehicles_issues
+
 autoware_contributors = autoware_code_contributors + autoware_community_contributors
 
 autoware_code_contributors = sorted(set(autoware_code_contributors))

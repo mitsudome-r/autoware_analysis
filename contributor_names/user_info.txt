@@ -1,0 +1,511 @@
+xiaoqingdong:none:[]:none
+vtbassmatt:@microsoft :['microsoft']:none
+oguzkaganozt:none:['autowarefoundation']:leodrive
+weisongwen:Hong Kong Polytechnic University/University of California, Berkeley:['IPNL-POLYU']:none
+doganulus:Boğaziçi University @bouncmpe :['autowarefoundation', 'bounverif', 'bouncmpe']:none
+shinpei0208:TIER IV:['CPFL', 'envytools', 'tier4']:tier4
+TauTheLepton:Robotec.ai:['tier4', 'autowarefoundation']:none
+gongyongyu:none:[]:none
+aadarshkt:none:['autowarefoundation']:none
+Jiangxumin:none:['jxm-group']:none
+evshary:none:['Adlink-ROS', 'autowarefoundation']:none
+softyanija:@tier4:['tier4']:tier4
+youtalk:@tier4:['ros-japan-users', 'ros2-gbp', 'tier4', 'autowarefoundation']:tier4
+sribrundav:none:[]:none
+souryavarenya:none:[]:none
+dan-dnn:none:['tier4', 'autowarefoundation']:tier4
+kaspermeck-arm:Arm:['autowarefoundation']:none
+StepTurtle:Yıldız Technical University:['autowarefoundation']:leodrive
+ykataya-fsi:none:['tier4']:none
+yukke42:none:[]:none
+PurplePegasuss:none:[]:none
+h-ohta:@tier4 :['CPFL', 'tier4', 'autowarefoundation']:tier4
+KOKIAOKI:MAP IV, Inc.:['tier4', 'autowarefoundation']:none
+zusizusi:none:['tier4', 'autowarefoundation']:tier4
+sagar448:none:[]:none
+YoheiMishina:none:['tier4', 'autowarefoundation']:tier4
+hatem-darweesh:Nagoya University:[]:none
+AmirInt:none:[]:none
+masayukiaino:none:['tier4']:none
+sezan92:none:['autowarefoundation']:none
+MasatoSaeki:@tier4:['tier4', 'autowarefoundation']:tier4
+yabuta:none:['CPFL', 'tier4', 'autowarefoundation']:tier4
+danielsanchezaran:@tier4 :['tier4', 'autowarefoundation']:tier4
+dmoszynski:@RobotecAI :['tier4']:none
+kazu-321:none:['tier4', 'NITIC-Robot-Club']:none
+Autumn60:TIER IV, Inc.:['tier4', 'autowarefoundation']:tier4
+reinzor:none:['ros-drivers', 'ros2-gbp']:none
+bathteayo:none:['autowarefoundation', 'azu-lab']:tier4
+Owen-Liuyuxuan:none:[]:tier4
+WJaworskiRobotec:none:['autowarefoundation']:none
+dejanpan:none:['CPFL']:none
+isamu-takagi:none:['CPFL', 'tier4', 'autowarefoundation']:tier4
+masa1228masa:none:['CPFL']:none
+sgvandijk:none:['ros2-gbp', 'BoldHearts']:none
+icolwell:none:[]:none
+xmfcx:Autoware Foundation:['ros2-gbp', 'autowarefoundation']:none
+github-actions:none:[]:none
+QZJGeorge:none:[]:none
+sgermanserrano:none:[]:none
+hayato-m126:@tier4 :['tier4', 'autowarefoundation']:tier4
+SamratThapa120:TIER IV:['tier4', 'autowarefoundation']:tier4
+bgilby59:none:['autowarefoundation']:tier4
+drwnz:TIER IV, Nagoya University:['CPFL', 'tier4', 'autowarefoundation']:tier4
+liuXinGangChina:autocore.ai:['autowarefoundation']:autocore
+francis0407:IPADS@SJTU:['pingcap', 'datenlord']:none
+jakor97:none:[]:none
+CristianGariboldi:none:[]:none
+mkuri:TIER IV:['tier4', 'autowarefoundation']:tier4
+sebekx:none:[]:none
+mackierx111:TIER IV:['tier4', 'autowarefoundation']:tier4
+HEGALLIS:none:['CPFL']:none
+Ariiees:University of Delaware :['ese5160']:none
+colinsung:none:[]:none
+kaigohirao:none:['tier4']:none
+toki-1441:none:['iASL-Gifu']:none
+freejumperd:ELM EU:[]:none
+nai1gun:MOIA:[]:none
+farbod1277:Applied Electric Vehicle:[]:none
+ktro2828:@tier4:['tier4', 'autowarefoundation']:tier4
+alireza-moayyedi:@Nobleo:[]:none
+Chuck-Yu:none:[]:none
+asana17:none:['autowarefoundation']:tier4
+masahiro-kubota:none:['tier4', 'autowarefoundation']:tier4
+kaancolak:none:['tier4', 'autowarefoundation']:leodrive
+golnazhabibi3:none:[]:none
+Tinker-Twins:ARMLab, CU-ICAR:['ARMLabCUICAR', 'AutoDRIVE-Ecosystem']:none
+AvinashRamashray:none:[]:none
+Ericpotato:none:['tier4', 'autowarefoundation']:tier4
+kfunaoka:TIER IV:['CPFL', 'tier4']:tier4
+rej55:TIER IV, Inc.:['tier4', 'autowarefoundation']:tier4
+ckirksey3:@google:[]:none
+snail333:none:[]:none
+lexavtanke:none:['autowarefoundation']:leodrive
+Kim-mins:none:['kupl']:none
+xtk8532704:Tier4:['tier4', 'autowarefoundation']:tier4
+asimay:@xiaopeng:[]:none
+LukeAI:none:[]:none
+sujiwo:none:['CPFL']:none
+miursh:none:['tier4', 'autowarefoundation']:tier4
+simon-t4:none:['tier4']:tier4
+djargot:none:['tier4', 'autowarefoundation']:none
+tzhong518:none:['tier4', 'autowarefoundation']:tier4
+giganticbite:none:[]:none
+kennedywai:@HelloWorldRobotics:[]:none
+kobayu858:none:['tier4', 'autowarefoundation']:tier4
+vish0012:The University of Tokyo:[]:tier4
+keiota:none:[]:none
+munirfarzeen:none:[]:none
+icolwell-as:AutonomouStuff:['astuff', 'ros2-gbp']:none
+mitsudome-r:TIER IV:['CPFL', 'ros2-gbp', 'tier4', 'autowarefoundation', 'ai-rush-2019', 'Autoware-AI', 'autoware-org', 'MitsudomeTestOrganization']:tier4
+cavadibrahimli1:Divit Technology:[]:none
+mraditya01:Nagoya University:[]:none
+TakumIto:none:['tier4']:none
+mengen100:none:[]:none
+enesadastec:none:[]:none
+Tier4Guan:none:[]:none
+LucaFos:none:[]:none
+pdsljp:none:['CPFL']:none
+veqcc:TIER IV:['tier4', 'Goda-Research-Group', 'autowarefoundation']:tier4
+0xd1ma:none:[]:none
+a-maumau:none:['tier4']:tier4
+JihunDev:SkyAutoNet:['Cusmos', 'Double-1', 'MOS-Lab']:none
+droter:none:['ros-agriculture']:none
+joel-mb:none:[]:none
+WAHDB:none:[]:none
+shulanbushangshu:@autocore-ai:['autowarefoundation']:autocore
+TaikiYamada4:none:['tier4', 'autowarefoundation']:tier4
+Naophis:none:['tier4', 'MiceBusters', 'autowarefoundation']:tier4
+plane-li:@autocore-ai:['autowarefoundation']:autocore
+geogrewang:none:[]:none
+KenjiroYamada:none:['CPFL']:none
+takeshi-iwanari:@tier4:[]:none
+Timple:@nobleo :['tue-robotics', 'nobleo', 'ros2-gbp']:none
+satoshi-ota:@tier4:['tier4', 'autowarefoundation']:tier4
+tkhmy:none:['autowarefoundation']:tier4
+yuteno:none:[]:none
+docjag:none:['autowarefoundation']:none
+wat-r:none:['tier4']:tier4
+Kaipa-Charan:none:[]:none
+ataparlar:@leo-drive :['itu-rover', 'autowarefoundation']:leodrive
+ChenxiTU:none:['CPFL']:none
+christopherho-ApexAI:none:['CPFL']:none
+KenYN:none:[]:none
+aohsato:TIER IV:['CPFL', 'tier4', 'autowarefoundation']:tier4
+alanmengg:none:[]:none
+Ulixes-8:University of Edinburgh:[]:none
+yukkysaito:@tier4:['CPFL', 'ros2-gbp', 'tier4', 'autowarefoundation']:tier4
+ralwing:none:[]:none
+k-obitsu:@tier4:['tier4', 'autowarefoundation']:tier4
+Squigglywave:none:[]:none
+lixianqiang:none:[]:none
+syohex:none:['emacs-jp', 'CPFL']:none
+Narendarselva:none:[]:none
+harderthan:none:[]:none
+k0suke-murakami:none:['CPFL']:none
+karishma1911:none:['autowarefoundation']:none
+PhoebeWu21:Foxconn Technology Group:['autowarefoundation']:none
+jerry73204:none:[]:none
+ohsawa1204:none:['tier4', 'autowarefoundation']:tier4
+1L2PGesner:none:[]:none
+karmenlu:none:['autowarefoundation']:none
+T-Shota:none:['CPFL']:none
+abilbaotm:none:[]:none
+gitoabdelgawad:none:[]:none
+vividf:TIER IV:['tier4', 'autowarefoundation']:tier4
+Tpsych:none:[]:none
+technolojin:TIER IV:['tier4', 'autowarefoundation']:tier4
+Nagi70:none:['autowarefoundation']:tier4
+kitsukawa:Nagoya University:['CPFL', 'MapIV', 'autowarefoundation']:none
+Andrey949101:none:[]:none
+amc-nu:MAP IV / TIER IV:['CPFL', 'tier4', 'autowarefoundation']:tier4
+anhnv3991:none:['CPFL', 'tier4', 'autowarefoundation']:tier4
+Zeysthingz:Leo Drive:['autowarefoundation', 'VisionX-Plant-Pathology-Team']:leodrive
+hamkuchan:none:[]:none
+shmpwk:@tier4:['tier4', 'autowarefoundation']:tier4
+TakumiKozaka-T4:none:[]:none
+chinhyuntai:none:[]:none
+110y:none:['kauche', 'newmo-oss']:none
+Koichi98:none:['tier4', 'autowarefoundation']:tier4
+go-sakayori:none:['tier4', 'autowarefoundation']:tier4
+JWhitleyWork:Electrified Autonomy:['ros2-gbp', 'autowarefoundation', 'Autoware-AI']:none
+Mingyu1991:none:['autowarefoundation']:tier4
+brian841102:ITRI:['autowarefoundation']:none
+aicarmark:none:['CPFL']:none
+annaborn:none:[]:none
+kosmastsk:@CERTH-ITI :[]:none
+moelang:none:[]:none
+wakabame:none:['tier4']:none
+LiyouZhou:none:['Autoware-AI']:none
+lwtlwt0810:none:[]:none
+kk-inoue-esol:none:[]:none
+sgk-000:GO Inc:[]:none
+td12321:none:[]:none
+amtommy:none:[]:none
+xuyuan-han:none:[]:none
+wep21:none:['CPFL', 'ros2-gbp', 'autowarefoundation']:tier4
+cyberphysicalrobotics:none:[]:none
+daifuku07:none:['CPFL']:none
+Kin-Zhang:PhD @KTH-RPL; MPhil HKUST:['KTH-RPL', 'HKUSTGZ-IADC']:none
+czluck:none:[]:none
+Enigamict:none:['tier4']:none
+maxime-clem:none:['tier4', 'autowarefoundation']:tier4
+KhalilSelyan:Leo Drive:['autowarefoundation']:leodrive
+YamatoAndo:none:['CPFL', 'tier4', 'autowarefoundation']:tier4
+atomyks:none:[]:none
+siddas27:none:['OpenGuide', 'autowarefoundation']:none
+T-Kimura-MM:none:['tier4']:none
+Mani-Sadhasivam:Linaro :['CPFL', 'EmbedJournal', '96boards', 'zephyrproject-rtos', '96boards-projects']:none
+wentasah:Czech Technical University in Prague:['CTU-IIG']:none
+interimadd:TIER IV. inc:['tier4', 'autowarefoundation']:tier4
+Sreechandh22:Arizona State University:[]:none
+ambroise-arm:none:['autowarefoundation']:none
+KeisukeShima:TIER IV, Inc.:['cpprefjp', 'tier4', 'autowarefoundation']:tier4
+dahhmani:Vecna Robotics:['autowarefoundation']:none
+knzo25:@tier4 :['tier4', 'autowarefoundation']:tier4
+TheodoreRTG:Linaro:[]:none
+dependabot:none:[]:none
+ChinYikMing:National Taiwan University:[]:none
+italojs:@Meteor :['EpicGames', 'devcsp', 'herbsjs']:none
+atsushi421:none:['tier4', 'autowarefoundation']:tier4
+MaxandreOgeret:Milrem Robotics:['MogRobotics']:none
+kemalsoyaltun:none:[]:none
+N-Eiki:none:['tier4', 'autowarefoundation', 'ISE-dev']:tier4
+AA-T4:none:['tier4']:tier4
+raminterpl:none:['autowarefoundation']:none
+f0reachARR:Kyoto Institute of Technology:['ros2-gbp', 'tier4', 'StudioAquatan', 'ForteFibre', 'stop-covid19-kyoto']:none
+JianKangEgon:@autocore-ai:['autowarefoundation']:autocore
+Anaple:none:[]:none
+Arata-Stu:none:[]:none
+odra:none:[]:none
+maximus5684:none:[]:none
+coderabbitai:none:[]:none
+alexandrx:none:['CPFL', 'tier4', 'MAVRG', 'autowarefoundation', 'tsukubachallenge']:tier4
+tranvansang:none:['tier4']:none
+ahmeddesokyebrahim:none:['autowarefoundation']:leodrive
+m-zain-khawaja:none:['autowarefoundation']:none
+huckl3b3rry87:Honda:[]:none
+hunkyu:none:[]:none
+bupeshr:University of Tokyo:[]:none
+hasanzfdn:Autonoma inc.:['autowarefoundation', 'AeskAutonomous']:none
+hidechun:none:[]:none
+ahuazuipiaoliang:Pixmoving, Inc.:['pixmoving-moveit', 'autowarefoundation', 'pixmoving-auto']:none
+snehagn:none:[]:none
+santosh-sanku:none:['autowarefoundation']:none
+huiyi1990:none:[]:none
+WfHit:none:[]:none
+zhiwango:TIER IV:['tier4']:tier4
+bdholt1:Parkopedia:['scikit-learn']:none
+RuPingCen:重庆邮电大学-自动化学院:[]:none
+EfimiaPanagiotaki-StreetDrone:StreetDrone:[]:none
+DanielShihTier4:none:[]:none
+atanasko:none:[]:none
+kargarisaac:none:[]:none
+TimS120:none:[]:none
+SKT-r:none:['tier4']:none
+wsung1:none:[]:none
+yhisaki:TIER IV:['tier4', 'autowarefoundation']:tier4
+Motsu-san:TIER IV:['tier4', 'autowarefoundation']:tier4
+rxnew:none:['tier4']:tier4
+taisa1:The University of Tokyo:['tier4']:none
+Gatsby23:SJTU:[]:none
+nabetetsu:none:[]:tier4
+farukbaykara:none:['autowarefoundation']:none
+habby1012:none:[]:none
+Zhao-Qihao:CDUT  |  XJTU:[]:none
+Sharrrrk:@autocore-ai :['tier4', 'autowarefoundation']:autocore
+mbharatheesha:none:[]:none
+tushar-dadlani:none:[]:none
+allenchen8210:National Cheng Kung University:[]:none
+SaltUhey:none:[]:none
+HiroIshida:none:[]:none
+davutcanakbas:@robolaunch :['SUBU-AISET', 'robolaunch']:none
+TomohitoAndo:TIER IV, Inc:['CPFL', 'tier4', 'autowarefoundation']:tier4
+shtokuda:none:['tier4', 'autowarefoundation']:tier4
+RahulSundarMCW:none:['autowarefoundation']:none
+MTDzi:@Stellantis-ADX :[]:none
+k-hazama-esol:none:['tier4']:none
+danieltaciak:@Dynamics-Regensburg :['Dynamics-Regensburg']:none
+heweweh:none:[]:none
+beyzanurkaya:none:['autowarefoundation']:leodrive
+esteve:none:['apache', 'fluidinfo', 'ros', 'robotics-in-concert', 'CPFL', 'ros2', 'ros2-java', 'ros2-gbp', 'autowarefoundation', 'ros2-dotnet']:none
+taikitanaka3:Ⅳ:['tier4', 'autowarefoundation']:tier4
+jemmmel:@Futu-reADS:['Futu-reADS']:none
+zulfaqar-azmi-t4:TIER IV Inc:['tier4', 'autowarefoundation']:tier4
+YueChuCheng:none:[]:none
+sukoncon:none:[]:none
+v-nakayama7440-esol:none:[]:none
+emuemuJP:none:['tier4']:none
+caiyuexiang:autocore.ai:[]:autocore
+yn-mrse:TIER IV, Inc.:['CPFL', 'tier4', 'autowarefoundation']:tier4
+AkariNakano821:none:['tier4']:none
+simon-eisenmann-driveblocks:@driveblocks :['tier4', 'autowarefoundation']:none
+JesusAnaya:Aisle Planner Inc.:[]:none
+HongweiSunny:NIO AutonomousDriving:[]:none
+ChgygLin:none:[]:none
+hrjp:none:['KobeKosenRobotics', 'booars']:none
+hakuturu583:TIER Ⅳ.inc:['CPFL', 'ros2-gbp', 'tier4', 'OUXT-Polaris']:tier4
+dkoldaev:@tier4 :['tier4', 'autowarefoundation']:tier4
+kenji-miyake:none:[]:none
+v4hn:Universität Hamburg:['TAMS-Group', 'lunar-linux', 'ros-planning', 'ros-gbp', 'uos', 'PR2', 'ros2-gbp', 'ros-o']:none
+awf-autoware-bot:none:[]:none
+maximosipov:none:[]:none
+devang-marvania:none:['autowarefoundation']:none
+DeeKayG:University at Buffalo:[]:none
+linick-kang:none:['tier4', 'autowarefoundation']:tier4
+horverno:none:['szenergy', 'sze-info', 'jkk-research']:none
+bartek-kc:none:[]:none
+deepmeng:BeiHang University:[]:none
+SoohyeokPark-MORAI:none:[]:none
+PanConChicharron:none:['tier4', 'autowarefoundation']:tier4
+lionator:Hochschule Heilbronn:[]:none
+mehmetdogru:none:['tier4', 'autowarefoundation']:leodrive
+chris-tier4:none:['tier4']:tier4
+SakodaShintaro:none:['tier4', 'autowarefoundation']:tier4
+cyn-liu:none:['tier4', 'autowarefoundation']:autocore
+beginningfan:@autocore-ai:['autowarefoundation']:autocore
+KYabuuchi:TIER IV:['tier4', 'autowarefoundation']:tier4
+mitukou1109:The University of Tokyo:['tier4']:none
+ypicchi-arm:none:[]:none
+yucedagonurcan:ADASTEC Corp. @adastec :[]:none
+tby-udel:University of Delaware:[]:none
+syouji:none:['CPFL']:none
+amadeuszsz:@tier4:['ros2-gbp', 'tier4', 'autowarefoundation']:tier4
+gbiggs:none:['CPFL', 'ros2', 'osrf', 'moveit', 'aist-rslab', 'ros2-gbp']:none
+jspricke:none:['ros', 'PointCloudLibrary', 'OpenPerception', 'ros-planning', 'uos', 'f-droid', 'Etar-Group', 'ros-o']:none
+yk-fujii:none:['CPFL', 'tier4']:tier4
+TakaHoribe:@tier4 :['CPFL', 'tier4', 'autowarefoundation', 'Autoware-AI']:tier4
+harihitode:TIER IV, Inc.:['tier4']:tier4
+kasecato:LY:[]:none
+HaoruXue:UC Berkeley:['autowarefoundation', 'Triton-AI', 'DRIVE-LAB-CMU']:none
+tseco15:none:[]:none
+gchen2016:none:[]:none
+codecov-commenter:Codecov by Sentry:[]:none
+liuzf1988:none:[]:none
+TetsuKawa:TIER IV.inc:['tier4', 'autowarefoundation']:tier4
+boyali:none:[]:none
+andoh104:none:['tier4']:tier4
+LeoDriveProject:none:[]:none
+sadheedhumar:none:['Futu-reADS']:none
+travelbureau:University of Pennsylvania:['CPFL']:none
+yuki-takagi-66:none:['tier4', 'autowarefoundation']:tier4
+lilyildiz:Yıldız Techincal University:[]:none
+YoshiRi:none:['tier4', 'autowarefoundation']:tier4
+sujithvemi:none:['autowarefoundation']:none
+lhakim85:none:['autowarefoundation']:none
+kazuki0824:Panasonic Automotive:['OUXT-Polaris']:none
+francisvac:none:[]:none
+droneboxid:none:[]:none
+sarun-hub:none:['autowarefoundation']:none
+IshitaTakeshi:none:['autowarefoundation']:tier4
+kminoda:none:['autowarefoundation']:tier4
+aaryanmurgunde:none:[]:none
+taichiH:@sensefield :['tier4', 'autowarefoundation']:tier4
+MrRubyRed:none:['HJReachability']:none
+FranzAlbers:@rst-tu-dortmund :[]:none
+alexampa:none:[]:none
+RyuYamamoto:none:['tork-a', 'citbrains', 'open-rdc', 'ros-japan-users', 'tier4', 'autowarefoundation']:tier4
+ismetatabay:Istanbul Technical University:['tier4', 'autowarefoundation']:leodrive
+Tasaki-Lab:none:[]:none
+twbabyduck:none:[]:none
+asimonov-hitachi:none:[]:none
+beetleskin:none:[]:none
+MasatoTange:Axe, inc.:['CPFL']:none
+iwatake2222:none:['tier4']:tier4
+sfukuta:none:['tier4']:none
+susu3621:MiiVii:[]:none
+Hidenaga41:none:['sezakilab', 'tier4', 'autowarefoundation']:tier4
+messi49:TierIV:['CPFL', 'tier4']:tier4
+Jelvon:KIT:[]:none
+asei-proxima:none:['tier4']:none
+ubercool2:none:[]:none
+myoung34:none:[]:none
+takayuki5168:@tier4:['tier4', 'autowarefoundation']:tier4
+takanotaiga:TIER IV:['tier4', 'StrayedCats', 'SwiftAutoDrive', 'moriyalab']:tier4
+kuriking:none:['CPFL']:none
+Shin-kyoto:none:['tier4', 'autowarefoundation']:tier4
+tfnh621:Saitama Institute of Technology:['saikocar']:none
+wenrir:none:[]:none
+badai-nguyen:none:['tier4', 'autowarefoundation']:tier4
+TadaKazuto:none:['tier4']:tier4
+keita1523:none:['CPFL', 'tier4']:tier4
+AlexisTM:Aukmind SRL:['KeepThatSimple']:none
+badguy07:none:[]:none
+sykwer:TIER IV, Inc. / The University of Tokyo:['tier4', 'pflab-ut', 'autowarefoundation']:tier4
+zygfrydw:none:[]:none
+kazuki527:none:['autowarefoundation']:tier4
+xczhanjun:baidu usa :[]:none
+0x126:none:['tier4', 'autowarefoundation']:tier4
+storrrrrrrrm:@autocore-ai:['autowarefoundation']:autocore
+jacoblambert:none:['CPFL', 'tier4', 'autowarefoundation']:none
+armaganarsln:Leo Drive Teknoloji A.Ş.:['tier4', 'autowarefoundation']:leodrive
+nobuotakamasa:none:['tier4']:tier4
+rsasaki0109:none:['tier4', 'autowarefoundation']:none
+VRichardJP:Macnica:['autowarefoundation']:none
+sloretz:Intrinsic:['GitHubBounty', 'ros2-gbp']:none
+pronif:none:[]:none
+1222-takeshi:@tier4:['tier4', 'autowarefoundation']:tier4
+koenlek:none:[]:none
+al3x-jp:none:[]:none
+asa-naki:TIER IV:['tier4', 'autowarefoundation', 'KUAMSLab']:tier4
+kaz0227:Tier IV:['tier4']:tier4
+NilaySener:none:['autowarefoundation']:leodrive
+jokla:Medtronic:[]:none
+yamazakiTasuku:none:[]:none
+Soohyeok-Park:MORAI Inc.:[]:none
+ZahraBoroujeni:none:[]:none
+zjw77889:none:[]:none
+david-vay:none:[]:none
+katsuwoo:none:['tier4']:tier4
+manato:none:['CPFL', 'tier4', 'autowarefoundation']:tier4
+kurogane1031:none:[]:none
+jitrc:none:[]:none
+n-patiphon:none:['CPFL', 'MapIV', 'tier4', 'autowarefoundation']:none
+yukitsuji:Preferred Networks, Inc.:['CPFL']:none
+codecov:none:[]:none
+MertClk:none:['tier4', 'autowarefoundation']:leodrive
+sousou1:none:[]:none
+AbangLZU:none:[]:none
+kyoichi-sugahara:Tier IV:['tier4', 'autowarefoundation']:tier4
+palas21:@ITU-ZES-Solar-Car-Team :['autowarefoundation', 'ITU-ZES-Solar-Car-Team']:leodrive
+Mor-harry:reachauto:[]:none
+tekrajchhetri:Cambridge, Massachusetts:['dandi', 'CAIRNepal']:none
+isouf:none:[]:none
+sak-0822:none:[]:none
+idorobotics:none:['autowarefoundation', 'Autoware-AI']:leodrive
+senagolcuk:none:['autowarefoundation']:leodrive
+Eun0:none:[]:none
+130s:none:['ros', 'ros-visualization', 'ros-perception', 'ros-planning', 'ros-gbp', 'ros-drivers', 'RethinkRobotics', 'ros-industrial', 'ros2-gbp']:none
+pre-commit-ci:none:[]:none
+batuhanbeytekin:Robeff Technology:['autowarefoundation', 'AeskAutonomous']:leodrive
+hiro-ya-iv:none:['CPFL']:none
+soblin:@tier4:['ros2-gbp', 'tier4', 'autowarefoundation']:tier4
+YoshihiroMichishita-PT:none:['tier4']:none
+MarcoCecotti:Cranfield University:[]:none
+mergify:none:[]:none
+ogrex:none:['tier4', 'autowarefoundation']:tier4
+piotr-zyskowski-rai:Robotec.ai:['tier4', 'autowarefoundation']:none
+mhmdrz-mirdamadi:smart-mining.iut.ac.ir:[]:none
+swiftfile:none:['kyutechilab', 'Kansai-SpringRobocon', 'ForteFibre']:none
+eratostennis:TIER IV, Inc. Ex DeNA:['CPFL', 'tier4', 'autowarefoundation']:tier4
+Kazunori-Nakajima:none:['tier4', 'autowarefoundation']:tier4
+TranHuuNhatHuy:Tokyo Institute of Technology:['autowarefoundation', 'MetaCL']:none
+fixposition-support:@fixposition :[]:none
+saihideyasu:none:[]:none
+HansOersted:none:[]:none
+saka1-s:none:['tier4']:tier4
+chishengshih:National Taiwan University:['SystemProgrammingatNTU', 'tier4', 'autowarefoundation']:none
+Tomoya-Sato:Map IV, Inc.:['CPFL', 'tier4']:none
+wgcv:none:['githubfieldday']:none
+HansRobo:TIER IV:['cpprefjp', 'naist-robotics', 'ros2-gbp', 'tier4', 'autowarefoundation', 'choreonoid', 'ibis-ssl', 'Kansai-SpringRobocon', 'ForteFibre', 'robosemi', 'cross-progress']:tier4
+MouriNaruto:Day: @QieTV / Night: @Chuyu-Team @M2Team / Offline: @BluesLu1997:['Chuyu-Team', 'M2Team', 'msmvps', 'ProjectMile', 'qietv', 'ChaosAIOfficial', 'SherryPlatform', 'MobilityOS']:none
+yvzksgl:none:['autowarefoundation']:leodrive
+yamacir-kit:TIER IV, Inc.:['Nishida-Lab', 'agrirobo', 'tier4']:tier4
+YossyTaka:TIER IV:['tier4']:tier4
+rorypeck:none:[]:none
+kondoh2:none:['CPFL']:none
+mebasoglu:none:['tier4', 'autowarefoundation', 'AeskAutonomous']:leodrive
+lchojnack:@RobotecAI :['tier4', 'autowarefoundation']:none
+mingrutar:none:[]:none
+javcursor:none:[]:none
+nishikawa-masaki:none:['tier4', 'autowarefoundation']:tier4
+urasakikeisuke:none:['tier4', 'autowarefoundation']:none
+mouryaraj:none:[]:none
+kosuke55:@tier4:['tier4', 'autowarefoundation']:tier4
+DeniseJames:Self Employed:[]:none
+takam5f2:TIER IV, inc.:[]:tier4
+tohmae:Arent Inc.:[]:none
+santosh-interplai:none:[]:none
+pawellech1:none:['tier4']:none
+lucasjinreal:Google:[]:none
+NorahXiong:@autocore-ai:['autowarefoundation']:autocore
+wobuzhuchele:none:[]:none
+prakash-kannaiah:Edutech India Private Limited:['autowarefoundation']:none
+4swinv:none:[]:none
+mertyavuz41:Adastec:[]:none
+chihungtzeng:none:['tier4']:none
+filiperinaldi:none:['autowarefoundation']:none
+stevenbrills:none:[]:none
+LukePhairatt:none:['Hackathon-ppavp']:none
+zzhh00:none:[]:none
+mojomex:Tier IV:['tier4', 'autowarefoundation']:tier4
+yuntianyi-chen:University of California, Irvine:[]:none
+haoliliang:none:[]:none
+oscarlimhk:none:[]:none
+mktk1117:none:[]:none
+marcusvinicius178:none:[]:none
+purewater0901:University of California, Berkeley:['autowarefoundation']:tier4
+ytakano:none:['SF-TAP', '7senses', 'tier4']:none
+primenumber:none:['tier4', 'kuso-domains']:tier4
+xianglunkai:none:[]:none
+tleyden:Indie Hacker (formerly Databricks):[]:none
+s-azumi:TIER IV:['CPFL', 'tier4', 'autowarefoundation']:tier4
+lanhaigit:none:[]:none
+YuqiHuai:UC Irvine:[]:none
+sasakisasaki:none:['tier4', 'autowarefoundation']:tier4
+shaoniandujianyiqingqiu:none:[]:none
+luca-fancellu:none:[]:none
+sumanth-nirmal:none:['CPFL']:none
+nisshan-x:none:['tier4', 'autowarefoundation']:tier4
+brkay54:Planning & Control @ Leo Drive:['autowarefoundation']:leodrive
+ito-san:@tier4:['tier4', 'autowarefoundation']:tier4
+yuasabe:none:['tier4', 'autowarefoundation']:tier4
+ajay1606:University of Minnesota:[]:none
+brianabrams:@ReliableCarriers :[]:none
+marcelq11:none:[]:none
+tkimura4:Japan:['tier4', 'autowarefoundation']:tier4
+KCCS-Aikawa:none:[]:none
+ahmedius2:The University of Kansas:[]:none
+Hyeongseok-Jeon:none:['autowarefoundation']:none
+dskkato:none:[]:none
+xmba15:none:[]:none
+mkquda:none:['tier4', 'autowarefoundation']:tier4
+Try110:西南科技大学:[]:none
+yukage-oya:none:['tier4']:tier4
+felixf4xu:none:[]:none
+meliketanrikulu:none:['autowarefoundation']:leodrive
+scepter914:TIER IV, Inc:['tier4', 'autowarefoundation']:tier4
+jdclzl:none:[]:none
+hadiTab:none:[]:none
+angry-crab:none:['autowarefoundation']:tier4
+ompugao:Nanyang Technological University:['scramble-ssl']:none

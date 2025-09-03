@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"g-ise","name":"Gakuki Ise","company":"TIER IV","id":"MDQ6VXNlcjUzMTY4MjEz","organizations":{"nodes":[]}}}}

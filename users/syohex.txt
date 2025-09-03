@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"syohex","name":"Shohei YOSHIDA","company":null,"id":"MDQ6VXNlcjU1NDI4MQ==","organizations":{"nodes":[{"login":"emacs-jp","name":"Emacs JP"},{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

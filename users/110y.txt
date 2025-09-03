@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"110y","name":"Yuki Ito","company":null,"id":"MDQ6VXNlcjIxMzQxOTY=","organizations":{"nodes":[{"login":"kauche","name":"KAUCHE"},{"login":"newmo-oss","name":"newmo.tech"}]}}}}

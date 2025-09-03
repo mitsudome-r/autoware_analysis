@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"veqcc","name":"Ryuta Kambe","company":"TIER IV","id":"MDQ6VXNlcjI2OTUxNTYy","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"Goda-Research-Group","name":"Goda-Research-Group"},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

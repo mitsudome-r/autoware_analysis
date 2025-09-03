@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"FabioSpano","name":"Fabio Spanò","company":"Google","id":"MDQ6VXNlcjQwNTQ4NjU1","organizations":{"nodes":[]}}}}

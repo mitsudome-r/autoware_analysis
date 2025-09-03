@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yuki-takagi-66","name":"Yuki TAKAGI","company":null,"id":"U_kgDOCG-1ZQ","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

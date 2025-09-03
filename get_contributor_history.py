@@ -15,7 +15,8 @@ code_contributors_per_day = {}
 community_contributors_per_day = {}
 autoware_contributors_per_day = {}
 
-start_date = datetime.datetime(2022, 1, 1)
+# start_date = datetime.datetime(2022, 1, 1)
+start_date = datetime.datetime(2015, 1, 1)
 end_date = datetime.datetime.today()
 
 def date_range(start, stop, step = datetime.timedelta(1)):
@@ -119,6 +120,17 @@ getContributors("generated_json/autoware_common_issues.json", community_contribu
 getContributors("generated_json/autoware_msgs_issues.json", community_contributors)
 getContributors("generated_json/autoware_launch_issues.json", community_contributors)
 getContributors("generated_json/autoware_documentation_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_common_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_planning_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_perception_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_messages_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_simulation_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_visualization_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_drivers_issues.json", community_contributors)
+getContributors("generated_json/autoware_ai_utilities_issues.json", community_contributors)
+getContributors("generated_json/autoware_privately_owned_vehicles_issues.json", community_contributors)
+
 
 getContributors("generated_json/autoware_prs.json", code_contributors)
 getContributors("generated_json/universe_prs.json", code_contributors)
@@ -127,6 +139,15 @@ getContributors("generated_json/autoware_common_prs.json", code_contributors)
 getContributors("generated_json/autoware_msgs_prs.json", code_contributors)
 getContributors("generated_json/autoware_launch_prs.json", code_contributors)
 getContributors("generated_json/autoware_documentation_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_common_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_planning_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_perception_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_messages_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_utilities_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_simulation_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_visualization_prs.json", code_contributors)
+getContributors("generated_json/autoware_ai_drivers_prs.json", code_contributors)
+getContributors("generated_json/autoware_privately_owned_vehicles_prs.json", code_contributors)
 
 ## merge two dict
 autoware_contributors = community_contributors.copy()

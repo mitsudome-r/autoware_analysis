@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"keiota","name":"keisuke","company":null,"id":"MDQ6VXNlcjMxMDg4NzQ0","organizations":{"nodes":[]}}}}

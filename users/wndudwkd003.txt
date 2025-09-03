@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"wndudwkd003","name":"KimJuYoung","company":null,"id":"MDQ6VXNlcjUyNDk1Nzcz","organizations":{"nodes":[{"login":"GNU-AIS","name":"GNU-AIS"},{"login":"Lab-TeamProjects","name":"Lab-TeamProjects"},{"login":"ICARUS-Coding-Club","name":"ICARUS-Coding-Club"},{"login":"Bojogae","name":"Bojogae"},{"login":"cse-master-project","name":"cse-master-project"}]}}}}

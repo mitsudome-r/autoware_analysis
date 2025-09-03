@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"autonomtech","name":"MECHATNOM TEKNOLOJİ YAZILIM SANAYİ TİCARET ANONİM ŞİRKETİ","company":"@mechatnom","id":"MDQ6VXNlcjYwMTc1NTk1","organizations":{"nodes":[]}}}}

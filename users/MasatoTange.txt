@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"MasatoTange","name":"Masato Tange","company":"Axe, inc.","id":"MDQ6VXNlcjIwNjkyOTk5","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

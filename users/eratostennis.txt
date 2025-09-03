@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"eratostennis","name":"Eiji Sekiya","company":"TIER IV, Inc. Ex DeNA","id":"MDQ6VXNlcjQ0MzQ5MTE=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

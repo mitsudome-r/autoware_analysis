@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"tekrajchhetri","name":"Tek Raj Chhetri","company":"Cambridge, Massachusetts","id":"MDQ6VXNlcjUyMjUxMDIy","organizations":{"nodes":[{"login":"dandi","name":"DANDI: Distributed Archives for Neurophysiology Data Integration"},{"login":"CAIRNepal","name":"CAIR-Nepal: Center for Artificial Intelligence (AI) Research Nepal"}]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kitsukawa","name":"Yuki Kitsukawa","company":null,"id":"MDQ6VXNlcjQzMTgxNTM=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

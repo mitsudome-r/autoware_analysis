@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"wentasah","name":"Michal Sojka","company":"Czech Technical University in Prague","id":"MDQ6VXNlcjE0MDU0Mg==","organizations":{"nodes":[{"login":"CTU-IIG","name":"Industrial Informatics Research Center"}]}}}}

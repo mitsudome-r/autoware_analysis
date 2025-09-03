@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Hidenaga41","name":"Hidenaga Ushijima","company":null,"id":"MDQ6VXNlcjM0NDY2NDAz","organizations":{"nodes":[{"login":"sezakilab","name":"sezakilab"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

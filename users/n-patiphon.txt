@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"n-patiphon","name":"Patiphon Narksri","company":null,"id":"MDQ6VXNlcjIzNjUxNTYw","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

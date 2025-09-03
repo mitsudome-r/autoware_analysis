@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"jokla","name":"Giovanni Claudio","company":"Medtronic","id":"MDQ6VXNlcjY1MjYwNTA=","organizations":{"nodes":[]}}}}

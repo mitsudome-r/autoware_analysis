@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"shintaro-mori","name":null,"company":null,"id":"MDQ6VXNlcjQwNzYxMTY1","organizations":{"nodes":[]}}}}

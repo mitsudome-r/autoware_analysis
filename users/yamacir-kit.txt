@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yamacir-kit","name":"Tatsuya Yamasaki","company":"TIER IV, Inc.","id":"MDQ6VXNlcjEwMTQwMzA2","organizations":{"nodes":[{"login":"Nishida-Lab","name":"Nishida Lab"},{"login":"agrirobo","name":"ARC"},{"login":"tier4","name":"TIER IV, Inc."}]}}}}

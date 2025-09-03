@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"k0suke-murakami","name":"Kosuke Murakami","company":null,"id":"MDQ6VXNlcjEwOTIwODgx","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

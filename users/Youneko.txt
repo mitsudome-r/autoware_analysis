@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Youneko","name":"Yoshifumi Hayashi","company":"Tier IV, Inc.","id":"MDQ6VXNlcjgxNzc2NzY=","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

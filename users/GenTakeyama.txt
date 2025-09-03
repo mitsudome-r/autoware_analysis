@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"GenTakeyama","name":null,"company":null,"id":"MDQ6VXNlcjM4NjQ2NDMz","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

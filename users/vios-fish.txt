@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"vios-fish","name":"Makoto Tokunaga","company":"@tier4 ","id":"MDQ6VXNlcjcyMzU4NTE=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"uchidalab","name":"九州大学 ヒューマンインタフェース研究室"},{"login":"tier4","name":"TIER IV, Inc."}]}}}}

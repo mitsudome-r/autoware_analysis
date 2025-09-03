@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"ibrahimsel","name":"Sel","company":"Eteration","id":"MDQ6VXNlcjYzNjQ5MjIy","organizations":{"nodes":[]}}}}

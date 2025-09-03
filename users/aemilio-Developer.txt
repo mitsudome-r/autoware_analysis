@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"aemilio-Developer","name":"Emilio Amato","company":"Università degli Studi di Salerno","id":"U_kgDOBwlZSg","organizations":{"nodes":[]}}}}

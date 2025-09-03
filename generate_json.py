@@ -336,3 +336,21 @@ repository="autoware_ai_common"
 autoware_ai_common_prs += getContributors(script, cursor_script, contributor_type, repository)
 dumpJson(autoware_ai_common_prs, "autoware_ai_common_prs.json")
 
+## autoware_privately_owned_vehicles
+autoware_privately_owned_vehicles_issues = []
+cursor_script="get_first_issue.sh"
+script="query_issues.sh"
+contributor_type="issues"
+repository="autoware.privately-owned-vehicles"
+autoware_privately_owned_vehicles_issues += getContributors(script, cursor_script, contributor_type, repository)
+contributors += autoware_privately_owned_vehicles_issues
+dumpJson(autoware_privately_owned_vehicles_issues, "autoware_privately_owned_vehicles_issues.json")
+
+autoware_privately_owned_vehicles_prs = []
+cursor_script="get_first_pr.sh"
+script="query_prs.sh"
+contributor_type="pullRequests"
+repository="autoware.privately-owned-vehicles"
+autoware_privately_owned_vehicles_prs += getContributors(script, cursor_script, contributor_type, repository)
+contributors += autoware_privately_owned_vehicles_prs
+dumpJson(autoware_privately_owned_vehicles_prs, "autoware_privately_owned_vehicles_prs.json")

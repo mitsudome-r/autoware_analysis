@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"DennyKuo0809","name":"DennyKuo","company":null,"id":"MDQ6VXNlcjQ1MzQzOTQ5","organizations":{"nodes":[]}}}}

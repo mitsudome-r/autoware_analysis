@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"manato","name":"Manato Hirabayashi","company":null,"id":"MDQ6VXNlcjMwMjI0MTY=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

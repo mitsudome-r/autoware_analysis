@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"s-azumi","name":"Azumi Suzuki","company":"TIER IV","id":"MDQ6VXNlcjM4MDYxNTMw","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

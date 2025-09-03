@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"takayuki5168","name":"Takayuki Murooka","company":"@tier4","id":"MDQ6VXNlcjIwMjI4MzI3","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

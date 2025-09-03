@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Sharrrrk","name":"Shark","company":"@autocore-ai ","id":"MDQ6VXNlcjcxNDE5Nzkx","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

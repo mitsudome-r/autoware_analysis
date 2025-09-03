@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yukitsuji","name":"Yuki Tsuji","company":"Preferred Networks, Inc.","id":"MDQ6VXNlcjk1MTM3MTI=","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

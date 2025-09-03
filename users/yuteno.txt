@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"yuteno","name":"Yosuke Ueno","company":null,"id":"MDQ6VXNlcjI1ODExMDE2","organizations":{"nodes":[]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"mitukou1109","name":"Mitsuhiro Sakamoto","company":"The University of Tokyo","id":"MDQ6VXNlcjUwMzU5ODYx","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

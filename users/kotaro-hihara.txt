@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kotaro-hihara","name":null,"company":null,"id":"U_kgDOCjs27A","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

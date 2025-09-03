@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"hasanzfdn","name":"Hasan Özfidan","company":"Autonoma inc.","id":"MDQ6VXNlcjY5MzgzMjk0","organizations":{"nodes":[{"login":"autowarefoundation","name":"The Autoware Foundation"},{"login":"AeskAutonomous","name":"AeskAutonomous"}]}}}}

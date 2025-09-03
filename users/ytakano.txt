@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"ytakano","name":"ytakano","company":null,"id":"MDQ6VXNlcjI5NjA4","organizations":{"nodes":[{"login":"SF-TAP","name":"SF-TAP"},{"login":"7senses","name":"セブンセンシズ"},{"login":"tier4","name":"TIER IV, Inc."}]}}}}

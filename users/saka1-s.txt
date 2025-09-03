@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"saka1-s","name":"Shohei Sakai","company":null,"id":"MDQ6VXNlcjE5MjI0NTMy","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

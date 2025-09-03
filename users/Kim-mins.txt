@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Kim-mins","name":"Kim Min-su","company":null,"id":"MDQ6VXNlcjUwMjY3Nzk3","organizations":{"nodes":[{"login":"kupl","name":"Software Analysis Lab. @ Korea University"}]}}}}

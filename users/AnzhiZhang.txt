@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"AnzhiZhang","name":"Andy Zhang","company":null,"id":"MDQ6VXNlcjM3NDAyMTI2","organizations":{"nodes":[{"login":"MCDReforged","name":"MCDReforged"},{"login":"Dubhe-Studio","name":"天枢开发组"},{"login":"BSR-Server","name":"BSRServer"},{"login":"ShaBaiTianCN","name":"安逸汉化组"}]}}}}

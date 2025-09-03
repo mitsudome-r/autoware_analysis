@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kobayu858","name":"Yutaro Kobayashi","company":null,"id":"U_kgDOB7k8qg","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

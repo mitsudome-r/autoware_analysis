@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"YujiroKanamori","name":"YujiroKanamori","company":null,"id":"U_kgDOB7s4uA","organizations":{"nodes":[]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"SakodaShintaro","name":"SakodaShintaro","company":null,"id":"MDQ6VXNlcjI4NTA0MDY5","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

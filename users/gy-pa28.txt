@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"gy-pa28","name":"Yusuke Goto","company":null,"id":"U_kgDOCVo5SQ","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

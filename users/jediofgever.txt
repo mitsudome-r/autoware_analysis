@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"jediofgever","name":"Fetullah Atas ","company":null,"id":"MDQ6VXNlcjE4NDYwMzM2","organizations":{"nodes":[{"login":"BerfAI","name":"BerfAI"}]}}}}

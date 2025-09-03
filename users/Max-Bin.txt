@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Max-Bin","name":"Bingo","company":null,"id":"MDQ6VXNlcjIwMjk2Mzg0","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."}]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"chishengshih","name":"Chi-Sheng (Daniel) Shih","company":"National Taiwan University","id":"MDQ6VXNlcjEwOTc4ODQ=","organizations":{"nodes":[{"login":"SystemProgrammingatNTU","name":"System Programming Design (Fall 2018) at NTU"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

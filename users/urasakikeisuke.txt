@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"urasakikeisuke","name":null,"company":null,"id":"MDQ6VXNlcjc5NDY5NzM5","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

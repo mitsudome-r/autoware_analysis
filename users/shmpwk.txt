@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"shmpwk","name":"Shumpei Wakabayashi","company":"@tier4","id":"MDQ6VXNlcjQyMjA5MTQ0","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

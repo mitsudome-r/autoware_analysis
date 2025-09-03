@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"0x126","name":"Shinnosuke Hirakawa","company":null,"id":"MDQ6VXNlcjgzMjcxNjI=","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

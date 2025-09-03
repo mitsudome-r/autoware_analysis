@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"drwnz","name":"David Wong","company":"TIER IV, Nagoya University","id":"MDQ6VXNlcjMzMTE0Njc2","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"},{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

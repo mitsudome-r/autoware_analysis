@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"lilyildiz","name":null,"company":"Yıldız Techincal University","id":"MDQ6VXNlcjcwMzc5OTk0","organizations":{"nodes":[]}}}}

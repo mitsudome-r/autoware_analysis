@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"patham9","name":"Patrick Hammer","company":null,"id":"MDQ6VXNlcjgyODQ2Nzc=","organizations":{"nodes":[{"login":"opennars","name":"OpenNARS"},{"login":"NARS-team","name":"NARS Team"}]}}}}

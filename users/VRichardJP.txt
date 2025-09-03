@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"VRichardJP","name":"Vincent Richard","company":"Macnica","id":"MDQ6VXNlcjE4NjQ1NjI3","organizations":{"nodes":[{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

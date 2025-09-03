@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"TakumiKozaka-T4","name":null,"company":null,"id":"MDQ6VXNlcjcwMjYwNDQy","organizations":{"nodes":[]}}}}

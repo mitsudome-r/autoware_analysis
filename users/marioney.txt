@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"marioney","name":"Mario Garzon","company":null,"id":"MDQ6VXNlcjUxOTgyMjM=","organizations":{"nodes":[{"login":"rosin-project","name":"ROSIN"},{"login":"tud-cor","name":"TU Delft Cognitive Robotics"}]}}}}

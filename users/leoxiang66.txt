@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"leoxiang66","name":"Leo","company":null,"id":"MDQ6VXNlcjQ2MzQ4OTAx","organizations":{"nodes":[{"login":"NLP-Guild","name":"NLP-Guild"},{"login":"TUM-NLPLab-2022","name":"NLP-Lab Group on Dialogue Generation at Technical University of Munich"},{"login":"memomind","name":"Memomind"}]}}}}

@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"sgk-000","name":"Shigeki Kobayashi","company":"GO Inc","id":"MDQ6VXNlcjMyODA4ODAy","organizations":{"nodes":[]}}}}

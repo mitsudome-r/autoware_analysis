@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"kk-inoue-esol","name":null,"company":null,"id":"MDQ6VXNlcjc2OTI1Mzgy","organizations":{"nodes":[]}}}}

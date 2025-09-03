@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"Ofurosuki","name":"Ryo Yoshida","company":"KeioRoboticsAssociation","id":"MDQ6VXNlcjg0Njc5MTI1","organizations":{"nodes":[]}}}}

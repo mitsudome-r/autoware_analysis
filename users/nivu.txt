@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"nivu","name":"Navaneeth Malingan","company":"@nunnarilabs @aicbe","id":"MDQ6VXNlcjEyNzc3NDg5","organizations":{"nodes":[{"login":"aitamilnadu","name":"AI Tamil Nadu"},{"login":"nunnarilabs","name":"Nunnari(நுண்ணறி) Labs"}]}}}}

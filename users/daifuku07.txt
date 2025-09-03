@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"daifuku07","name":"Daisuke Fukutomi","company":null,"id":"MDQ6VXNlcjEzMDU4NTA3","organizations":{"nodes":[{"login":"CPFL","name":"Computing Platforms Federated Labratory"}]}}}}

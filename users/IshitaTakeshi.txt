@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"IshitaTakeshi","name":"Takeshi Ishita","company":null,"id":"MDQ6VXNlcjE5NTU2Mjk=","organizations":{"nodes":[{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

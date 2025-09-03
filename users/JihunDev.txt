@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"JihunDev","name":"Ji-hun Kim","company":"SkyAutoNet","id":"MDQ6VXNlcjUxMzY5MDA=","organizations":{"nodes":[{"login":"Cusmos","name":"CUSMOS"},{"login":"Double-1","name":"Double-1"}]}}}}

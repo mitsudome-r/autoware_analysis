@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"masahiro-kubota","name":"Masahiro Kubota","company":null,"id":"MDQ6VXNlcjQyNjc5NTMw","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}

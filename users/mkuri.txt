@@ -1,0 +1,1 @@
+{"data":{"user":{"login":"mkuri","name":"Makoto Kurihara","company":"TIER IV","id":"MDQ6VXNlcjg3NjM1NQ==","organizations":{"nodes":[{"login":"tier4","name":"TIER IV, Inc."},{"login":"autowarefoundation","name":"The Autoware Foundation"}]}}}}
