@@ -8,6 +8,10 @@ query($cursor: String!, $repository: String!) {
       edges {
         cursor
         starredAt
+        node {
+          name
+          login
+        }
       }
     }
   }

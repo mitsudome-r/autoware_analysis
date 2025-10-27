@@ -40,16 +40,44 @@ def getStargazers(script, cursor_script, respository):
 
     return all_edges
 
+def getUsernames(stargazers):
+    usernames=set()
+    for edge in stargazers:
+        usernames.add(edge["node"]["login"])
+    return usernames
+
 def dumpJson(json_dict, file_name):
     with open("stars/" + file_name, 'w') as fp:
         json.dump(json_dict, fp, indent=2)
 
+def dumpUsernames(usernames, file_name):
+    with open("stars/" + file_name, 'w') as fp:
+        for username in usernames:
+            fp.write("%s\n" % username)
+
+repositories = [
+    "autoware",
+    "autoware_core",
+    "autoware_common",
+    "autoware_universe",
+    "autoware.privately-owned-vehicles",
+    "autoware_msgs",
+    "autoware_launch",
+    "autoware-documentation",
+    "autoware_ai_perception",
+    "autoware_core_universe_prototype"
+]
+
 ## autoware
+all_usernames=set()
+for repository in repositories:
+    stargazers = []
+    cursor_script="get_first_star.sh"
+    script="query_stars.sh"
+    stargazers += getStargazers(script, cursor_script, repository)
+    usernames = getUsernames(stargazers)
+    all_usernames.update(usernames)
+    dumpJson(stargazers, repository+"_stargazers.json")
+    dumpUsernames(usernames, repository+"_usernames.txt")
 
-stargazers = []
-cursor_script="get_first_star.sh"
-script="query_stars.sh"
-repository="autoware"
-stargazers += getStargazers(script, cursor_script, repository)
-dumpJson(stargazers, "stargazers.json")
-
+dumpUsernames(all_usernames, "usernames.txt")

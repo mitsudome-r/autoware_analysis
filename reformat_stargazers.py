@@ -23,6 +23,7 @@ def countStars(file):
             stars_per_day[day]+=1
 
     return stars_per_day
+
 def writeNamesToFile(stars, file_name):
     with open("stars/" + file_name, 'w') as fp:
         count = 0
@@ -32,6 +33,5 @@ def writeNamesToFile(stars, file_name):
             fp.write("%s\n" % line)
     print('Done')
 
-
-stars_per_day = countStars("stars/stargazers.json")
+stars_per_day = countStars("stars/autoware_stargazers.json")
 writeNamesToFile(stars_per_day, "counted_stars.csv")
