@@ -88,6 +88,22 @@ universe_prs += getContributors(json_file, contributor_type)
 contributors += universe_prs
 writeNamesToFile(universe_prs, "universe_prs.txt")
 
+## pov
+
+pov_issues = []
+contributor_type="issues"
+json_file="generated_json/pov_issues.json"
+pov_issues += getContributors(json_file, contributor_type)
+contributors += pov_issues
+writeNamesToFile(pov_issues, "pov_issues.txt")
+
+pov_prs = []
+contributor_type="pullRequests"
+json_file="generated_json/pov_prs.json"
+pov_prs += getContributors(json_file, contributor_type)
+contributors += pov_prs
+writeNamesToFile(pov_prs, "pov_prs.txt")
+
 ## autoware_core
 autoware_core_issues = []
 contributor_type="issues"
@@ -281,6 +297,7 @@ writeNamesToFile(autoware_ai_common_prs, "autoware_ai_common_prs.txt")
 autoware_code_contributors = autoware_prs \
                            + autoware_core_prs \
                            + universe_prs \
+                           + pov_prs \
                            + autoware_msgs_prs \
                            + autoware_common_prs \
                            + autoware_launch_prs \
@@ -288,6 +305,7 @@ autoware_code_contributors = autoware_prs \
 autoware_community_contributors = autoware_discussions \
                                 + autoware_issues \
                                 + universe_issues \
+                                + pov_issues \
                                 + autoware_msgs_issues \
                                 + autoware_common_issues \
                                 + autoware_launch_issues \

@@ -119,6 +119,7 @@ getContributors("generated_json/autoware_common_issues.json", community_contribu
 getContributors("generated_json/autoware_msgs_issues.json", community_contributors)
 getContributors("generated_json/autoware_launch_issues.json", community_contributors)
 getContributors("generated_json/autoware_documentation_issues.json", community_contributors)
+getContributors("generated_json/pov_issues.json", community_contributors)
 
 getContributors("generated_json/autoware_prs.json", code_contributors)
 getContributors("generated_json/universe_prs.json", code_contributors)
@@ -127,6 +128,7 @@ getContributors("generated_json/autoware_common_prs.json", code_contributors)
 getContributors("generated_json/autoware_msgs_prs.json", code_contributors)
 getContributors("generated_json/autoware_launch_prs.json", code_contributors)
 getContributors("generated_json/autoware_documentation_prs.json", code_contributors)
+getContributors("generated_json/pov_prs.json", code_contributors)
 
 ## merge two dict
 autoware_contributors = community_contributors.copy()

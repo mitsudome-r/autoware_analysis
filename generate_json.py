@@ -95,6 +95,27 @@ universe_prs += getContributors(script, cursor_script, contributor_type, reposit
 contributors += universe_prs
 dumpJson(universe_prs, "universe_prs.json")
 
+## PoV
+
+pov_issues = []
+cursor_script="get_first_issue.sh"
+script="query_issues.sh"
+contributor_type="issues"
+repository="autoware.privately-owned-vehicles"
+pov_issues += getContributors(script, cursor_script, contributor_type, repository)
+contributors += pov_issues
+dumpJson(pov_issues, "pov_issues.json")
+
+pov_prs = []
+cursor_script="get_first_pr.sh"
+script="query_prs.sh"
+contributor_type="pullRequests"
+repository="autoware.privately-owned-vehicles"
+pov_prs += getContributors(script, cursor_script, contributor_type, repository)
+contributors += pov_prs
+dumpJson(pov_prs, "pov_prs.json")
+
+
 ## autoware_core
 autoware_core_issues = []
 cursor_script="get_first_issue.sh"
