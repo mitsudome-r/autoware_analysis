@@ -44,8 +44,6 @@ def dumpJson(json_dict, file_name):
     with open("generated_json/" +file_name, 'w') as fp:
         json.dump(json_dict, fp, indent=2)
 
-contributors = []
-
 ## autoware
 repositories = [
     "autoware",
@@ -63,38 +61,7 @@ repositories = [
     "autoware-documentation",
     "autoware_tools",
     "autoware.privately-owned-vehicles",
-    "openadkit"
-]
-
-autoware_discussions = []
-cursor_script="get_first_discussion.sh"
-script="query_discussions.sh"
-contributor_type="discussions"
-repository="autoware"
-autoware_discussions += getContributors(script, cursor_script, contributor_type, repository)
-contributors += autoware_discussions
-dumpJson(autoware_discussions, "autoware_discussions.json")
-
-for repository in repositories:
-    issues = []
-    cursor_script="get_first_issue.sh"
-    script="query_issues.sh"
-    contributor_type="issues"
-    issues += getContributors(script, cursor_script, contributor_type, repository)
-    contributors += issues
-    dumpJson(issues, repository+"_issues.json")
-
-    pull_requests = []
-    cursor_script="get_first_pr.sh"
-    script="query_prs.sh"
-    contributor_type="pullRequests"
-    pull_requests += getContributors(script, cursor_script, contributor_type, repository)
-    contributors += pull_requests
-    dumpJson(pull_requests, repository+"_prs.json")
-
-## autoware_ai
-
-autoware_ai_repositories = [
+    "openadkit",
     "autoware_ai",
     "autoware_ai_perception",
     "autoware_ai_planning",
@@ -106,13 +73,20 @@ autoware_ai_repositories = [
     "autoware_ai_common"
 ]
 
-for repository in autoware_ai_repositories:
+autoware_discussions = []
+cursor_script="get_first_discussion.sh"
+script="query_discussions.sh"
+contributor_type="discussions"
+repository="autoware"
+autoware_discussions += getContributors(script, cursor_script, contributor_type, repository)
+dumpJson(autoware_discussions, "autoware_discussions.json")
+
+for repository in repositories:
     issues = []
     cursor_script="get_first_issue.sh"
     script="query_issues.sh"
     contributor_type="issues"
     issues += getContributors(script, cursor_script, contributor_type, repository)
-    contributors += issues
     dumpJson(issues, repository+"_issues.json")
 
     pull_requests = []
@@ -120,7 +94,4 @@ for repository in autoware_ai_repositories:
     script="query_prs.sh"
     contributor_type="pullRequests"
     pull_requests += getContributors(script, cursor_script, contributor_type, repository)
-    contributors += pull_requests
     dumpJson(pull_requests, repository+"_prs.json")
-
-
