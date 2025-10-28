@@ -113,7 +113,7 @@ autoware_contributors_per_day = {}
 
 getContributors("generated_json/autoware_discussions.json", community_contributors)
 getContributors("generated_json/autoware_issues.json", community_contributors)
-getContributors("generated_json/universe_issues.json", community_contributors)
+getContributors("generated_json/autoware_universe_issues.json", community_contributors)
 getContributors("generated_json/autoware_core_issues.json", community_contributors)
 getContributors("generated_json/autoware_common_issues.json", community_contributors)
 getContributors("generated_json/autoware_msgs_issues.json", community_contributors)
@@ -122,7 +122,7 @@ getContributors("generated_json/autoware_documentation_issues.json", community_c
 getContributors("generated_json/pov_issues.json", community_contributors)
 
 getContributors("generated_json/autoware_prs.json", code_contributors)
-getContributors("generated_json/universe_prs.json", code_contributors)
+getContributors("generated_json/autoware_universe_prs.json", code_contributors)
 getContributors("generated_json/autoware_core_prs.json", code_contributors)
 getContributors("generated_json/autoware_common_prs.json", code_contributors)
 getContributors("generated_json/autoware_msgs_prs.json", code_contributors)
