@@ -64,8 +64,26 @@ repositories = [
     "autoware_msgs",
     "autoware_launch",
     "autoware-documentation",
+    "autoware_tools",
+    "autoware_cmake",
+    "autoware_utils",
+    "autoware_lanelet2_extension",
+    "autoware_rviz_plugins",
+    "autoware_adapi_msgs",
+    "autoware_internal_msgs",
+    "openadkit"
+]
+
+autoware_ai_repositories = [
+    "autoware_ai",
     "autoware_ai_perception",
-    "autoware_core_universe_prototype"
+    "autoware_ai_planning",
+    "autoware_ai_messages",
+    "autoware_ai_simulation",
+    "autoware_ai_visualization",
+    "autoware_ai_drivers",
+    "autoware_ai_utilities",
+    "autoware_ai_common"
 ]
 
 ## autoware
@@ -80,4 +98,17 @@ for repository in repositories:
     dumpJson(stargazers, repository+"_stargazers.json")
     dumpUsernames(usernames, repository+"_usernames.txt")
 
+with_ai_usernames = all_usernames
+for repository in autoware_ai_repositories:
+    stargazers = []
+    cursor_script="get_first_star.sh"
+    script="query_stars.sh"
+    stargazers += getStargazers(script, cursor_script, repository)
+    usernames = getUsernames(stargazers)
+    with_ai_usernames.update(usernames)
+    dumpJson(stargazers, repository+"_stargazers.json")
+    dumpUsernames(usernames, repository+"_usernames.txt")
+
 dumpUsernames(all_usernames, "usernames.txt")
+
+dumpUsernames(with_ai_usernames, "with_ai_usernames.txt")
